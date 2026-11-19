@@ -1,0 +1,23 @@
+# Oferta de Perfiles – MTESS
+
+Propuesta de oferta de perfiles laborales que el Ministerio de Trabajo, Empleo y Seguridad Social (MTESS) presentará a las empresas, construida a partir de una cartera de currículums (CVs).
+
+## Estructura
+
+| Carpeta | Contenido |
+|---|---|
+| `datos/` | Base de datos **anonimizada** de candidatos y su diccionario de datos |
+| `analisis/` | Resultados del análisis: perfiles agregados, brechas, demanda del mercado |
+| `docs/` | Documento técnico y propuesta de oferta para empresas |
+| `scripts/` | Código para extraer y estructurar la información de los CVs |
+
+## Protección de datos personales
+
+Este repositorio es **público**. Solo contiene datos anonimizados: cada candidato se identifica con un código (`CAND-001`, `CAND-002`, …). Nombres, cédulas, teléfonos, correos, direcciones, fotos y fechas exactas de nacimiento quedan fuera y se guardan en un registro privado bajo custodia del MTESS (ver `.gitignore`).
+
+## Estado
+
+- [x] Estructura del repositorio y esquema de datos
+- [ ] Carga de CVs y construcción de la base
+- [ ] Análisis de recursos humanos y de mercado laboral
+- [ ] Documento técnico y propuesta de oferta

@@ -1,0 +1,5 @@
+# Datos personales identificables: NUNCA se suben a este repositorio público
+datos/privado/
+cvs_originales/
+*.env
+__pycache__/
