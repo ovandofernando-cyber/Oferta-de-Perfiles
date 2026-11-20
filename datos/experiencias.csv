@@ -1,1 +1,802 @@
 id_candidato,orden,cargo,codigo_ciuo,sector_ciiu,duracion_meses,tipo
+CAND-001,1,Jefa de Legales Corporativo,1219,J – Información y comunicación,17,Formal
+CAND-001,2,Asesora jurídica,2611,F – Construcción,5,Formal
+CAND-001,3,Gerente Jurídica de grupo empresarial (y Gerente interina de RR.HH.),1219,G – Comercio al por mayor y al por menor,96,Formal
+CAND-001,4,Abogada de estudio jurídico,2611,"M – Actividades profesionales, científicas y técnicas",24,Formal
+CAND-001,5,Asistente de gerencia y directorio,3343,,12,Formal
+CAND-001,6,Recepcionista y gestora,4226,"M – Actividades profesionales, científicas y técnicas",12,Formal
+CAND-001,7,Auxiliar judicial,3411,O – Administración pública y defensa,12,Pasantía
+CAND-002,1,Analista de Legales,2611,J – Información y comunicación,14,Formal
+CAND-002,2,Analista de Escrituraciones,2619,L – Actividades inmobiliarias,3,Formal
+CAND-002,3,Asistente de directorio / Back office de Legales,3343,K – Actividades financieras y de seguros,30,Formal
+CAND-002,4,Asistente Jurídico,3411,K – Actividades financieras y de seguros,3,Formal
+CAND-002,5,Asistente de directorio,3343,K – Actividades financieras y de seguros,7,Formal
+CAND-002,6,Voluntaria en construcción de viviendas sociales,,S – Otras actividades de servicios,,Voluntariado
+CAND-003,1,Encargado de gestión y monitoreo judicial,2611,K – Actividades financieras y de seguros,30,Formal
+CAND-003,2,Encargado de gestión y monitoreo judicial,2611,K – Actividades financieras y de seguros,85,Formal
+CAND-003,3,Auxiliar administrativo judicial,3411,K – Actividades financieras y de seguros,30,Formal
+CAND-003,4,Auxiliar de gestión de clientes,4312,K – Actividades financieras y de seguros,22,Formal
+CAND-003,5,Operador de call center,4222,N – Actividades de servicios administrativos y de apoyo,25,Formal
+CAND-003,6,Operario de molino de plásticos y depósito / preparación de pedidos,4321,C – Industrias manufactureras,19,Formal
+CAND-003,7,Vendedor,5223,G – Comercio al por mayor y al por menor,18,Formal
+CAND-004,1,Asistente de mesa de entrada,4110,K – Actividades financieras y de seguros,,Formal
+CAND-004,2,Ejecutiva de atención digital,4222,K – Actividades financieras y de seguros,,Formal
+CAND-004,3,Ayudante en prevención de riesgos laborales,3257,"M – Actividades profesionales, científicas y técnicas",,Formal
+CAND-004,4,Asesora comercial externa,3322,S – Otras actividades de servicios,4,Formal
+CAND-004,5,Agente de atención al cliente (call center),4222,N – Actividades de servicios administrativos y de apoyo,8,Formal
+CAND-004,6,Pasante,,,4,Pasantía
+CAND-005,1,Responsable de viáticos,3313,J – Información y comunicación,19,Formal
+CAND-005,2,Jefe de Patrimonio,1219,F – Construcción,72,Formal
+CAND-005,3,Administrador de departamento de maquinarias,3341,F – Construcción,60,Formal
+CAND-005,4,Administrador,3341,N – Actividades de servicios administrativos y de apoyo,12,Formal
+CAND-005,5,Auxiliar contable,4311,"M – Actividades profesionales, científicas y técnicas",12,Formal
+CAND-005,6,Supervisor de censistas y censista,4227,O – Administración pública y defensa,12,Formal
+CAND-006,1,Ejecutivo de experiencia del cliente en redes sociales,4222,N – Actividades de servicios administrativos y de apoyo,29,Formal
+CAND-006,2,Ejecutivo de experiencia digital (banca),4222,N – Actividades de servicios administrativos y de apoyo,4,Formal
+CAND-006,3,Asesor comercial de telemarketing / atención omnicanal,5244,G – Comercio al por mayor y al por menor,9,Formal
+CAND-006,4,Asesor y mentor de canal digital y telefónico,4222,N – Actividades de servicios administrativos y de apoyo,11,Formal
+CAND-006,5,Asistente general administrativo,4110,G – Comercio al por mayor y al por menor,50,Formal
+CAND-007,1,Encargada de nómina y talento humano,2423,N – Actividades de servicios administrativos y de apoyo,11,Formal
+CAND-007,2,Responsable administrativa de viáticos,3313,K – Actividades financieras y de seguros,,Formal
+CAND-007,3,Analista administrativa-financiera,3313,C – Industrias manufactureras,,Formal
+CAND-007,4,Analista de cuentas corrientes,4311,P – Enseñanza,24,Formal
+CAND-007,5,Secretaria administrativa de cobranzas,4120,P – Enseñanza,36,Formal
+CAND-008,1,Analista contable,2411,K – Actividades financieras y de seguros,,Formal
+CAND-008,2,Analista contable,2411,K – Actividades financieras y de seguros,,Formal
+CAND-008,3,Analista de banca electrónica,3312,K – Actividades financieras y de seguros,40,Formal
+CAND-008,4,Soporte comercial / analista de créditos,3312,K – Actividades financieras y de seguros,35,Formal
+CAND-008,5,"Cajero, tesorero y soporte operativo de sucursal",4211,K – Actividades financieras y de seguros,72,Formal
+CAND-008,6,Oficial multiproductos,3312,K – Actividades financieras y de seguros,11,Formal
+CAND-009,1,Analista de control de calidad,2421,J – Información y comunicación,13,Formal
+CAND-009,2,Asistente de control interno,3313,L – Actividades inmobiliarias,21,Formal
+CAND-009,3,Analista de cumplimiento LD/FT,2413,K – Actividades financieras y de seguros,15,Formal
+CAND-009,4,Funcionaria de remuneraciones y control,4313,O – Administración pública y defensa,6,Formal
+CAND-009,5,"Asistente de tesorería, logística y ventas",4110,G – Comercio al por mayor y al por menor,10,Formal
+CAND-010,1,Analista de control de calidad,2421,J – Información y comunicación,17,Formal
+CAND-010,2,Analista de operaciones (custodia y valores),4312,K – Actividades financieras y de seguros,31,Formal
+CAND-010,3,Auxiliar de logística de valores,4312,K – Actividades financieras y de seguros,27,Formal
+CAND-010,4,Auxiliar de tesorería,4311,K – Actividades financieras y de seguros,23,Formal
+CAND-010,5,Verificador de créditos (área de riesgos),3312,K – Actividades financieras y de seguros,16,Formal
+CAND-010,6,Asesor de ventas y ejecutivo de créditos,3312,K – Actividades financieras y de seguros,7,Formal
+CAND-011,1,Analista senior de créditos de consumo,2413,K – Actividades financieras y de seguros,44,Formal
+CAND-011,2,Jefe de Riesgos,1346,K – Actividades financieras y de seguros,52,Formal
+CAND-011,3,Agente comercial bancario,3322,K – Actividades financieras y de seguros,37,Formal
+CAND-011,4,Asistente comercial bancario,4312,K – Actividades financieras y de seguros,10,Formal
+CAND-012,1,Analista de Compliance – Gobernanza,2413,K – Actividades financieras y de seguros,23,Formal
+CAND-012,2,Back office comercial de banca corporativa,3312,K – Actividades financieras y de seguros,36,Formal
+CAND-012,3,Analista de cumplimiento,2413,K – Actividades financieras y de seguros,6,Formal
+CAND-012,4,Back office de gerencia comercial,4312,K – Actividades financieras y de seguros,10,Formal
+CAND-012,5,Auxiliar contable,4311,,3,Formal
+CAND-012,6,Voluntario en organizaciones sociales,,S – Otras actividades de servicios,,Voluntariado
+CAND-013,1,Analista de cumplimiento senior PLAFT,2413,J – Información y comunicación,,Formal
+CAND-013,2,Oficial de cumplimiento PLAFT,2413,,,Formal
+CAND-013,3,Oficial de cumplimiento PLAFT,2413,K – Actividades financieras y de seguros,12,Formal
+CAND-013,4,Analista de cumplimiento senior PLAFT,2413,K – Actividades financieras y de seguros,24,Formal
+CAND-013,5,Analista de cumplimiento PLAFT,2413,K – Actividades financieras y de seguros,36,Formal
+CAND-013,6,Ejecutivo de cuentas / Analista de operaciones (medios de pago),3312,K – Actividades financieras y de seguros,24,Formal
+CAND-014,1,Analista de custodia,4312,K – Actividades financieras y de seguros,29,Formal
+CAND-014,2,Auxiliar de custodia,4415,K – Actividades financieras y de seguros,19,Formal
+CAND-014,3,Auxiliar de atención al cliente y archivo,4415,N – Actividades de servicios administrativos y de apoyo,70,Formal
+CAND-015,1,Analista de datos,2511,J – Información y comunicación,17,Formal
+CAND-015,2,Asistente de proyectos de transformación digital,2421,"M – Actividades profesionales, científicas y técnicas",9,Formal
+CAND-015,3,Analista de economía,2631,"M – Actividades profesionales, científicas y técnicas",13,Formal
+CAND-015,4,Analista de datos (contrato temporal),2511,"M – Actividades profesionales, científicas y técnicas",4,Formal
+CAND-015,5,Profesor de inglés,2353,P – Enseñanza,10,Formal
+CAND-015,6,Aprendiz de electricidad,7411,F – Construcción,3,Formal
+CAND-015,7,Supervisor de turno / técnico de dispositivos,7422,G – Comercio al por mayor y al por menor,7,Formal
+CAND-015,8,Supervisor de local gastronómico,5151,I – Alojamiento y servicio de comidas,13,Formal
+CAND-016,1,Analista de desarrollo (formación tecnológica e innovación),2424,J – Información y comunicación,10,Formal
+CAND-016,2,Docente de inglés,2353,P – Enseñanza,,Formal
+CAND-016,3,Asistente académica – área comercial y administrativa,3341,J – Información y comunicación,48,Formal
+CAND-016,4,Profesora de inglés,2353,P – Enseñanza,,Formal
+CAND-016,5,Secretaria administrativa y académica,4120,P – Enseñanza,24,Formal
+CAND-017,1,Analista de fraudes,2413,K – Actividades financieras y de seguros,28,Formal
+CAND-017,2,Ejecutivo de experiencia especializado (soporte digital de segunda línea),3512,K – Actividades financieras y de seguros,9,Formal
+CAND-017,3,Asesor de ventas / cajero,5230,G – Comercio al por mayor y al por menor,,Formal
+CAND-018,1,Analista de proyectos y mejora continua,2421,N – Actividades de servicios administrativos y de apoyo,4,Formal
+CAND-018,2,Analista de monitoreo y calidad de atención,4222,N – Actividades de servicios administrativos y de apoyo,24,Formal
+CAND-018,3,Ejecutivo de experiencia en redes sociales,4222,N – Actividades de servicios administrativos y de apoyo,4,Formal
+CAND-018,4,Ejecutivo de experiencia digital,4222,N – Actividades de servicios administrativos y de apoyo,9,Formal
+CAND-018,5,Agente de atención al cliente (call center),4222,N – Actividades de servicios administrativos y de apoyo,20,Formal
+CAND-018,6,Operario de producción,8131,C – Industrias manufactureras,12,Formal
+CAND-018,7,Ayudante de producción,9329,C – Industrias manufactureras,8,Formal
+CAND-019,1,Analista de nómina,4313,J – Información y comunicación,8,Formal
+CAND-019,2,Analista de desarrollo organizacional,2424,,,Formal
+CAND-019,3,Analista de compensaciones y beneficios,2423,,21,Formal
+CAND-019,4,Analista administrativo de RR.HH.,4416,G – Comercio al por mayor y al por menor,15,Formal
+CAND-019,5,Auxiliar administrativo,4110,N – Actividades de servicios administrativos y de apoyo,10,Formal
+CAND-019,6,Asesor telefónico de atención al cliente bancario,4222,N – Actividades de servicios administrativos y de apoyo,8,Formal
+CAND-019,7,Asesor telefónico de atención al cliente,4222,N – Actividades de servicios administrativos y de apoyo,13,Formal
+CAND-019,8,Pasante de control técnico audiovisual,3521,J – Información y comunicación,,Pasantía
+CAND-020,1,Analista de prevención de fraudes,2413,N – Actividades de servicios administrativos y de apoyo,24,Formal
+CAND-020,2,Ejecutiva de experiencia digital,4222,N – Actividades de servicios administrativos y de apoyo,5,Formal
+CAND-020,3,Asesora de atención de tarjeta de débito,4222,N – Actividades de servicios administrativos y de apoyo,23,Formal
+CAND-020,4,Asesora telefónica de atención bancaria,4222,N – Actividades de servicios administrativos y de apoyo,7,Formal
+CAND-021,1,Analista de procesamiento emisor (tarjetas),4312,K – Actividades financieras y de seguros,19,Formal
+CAND-021,2,Analista de procesamiento emisor,4312,K – Actividades financieras y de seguros,2,Formal
+CAND-021,3,Analista de servicio al cliente (entidades y comercios),4222,K – Actividades financieras y de seguros,13,Formal
+CAND-021,4,Agente de telemarketing,5244,,6,Formal
+CAND-021,5,Encargada de local y caja,5222,G – Comercio al por mayor y al por menor,5,Formal
+CAND-021,6,Atención al cliente y caja,5230,G – Comercio al por mayor y al por menor,,Formal
+CAND-022,1,Analista de productos activos,4312,K – Actividades financieras y de seguros,,Formal
+CAND-022,2,Ejecutivo de experiencia (atención digital bancaria),4222,N – Actividades de servicios administrativos y de apoyo,,Formal
+CAND-022,3,Asistente administrativo,4110,H – Transporte y almacenamiento,,Formal
+CAND-022,4,Pasante administrativo,4110,K – Actividades financieras y de seguros,,Pasantía
+CAND-023,1,Analista senior de selección,2423,N – Actividades de servicios administrativos y de apoyo,6,Formal
+CAND-023,2,Encargado de talento humano,2423,C – Industrias manufactureras,6,Formal
+CAND-023,3,Analista de recursos humanos,2423,C – Industrias manufactureras,13,Formal
+CAND-023,4,Analista de recursos humanos,2423,G – Comercio al por mayor y al por menor,18,Formal
+CAND-023,5,Analista de bienestar y comunicación interna,2423,,8,Formal
+CAND-023,6,"Asistente ejecutivo de RR.HH., DO y directorio",3343,P – Enseñanza,14,Formal
+CAND-023,7,Asistente de centro de empleabilidad y DO,3333,P – Enseñanza,27,Formal
+CAND-023,8,Asesor de admisiones,4229,P – Enseñanza,12,Formal
+CAND-023,9,Gestor de cobranzas,4214,G – Comercio al por mayor y al por menor,24,Formal
+CAND-023,10,Auxiliar de compras y tesorería,4311,"R – Actividades artísticas, de entretenimiento y recreativas",7,Formal
+CAND-023,11,Auxiliar de compras (supply chain),4323,J – Información y comunicación,3,Formal
+CAND-023,12,Gestor de beneficios corporativos (RR.HH.),4416,J – Información y comunicación,19,Formal
+CAND-023,13,Líder de atención al cliente,4222,J – Información y comunicación,3,Formal
+CAND-023,14,Atención al cliente personalizada,4222,J – Información y comunicación,24,Formal
+CAND-023,15,Asesor comercial,5242,J – Información y comunicación,8,Formal
+CAND-024,1,Ingeniera de software,2512,J – Información y comunicación,23,Formal
+CAND-024,2,Analista de sistemas senior – soporte post-fusión de core bancario,2511,K – Actividades financieras y de seguros,6,Formal
+CAND-024,3,Analista de sistemas senior / especialista en core bancario,2511,K – Actividades financieras y de seguros,207,Formal
+CAND-024,4,Auxiliar de workflow e informática,3512,K – Actividades financieras y de seguros,4,Formal
+CAND-025,1,Analista de tesorería,2413,K – Actividades financieras y de seguros,28,Formal
+CAND-025,2,"Auxiliar de tesorería, caja y bóveda de sucursal",4211,K – Actividades financieras y de seguros,86,Formal
+CAND-025,3,Guardaparque voluntario y voluntariado ambiental,,S – Otras actividades de servicios,,Voluntariado
+CAND-026,1,Analista desarrollador senior,2512,J – Información y comunicación,60,Formal
+CAND-026,2,Analista desarrollador senior,2512,K – Actividades financieras y de seguros,12,Formal
+CAND-026,3,Analista desarrollador,2512,K – Actividades financieras y de seguros,72,Formal
+CAND-026,4,Analista programador,2514,J – Información y comunicación,36,Formal
+CAND-026,5,Encargado de vía pública (publicidad),4110,"M – Actividades profesionales, científicas y técnicas",3,Formal
+CAND-026,6,Encargado de depósito de insumos y reclamos,4321,G – Comercio al por mayor y al por menor,12,Formal
+CAND-026,7,Técnico de computadoras y ventas,7422,G – Comercio al por mayor y al por menor,12,Formal
+CAND-027,1,Analista junior de legales,3411,J – Información y comunicación,,Formal
+CAND-027,2,Paralegal / asistente jurídica,3411,"M – Actividades profesionales, científicas y técnicas",60,Formal
+CAND-027,3,Orientadora legal y mediadora (ad honorem),3411,O – Administración pública y defensa,,Voluntariado
+CAND-027,4,Pasante en representación diplomática,,O – Administración pública y defensa,,Pasantía
+CAND-027,5,Pasante curricular de análisis de datos,,"D – Suministro de electricidad, gas, vapor y aire acondicionado",,Pasantía
+CAND-028,1,Analista QA Automation (squad de medios de pago - tarjetas de crédito),2519,J – Información y comunicación,50,Formal
+CAND-028,2,Analista QA,2519,K – Actividades financieras y de seguros,21,Formal
+CAND-028,3,Técnico de soporte informático,3512,K – Actividades financieras y de seguros,46,Formal
+CAND-028,4,Técnico de asistencia técnica informática,3512,,12,Formal
+CAND-028,5,Encargado de TI,3512,O – Administración pública y defensa; planes de seguridad social de afiliación obligatoria,84,Formal
+CAND-029,1,Analista Semi Senior de Operaciones (transferencias),4312,K – Actividades financieras y de seguros,10,Formal
+CAND-029,2,Cajera bancaria,4211,K – Actividades financieras y de seguros,14,Formal
+CAND-029,3,Cajera bancaria,4211,K – Actividades financieras y de seguros,16,Formal
+CAND-029,4,Cajera administrativa,5230,,12,Formal
+CAND-029,5,Cajera / Recepcionista,4226,,16,Formal
+CAND-029,6,Pasante área comercial bancaria,4110,K – Actividades financieras y de seguros,,Pasantía
+CAND-030,1,Analista Semi Senior de Productos Activos,4312,K – Actividades financieras y de seguros,23,Formal
+CAND-030,2,Analista de Calidad de atención,3359,N – Actividades de servicios administrativos y de apoyo,5,Formal
+CAND-030,3,Ejecutivo de atención al cliente (productos financieros),4222,N – Actividades de servicios administrativos y de apoyo,5,Formal
+CAND-030,4,Analista de Monitoreo y Gestión de Calidad,3359,N – Actividades de servicios administrativos y de apoyo,16,Formal
+CAND-030,5,Ejecutivo de atención al cliente,4222,N – Actividades de servicios administrativos y de apoyo,8,Formal
+CAND-031,1,Analista Senior de Cumplimiento (PLA/FT),2413,K – Actividades financieras y de seguros,17,Formal
+CAND-031,2,Asesora inmobiliaria,3334,L – Actividades inmobiliarias,23,Independiente
+CAND-031,3,Administradora independiente,3341,N – Actividades de servicios administrativos y de apoyo,32,Independiente
+CAND-031,4,Analista Senior de Cumplimiento (PLA/FT),2413,K – Actividades financieras y de seguros,26,Formal
+CAND-031,5,Analista Senior de Cumplimiento (PLA/FT),2413,K – Actividades financieras y de seguros,79,Formal
+CAND-031,6,Analista Senior de Cumplimiento (PLA/FT),2413,K – Actividades financieras y de seguros,104,Formal
+CAND-032,1,Analista Senior de Cumplimiento,2413,K – Actividades financieras y de seguros,17,Formal
+CAND-032,2,Analista de Cumplimiento,2413,K – Actividades financieras y de seguros,12,Formal
+CAND-032,3,Analista de Cumplimiento,2413,K – Actividades financieras y de seguros,36,Formal
+CAND-032,4,Oficial de Captaciones,3312,K – Actividades financieras y de seguros,24,Formal
+CAND-032,5,Back Office Comercial,4312,K – Actividades financieras y de seguros,48,Formal
+CAND-033,1,Analista Senior de Operaciones (medios de pago),4312,K – Actividades financieras y de seguros,22,Formal
+CAND-033,2,Soporte Operativo bancario,4312,K – Actividades financieras y de seguros,31,Formal
+CAND-033,3,Aprendiz de Atención al Cliente,4222,K – Actividades financieras y de seguros,4,Pasantía
+CAND-034,1,Analista Senior de Performance y Planificación Operativa,2421,J – Información y comunicación,6,Formal
+CAND-034,2,Analista de plataforma comercial (tercerizada),3512,G – Comercio al por mayor y al por menor,15,Formal
+CAND-034,3,Especialista en comisiones de seguros,4312,K – Actividades financieras y de seguros,12,Formal
+CAND-034,4,Asociada de servicios de Recursos Humanos,4416,N – Actividades de servicios administrativos y de apoyo,12,Formal
+CAND-034,5,Asociada de Riesgo y Calidad,4110,"M – Actividades profesionales, científicas y técnicas",12,Formal
+CAND-034,6,Auxiliar de Cobranzas,4311,J – Información y comunicación,12,Formal
+CAND-035,1,Analista Senior de Escrituraciones,2611,K – Actividades financieras y de seguros,,Formal
+CAND-035,2,Analista Jurídico,2611,K – Actividades financieras y de seguros,60,Formal
+CAND-035,3,Analista Jurídico,2611,K – Actividades financieras y de seguros,24,Formal
+CAND-035,4,,,,,Formal
+CAND-035,5,Funcionario de juzgado civil y comercial,3411,O – Administración pública y defensa; planes de seguridad social de afiliación obligatoria,12,Formal
+CAND-035,6,,,"M – Actividades profesionales, científicas y técnicas",12,Formal
+CAND-035,7,,,"M – Actividades profesionales, científicas y técnicas",12,Formal
+CAND-036,1,Analista Semi Senior de Operaciones (transferencias y pagos),4312,K – Actividades financieras y de seguros,13,Formal
+CAND-036,2,Ejecutivo de atención al cliente bancario,4222,K – Actividades financieras y de seguros,17,Formal
+CAND-036,3,Atención al cliente y caja,5230,I – Alojamiento y servicios de comidas,11,Formal
+CAND-036,4,Ejecutivo de call center y redes sociales,4222,N – Actividades de servicios administrativos y de apoyo,7,Formal
+CAND-036,5,Auxiliar administrativo y ventas,4110,G – Comercio al por mayor y al por menor,36,Formal
+CAND-037,1,Asesor contable y tributario externo,3313,"M – Actividades profesionales, científicas y técnicas",5,Independiente
+CAND-037,2,Analista de Contabilidad,3313,G – Comercio al por mayor y al por menor,24,Formal
+CAND-037,3,Analista de Créditos,3312,G – Comercio al por mayor y al por menor,10,Formal
+CAND-037,4,Asistente de Titulación,4110,P – Enseñanza,7,Formal
+CAND-038,1,Asistente de operaciones ATM,4110,,,Formal
+CAND-038,2,Agente de registros de firma digital,4229,J – Información y comunicación,12,Formal
+CAND-038,3,Asistente de monitoreo ATM,4110,K – Actividades financieras y de seguros,12,Formal
+CAND-038,4,Rutero comercial y soporte POS,3322,K – Actividades financieras y de seguros,12,Formal
+CAND-038,5,Protocolizador y gestor de documentos notariales,3411,"M – Actividades profesionales, científicas y técnicas",,Formal
+CAND-039,1,Ejecutivo de Experiencia del Cliente (banca),4222,K – Actividades financieras y de seguros,6,Formal
+CAND-039,2,Auxiliar Administrativo,4110,C – Industrias manufactureras,19,Formal
+CAND-039,3,Mozo,5131,I – Alojamiento y servicios de comidas,3,Formal
+CAND-039,4,Vendedor de salón,5223,G – Comercio al por mayor y al por menor,9,Formal
+CAND-040,1,Atención al cliente (temporal),4229,L – Actividades inmobiliarias,,Formal
+CAND-040,2,Back office de onboarding digital (temporal),4312,K – Actividades financieras y de seguros,,Formal
+CAND-040,3,Back office - Programador de eventos en plataforma digital,4132,J – Información y comunicación,,Formal
+CAND-041,1,Soporte de monitoreo de pedidos (plataforma de delivery),4323,J – Información y comunicación,,Formal
+CAND-041,2,Coordinadora de soporte de onboarding (plataforma de movilidad),4222,J – Información y comunicación,,Formal
+CAND-041,3,Atención al cliente vía WhatsApp y área comercial (e-commerce),4222,G – Comercio al por mayor y al por menor,7,Formal
+CAND-041,4,Recepcionista de urgencias,4226,Q – Actividades de atención de la salud humana y de asistencia social,15,Formal
+CAND-041,5,Operadora de telecobranzas,4214,N – Actividades de servicios administrativos y de apoyo,3,Formal
+CAND-041,6,Pasante de atención al cliente,4222,"E – Suministro de agua; evacuación de aguas residuales, gestión de desechos y descontaminación",3,Pasantía
+CAND-042,1,Ejecutivo de Experiencia del Cliente (canal digital bancario),4222,N – Actividades de servicios administrativos y de apoyo,28,Formal
+CAND-042,2,Ejecutivo comercial de POS,3322,K – Actividades financieras y de seguros,,Formal
+CAND-042,3,Soporte y atención a comercios (procesadora de pagos),4222,K – Actividades financieras y de seguros,,Formal
+CAND-042,4,Administrativo de compras y facturación,4110,C – Industrias manufactureras,92,Formal
+CAND-042,5,Vendedor de telefonía móvil,5223,G – Comercio al por mayor y al por menor,118,Formal
+CAND-042,6,Auxiliar Administrativo,4110,O – Administración pública y defensa; planes de seguridad social de afiliación obligatoria,120,Formal
+CAND-043,1,Ejecutivo de atención al cliente VIP (canal digital y segunda línea bancaria),4222,N – Actividades de servicios administrativos y de apoyo,,Formal
+CAND-044,1,"Ejecutiva de Experiencia ROT (reclamos y fraude, banca)",4222,N – Actividades de servicios administrativos y de apoyo,14,Formal
+CAND-044,2,Ejecutiva de Experiencia Banca Empresas,4222,N – Actividades de servicios administrativos y de apoyo,17,Formal
+CAND-044,3,Ejecutiva de Experiencia Digital,4222,N – Actividades de servicios administrativos y de apoyo,4,Formal
+CAND-044,4,Agente autorizado de banco (gestión comercial y cartera),3322,K – Actividades financieras y de seguros,12,Formal
+CAND-045,1,Ejecutivo de Experiencia ROT (banca),4222,N – Actividades de servicios administrativos y de apoyo,,Formal
+CAND-045,2,Ejecutivo de prevención de fraude (banca),4222,N – Actividades de servicios administrativos y de apoyo,,Formal
+CAND-045,3,Ejecutivo de atención telefónica bancaria,4222,N – Actividades de servicios administrativos y de apoyo,,Formal
+CAND-045,4,Ejecutivo de atención telefónica bancaria,4222,N – Actividades de servicios administrativos y de apoyo,,Formal
+CAND-046,1,Atención al cliente bancario / Back office de reclamos,4222,K – Actividades financieras y de seguros,,Formal
+CAND-046,2,Back office (gestión de datos y devoluciones),4110,,,Formal
+CAND-046,3,Gestora de cobranzas,4214,,,Formal
+CAND-046,4,"Atención al cliente digital y cobranzas (banca, tercerizado)",4222,N – Actividades de servicios administrativos y de apoyo,24,Formal
+CAND-046,5,Atención al cliente (tercerizado),4222,N – Actividades de servicios administrativos y de apoyo,,Formal
+CAND-046,6,Televendedor/a,5244,,,Formal
+CAND-046,7,Atención al cliente y supervisión,4229,H – Transporte y almacenamiento,12,Formal
+CAND-047,1,Ejecutiva de atención al cliente y prevención de fraude (banca),4222,N – Actividades de servicios administrativos y de apoyo,13,Formal
+CAND-047,2,Community Manager,2431,G – Comercio al por mayor y al por menor,,Independiente
+CAND-047,3,"Operadora de call center (cobranza), auxiliar de control de caja y recepcionista",4214,,84,Formal
+CAND-047,4,Pasante administrativa,4226,K – Actividades financieras y de seguros,,Pasantía
+CAND-047,5,Atención al cliente (stand comercial),5223,G – Comercio al por mayor y al por menor,,Formal
+CAND-048,1,Ejecutiva de Experiencia en Redes Sociales (banca),4222,N – Actividades de servicios administrativos y de apoyo,,Formal
+CAND-048,2,Ejecutiva de Experiencia Digital (banca),4222,N – Actividades de servicios administrativos y de apoyo,12,Formal
+CAND-048,3,Asesora comercial personalizada (telecomunicaciones),5244,J – Información y comunicación,36,Formal
+CAND-048,4,Agente de cobranzas,4214,N – Actividades de servicios administrativos y de apoyo,24,Formal
+CAND-049,1,Ejecutivo de atención integral al cliente bancario,4222,N – Actividades de servicios administrativos y de apoyo,11,Formal
+CAND-049,2,Encargado de Importación y Logística,1324,C – Industrias manufactureras,168,Formal
+CAND-049,3,Encargado de Planta,1321,C – Industrias manufactureras,84,Formal
+CAND-049,4,Auxiliar del departamento contable e informática,4311,K – Actividades financieras y de seguros,132,Formal
+CAND-050,1,Auxiliar Administrativa (facturación y cobranzas),4311,H – Transporte y almacenamiento,19,Formal
+CAND-050,2,Auxiliar Contable,4311,H – Transporte y almacenamiento,5,Formal
+CAND-051,1,Auxiliar Administrativa,4110,Q – Actividades de atención de la salud humana y de asistencia social,,Formal
+CAND-051,2,Recepcionista,4226,Q – Actividades de atención de la salud humana y de asistencia social,,Formal
+CAND-051,3,Asistente (pasantía),4226,K – Actividades financieras y de seguros,,Pasantía
+CAND-052,1,Auxiliar Administrativa de operaciones de pagos (soporte a comercios),4312,K – Actividades financieras y de seguros,18,Formal
+CAND-052,2,Encargada de Post Venta,3341,G – Comercio al por mayor y al por menor,16,Formal
+CAND-052,3,Secretaria Administrativa,4120,,10,Formal
+CAND-052,4,Auxiliar de Control Interno,4311,,5,Formal
+CAND-052,5,Auxiliar Administrativa (coordinación de servicio técnico),4110,G – Comercio al por mayor y al por menor,12,Formal
+CAND-053,1,Ejecutiva de Experiencia - Operaciones de Fraude (banca),4222,N – Actividades de servicios administrativos y de apoyo,25,Formal
+CAND-053,2,Atención al cliente presencial bancaria,4222,K – Actividades financieras y de seguros,8,Formal
+CAND-053,3,Asesora de atención al cliente y televentas,5244,N – Actividades de servicios administrativos y de apoyo,24,Formal
+CAND-053,4,Cajera,5230,G – Comercio al por mayor y al por menor,12,Formal
+CAND-054,1,Analista de Impuestos,3313,J – Información y comunicación,,Formal
+CAND-054,2,Auxiliar Contable/Administrativa,4311,"M – Actividades profesionales, científicas y técnicas",36,Formal
+CAND-054,3,Auxiliar Contable,4311,"M – Actividades profesionales, científicas y técnicas",12,Formal
+CAND-055,1,Back Office de operaciones de crédito hipotecario,4312,K – Actividades financieras y de seguros,28,Formal
+CAND-055,2,Auxiliar de planta industrial (control de calidad y supervisión de producción),3122,C – Industrias manufactureras,22,Formal
+CAND-056,1,Ejecutivo de experiencia del cliente / Analista de riesgos y prevención de fraude (tercerizado),3315,K – Actividades financieras y de seguros,29,Formal
+CAND-056,2,Auxiliar de facturación,4311,H – Transporte y almacenamiento,12,Formal
+CAND-056,3,Digitalizador de documentos,4132,J – Información y comunicación,17,Formal
+CAND-057,1,Analista de negocio senior (BI y datos),2511,J – Información y comunicación,8,Formal
+CAND-057,2,Analista de datos pleno,2511,K – Actividades financieras y de seguros,14,Formal
+CAND-057,3,Analista de Data Warehouse y reporting,2511,J – Información y comunicación,46,Formal
+CAND-057,4,Especialista de TI,3512,U – Actividades de organizaciones y órganos extraterritoriales,20,Formal
+CAND-057,5,Analista de datos,2511,J – Información y comunicación,8,Formal
+CAND-057,6,Desarrolladora web,2513,J – Información y comunicación,9,Formal
+CAND-057,7,Administradora de plataforma y reporting,2522,ND,14,Formal
+CAND-057,8,Consultora asistente informática,3512,U – Actividades de organizaciones y órganos extraterritoriales,20,Formal
+CAND-058,1,Cajera / Barista / Auxiliar de barra,5132,I – Alojamiento y servicios de comida,31,Formal
+CAND-058,2,Mesera / Bartender,5131,I – Alojamiento y servicios de comida,10,Formal
+CAND-058,3,Moza de eventos y montaje de barra (servicio tercerizado),5131,I – Alojamiento y servicios de comida,20,Formal
+CAND-058,4,Vendedora telefónica,5244,G – Comercio al por mayor y al por menor,3,Formal
+CAND-058,5,Auxiliar de limpieza de oficinas (tiempo parcial),9112,N – Actividades de servicios administrativos y de apoyo,36,Formal
+CAND-059,1,Jefa de Calidad,1219,K – Actividades financieras y de seguros,8,Formal
+CAND-059,2,Coordinadora de Certificaciones (sistemas de gestión ISO),2421,J – Información y comunicación,26,Formal
+CAND-059,3,Coordinadora de Gestión de Calidad,2421,C – Industrias manufactureras,19,Formal
+CAND-059,4,Supervisora de Calidad y Reclamos,2421,C – Industrias manufactureras,18,Formal
+CAND-059,5,Analista del Sistema de Gestión de Calidad,2421,C – Industrias manufactureras,13,Formal
+CAND-059,6,Asistente del Sistema de Gestión de Calidad y Producción,3119,C – Industrias manufactureras,18,Formal
+CAND-060,1,Agente de call center,4222,N – Actividades de servicios administrativos y de apoyo,4,Formal
+CAND-060,2,Vendedora y asistente de marketing y distribución mayorista,5223,G – Comercio al por mayor y al por menor,60,Formal
+CAND-061,1,Analista de Cumplimiento,2422,J – Información y comunicación,13,Formal
+CAND-061,2,Ejecutiva de Compliance,2422,L – Actividades inmobiliarias,46,Formal
+CAND-061,3,Coordinadora gremial y de eventos,3332,S – Otras actividades de servicios,32,Formal
+CAND-062,1,Especialista en comunicación con clientes (Customer Communications),2432,K – Actividades financieras y de seguros,10,Formal
+CAND-062,2,Estratega de comunicación interna y editora de prensa,2432,K – Actividades financieras y de seguros,25,Formal
+CAND-062,3,Coordinadora digital de revista,2642,J – Información y comunicación,24,Formal
+CAND-062,4,Analista y redactora de economía y negocios,2642,J – Información y comunicación,48,Formal
+CAND-063,1,Oficial senior de comunicaciones corporativas,2432,K – Actividades financieras y de seguros,11,Formal
+CAND-063,2,Gerente de marketing y comunicación,1221,G – Comercio al por mayor y al por menor,24,Formal
+CAND-063,3,Encargado de comunicación y marketing,2432,S – Otras actividades de servicios,96,Formal
+CAND-063,4,Productor y coordinador de contenidos audiovisuales,2654,J – Información y comunicación,84,Formal
+CAND-063,5,Productor (enlace de producción internacional),2654,J – Información y comunicación,,Formal
+CAND-064,1,Analista contable,2411,J – Información y comunicación,22,Formal
+CAND-064,2,Contable (auditoría interna de cuentas y liquidación tributaria),2411,"E – Suministro de agua; evacuación de aguas residuales, gestión de desechos y descontaminación",48,Formal
+CAND-064,3,Asistente contable,3313,S – Otras actividades de servicios,60,Formal
+CAND-065,1,"Analista contable, administrativa y de control operativo",2411,ND,23,Formal
+CAND-065,2,Asesora contable,2411,"M – Actividades profesionales, científicas y técnicas",8,Formal
+CAND-065,3,Contadora general,2411,ND,13,Formal
+CAND-065,4,Encargada de contabilidad,2411,ND,30,Formal
+CAND-065,5,Analista contable,3313,"M – Actividades profesionales, científicas y técnicas",12,Formal
+CAND-066,1,Analista de infraestructura (mantenimiento de sedes),2421,K – Actividades financieras y de seguros,,Formal
+CAND-066,2,Administrativa contable y de recursos humanos,3313,G – Comercio al por mayor y al por menor,48,Formal
+CAND-066,3,Auxiliar contable,3313,"M – Actividades profesionales, científicas y técnicas",36,Formal
+CAND-066,4,Administrativa contable,3313,G – Comercio al por mayor y al por menor,24,Formal
+CAND-067,1,Controladora operativa de transferencias y monitoreo de ATM,3511,J – Información y comunicación,17,Formal
+CAND-067,2,Analista de disponibilidad (Uptime) de red ATM,3511,K – Actividades financieras y de seguros,21,Formal
+CAND-067,3,Asistente de gestión de terminales POS,4110,K – Actividades financieras y de seguros,22,Formal
+CAND-067,4,Asistente de centro de atención a comercios,4222,K – Actividades financieras y de seguros,10,Formal
+CAND-067,5,Representante de atención al cliente bancario (tercerizado),4222,K – Actividades financieras y de seguros,44,Formal
+CAND-068,1,Gestor/a de refinanciación y cobranzas,4214,J – Información y comunicación,17,Formal
+CAND-068,2,Líder de equipo de cobranzas,4214,K – Actividades financieras y de seguros,16,Formal
+CAND-068,3,Gestor/a de cobranzas,4214,K – Actividades financieras y de seguros,13,Formal
+CAND-068,4,Gestor/a de refinanciación y cobranzas,4214,K – Actividades financieras y de seguros,9,Formal
+CAND-068,5,Gestor/a de cobranza judicial,4214,N – Actividades de servicios administrativos y de apoyo,23,Formal
+CAND-068,6,Agente de atención al cliente y reclamos,4222,N – Actividades de servicios administrativos y de apoyo,73,Formal
+CAND-069,1,Coordinador de cuentas corrientes y cámara compensadora,3341,K – Actividades financieras y de seguros,38,Formal
+CAND-069,2,Back office de clearing,4312,K – Actividades financieras y de seguros,2,Formal
+CAND-069,3,Analista de cámara compensadora / respaldo de tesorería,4312,K – Actividades financieras y de seguros,91,Formal
+CAND-069,4,Supervisor / operador de clearing,4312,K – Actividades financieras y de seguros,60,Formal
+CAND-070,1,Especialista de organización y procesos,2421,J – Información y comunicación,6,Formal
+CAND-070,2,Coordinadora de procesos,2421,K – Actividades financieras y de seguros,15,Formal
+CAND-070,3,Analista de calidad y procesos,2421,K – Actividades financieras y de seguros,33,Formal
+CAND-070,4,Analista de procesos y mejoras,2421,ND,3,Formal
+CAND-070,5,Auxiliar de tesorería,4311,ND,29,Formal
+CAND-070,6,Cajera,5230,ND,18,Formal
+CAND-070,7,Cajera,5230,ND,30,Formal
+CAND-071,1,Coordinadora de capacitación y desarrollo,2424,J – Información y comunicación,21,Formal
+CAND-071,2,Analista de onboarding,2423,J – Información y comunicación,6,Formal
+CAND-071,3,Analista de desarrollo organizacional y selección,2423,F – Construcción,22,Formal
+CAND-071,4,Analista de desarrollo organizacional,2423,C – Industrias manufactureras,19,Formal
+CAND-072,1,Coordinadora de certificaciones (sistemas de gestión ISO),2421,J – Información y comunicación,22,Formal
+CAND-072,2,Analista de organización y procesos,2421,K – Actividades financieras y de seguros,13,Formal
+CAND-072,3,Analista de procesos,2421,G – Comercio al por mayor y al por menor,10,Formal
+CAND-072,4,Coordinadora del sistema de gestión de calidad,2421,C – Industrias manufactureras,31,Formal
+CAND-072,5,Asistente del sistema de gestión de calidad,3119,C – Industrias manufactureras,19,Formal
+CAND-073,1,Analista de cumplimiento (PLA/FT),2422,K – Actividades financieras y de seguros,29,Formal
+CAND-073,2,Auxiliar de cumplimiento (PLA/FT),4312,K – Actividades financieras y de seguros,20,Formal
+CAND-073,3,Auxiliar administrativo,4110,ND,,Formal
+CAND-073,4,Auxiliar administrativo,4110,S – Otras actividades de servicios,12,Formal
+CAND-074,1,Desarrollador backend Java,2512,J – Información y comunicación,28,Formal
+CAND-075,1,Desarrollador de software mobile (Flutter),2512,J – Información y comunicación,31,Formal
+CAND-075,2,Desarrollador de software,2512,P – Enseñanza,23,Formal
+CAND-075,3,Desarrollador auxiliar,2512,J – Información y comunicación,9,Formal
+CAND-075,4,Técnico de soporte informático,3512,P – Enseñanza,33,Formal
+CAND-076,1,Desarrollador frontend senior,2513,J – Información y comunicación,29,Formal
+CAND-076,2,Desarrollador frontend y full stack,2513,J – Información y comunicación,23,Independiente
+CAND-076,3,Desarrollador frontend,2513,"M – Actividades profesionales, científicas y técnicas",24,Formal
+CAND-076,4,Tech lead y desarrollador frontend,2513,J – Información y comunicación,29,Formal
+CAND-077,1,Ejecutiva de cuentas corporativas,3322,J – Información y comunicación,23,Formal
+CAND-077,2,Ejecutiva de cuentas B2B,3322,G – Comercio al por mayor y al por menor,9,Formal
+CAND-077,3,Ejecutiva comercial de canal digital,3322,K – Actividades financieras y de seguros,10,Formal
+CAND-077,4,Ejecutiva comercial de canal digital,3322,G – Comercio al por mayor y al por menor,15,Formal
+CAND-077,5,Técnica de laboratorio (industria alimenticia),3111,"M – Actividades profesionales, científicas y técnicas",23,Formal
+CAND-078,1,"Ejecutiva de experiencia del cliente (atención presencial bancaria, tercerizada)",4229,K – Actividades financieras y de seguros,34,Formal
+CAND-078,2,Secretaria administrativa de consultorio odontológico,4226,Q – Actividades de atención de la salud humana y de asistencia social,,Formal
+CAND-079,1,Ejecutiva de experiencia del cliente (tercerizada),4222,K – Actividades financieras y de seguros,28,Formal
+CAND-079,2,Vendedora de refuerzo,5223,G – Comercio al por mayor y al por menor,6,Formal
+CAND-079,3,Atención al cliente y ventas,5223,G – Comercio al por mayor y al por menor,11,Formal
+CAND-079,4,"Recepción y atención al socio (ahorro, tarjetas y caja)",4211,K – Actividades financieras y de seguros,10,Formal
+CAND-079,5,Auxiliar de contact center,4222,J – Información y comunicación,5,Formal
+CAND-079,6,Operadora y facilitadora de telecobranzas (tercerizada),4214,N – Actividades de servicios administrativos y de apoyo,9,Formal
+CAND-079,7,Cajera y atención al cliente,5230,J – Información y comunicación,3,Formal
+CAND-079,8,Atención al cliente (candy bar),5246,J – Información y comunicación,6,Formal
+CAND-079,9,Operadora de telecobranzas,4214,N – Actividades de servicios administrativos y de apoyo,5,Formal
+CAND-079,10,Vendedora y encargada de salón,5222,G – Comercio al por mayor y al por menor,6,Formal
+CAND-079,11,Atención al cliente y cobranzas (contact center),4222,N – Actividades de servicios administrativos y de apoyo,13,Formal
+CAND-079,12,Encuestadora y mystery shopper,4227,"M – Actividades profesionales, científicas y técnicas",12,Formal
+CAND-079,13,Vendedora de libros en eventos,5223,G – Comercio al por mayor y al por menor,11,Formal
+CAND-079,14,Vendedora de préstamos,3322,K – Actividades financieras y de seguros,6,Formal
+CAND-080,1,Ejecutiva de experiencia del cliente,4222,K – Actividades financieras y de seguros,,Formal
+CAND-080,2,Ejecutiva de planta (atención bancaria),4229,K – Actividades financieras y de seguros,30,Formal
+CAND-080,3,Auxiliar de contabilidad,4311,G – Comercio al por mayor y al por menor,4,Formal
+CAND-080,4,Atención al cliente,4229,S – Otras actividades de servicios,12,Formal
+CAND-081,1,Ejecutiva de experiencia / Anfitriona de atención al cliente bancario,4229,K – Actividades financieras y de seguros,,Formal
+CAND-081,2,Normalizadora de cartera,4214,K – Actividades financieras y de seguros,,Formal
+CAND-081,3,Asistente administrativa jurídica,3411,O – Administración pública y defensa; planes de seguridad social de afiliación obligatoria,,Formal
+CAND-081,4,Impulsadora de ventas y atención al cliente,5242,N – Actividades de servicios administrativos y de apoyo,,Formal
+CAND-081,5,Secretaria y procuradora jurídica,3411,"M – Actividades profesionales, científicas y técnicas",,Formal
+CAND-081,6,Asistente administrativa jurídica,3411,"M – Actividades profesionales, científicas y técnicas",,Formal
+CAND-082,1,Ejecutiva de operaciones bancarias (servicio tercerizado),4312,N – Actividades de servicios administrativos y de apoyo,26,Formal
+CAND-083,1,Ejecutiva digital de atención bancaria,4222,N – Actividades de servicios administrativos y de apoyo,20,Formal
+CAND-083,2,Auxiliar contable y administrativa,4311,"M – Actividades profesionales, científicas y técnicas",29,Formal
+CAND-083,3,Asesora comercial y de atención al cliente,5244,J – Información y comunicación,72,Formal
+CAND-084,1,Ejecutiva senior de atención bancaria,4229,K – Actividades financieras y de seguros,24,Formal
+CAND-084,2,Cajera,5230,G – Comercio al por mayor y al por menor,48,Formal
+CAND-084,3,Encargada de tienda y vendedora,5222,G – Comercio al por mayor y al por menor,48,Formal
+CAND-084,4,Encargada de tienda y vendedora,5222,G – Comercio al por mayor y al por menor,180,Formal
+CAND-085,1,Ejecutivo de banca privada,2412,K – Actividades financieras y de seguros,48,Formal
+CAND-085,2,Analista de back office de banca privada,4312,K – Actividades financieras y de seguros,7,Formal
+CAND-085,3,Auxiliar de back office comercial,4312,K – Actividades financieras y de seguros,12,Formal
+CAND-086,1,Ejecutivo de créditos hipotecarios,3312,K – Actividades financieras y de seguros,12,Formal
+CAND-086,2,Soporte comercial y community manager,2431,G – Comercio al por mayor y al por menor,48,Formal
+CAND-086,3,Asesor de ventas de relojería de alta gama,5223,G – Comercio al por mayor y al por menor,36,Formal
+CAND-086,4,Agente comercial,5244,J – Información y comunicación,12,Formal
+CAND-086,5,Agente comercial y telemarketing,5244,K – Actividades financieras y de seguros,12,Formal
+CAND-086,6,Ayudante administrativo de logística,4321,ND,12,Formal
+CAND-087,1,Ejecutivo de experiencia al cliente en servicios financieros,4222,N – Actividades de servicios administrativos y de apoyo,22,Formal
+CAND-087,2,Encargado de sucursal de cobros y pagos,4211,G – Comercio al por mayor y al por menor,24,Formal
+CAND-088,1,Ejecutivo de experiencia al cliente bancario (atención presencial),4229,N – Actividades de servicios administrativos y de apoyo,7,Formal
+CAND-088,2,Soporte bancario corporativo (atención y operaciones),4222,N – Actividades de servicios administrativos y de apoyo,30,Formal
+CAND-089,1,Ejecutivo de experiencia al cliente bancario,4229,N – Actividades de servicios administrativos y de apoyo,11,Formal
+CAND-089,2,Analista de datos de solicitudes de crédito,4312,N – Actividades de servicios administrativos y de apoyo,6,Formal
+CAND-089,3,Pasante de recursos humanos,4416,P – Enseñanza,12,Pasantía
+CAND-090,1,Ejecutiva de experiencia al cliente bancario (ATC),4222,N – Actividades de servicios administrativos y de apoyo,23,Formal
+CAND-090,2,Gestora de atención al cliente en sector salud,4222,N – Actividades de servicios administrativos y de apoyo,60,Formal
+CAND-090,3,Gestora de cobranzas,4214,N – Actividades de servicios administrativos y de apoyo,12,Formal
+CAND-091,1,Ejecutivo de prevención de fraude,4312,N – Actividades de servicios administrativos y de apoyo,30,Formal
+CAND-091,2,Ejecutivo digital de soporte urgente (reclamos de productos financieros),4222,N – Actividades de servicios administrativos y de apoyo,6,Formal
+CAND-091,3,Analista de control de calidad operativa,3119,N – Actividades de servicios administrativos y de apoyo,14,Formal
+CAND-091,4,Asesor de atención al cliente en telecomunicaciones,4222,J – Información y comunicación,31,Formal
+CAND-091,5,Cajero administrativo,4211,P – Enseñanza,34,Formal
+CAND-092,1,Ejecutivo de negocios bancario,3312,K – Actividades financieras y de seguros,41,Formal
+CAND-092,2,Asesor comercial bancario,3322,K – Actividades financieras y de seguros,84,Formal
+CAND-093,1,Ejecutivo operativo / tesorero de sucursal (cajero principal),4211,K – Actividades financieras y de seguros,34,Formal
+CAND-093,2,Operativo y cajero de financiera,4211,K – Actividades financieras y de seguros,12,Formal
+CAND-093,3,Oficial de cobranzas,4214,K – Actividades financieras y de seguros,12,Formal
+CAND-093,4,Back office de cobranzas (supervisión y reportes),4214,N – Actividades de servicios administrativos y de apoyo,24,Formal
+CAND-093,5,Atención al cliente y back office bancario (contact center),4222,N – Actividades de servicios administrativos y de apoyo,12,Formal
+CAND-093,6,Telemarketing y ventas de telefonía,5244,N – Actividades de servicios administrativos y de apoyo,12,Formal
+CAND-093,7,Auxiliar administrativo de trámites aduaneros,4110,H – Transporte y almacenamiento,36,Formal
+CAND-094,1,Encargada de recaudaciones,4312,ND,10,Formal
+CAND-094,2,Analista de tesorería,3313,ND,30,Formal
+CAND-094,3,Encargada de caja y atención al cliente,5230,G – Comercio al por mayor y al por menor,16,Formal
+CAND-094,4,Supervisora de caja,5230,G – Comercio al por mayor y al por menor,12,Formal
+CAND-094,5,Cajera,5230,G – Comercio al por mayor y al por menor,6,Formal
+CAND-094,6,Recepcionista y cobranza de servicios,4226,H – Transporte y almacenamiento,28,Formal
+CAND-095,1,Encargado administrativo y coordinador de mantenimiento,3341,J – Información y comunicación,19,Formal
+CAND-095,2,Encargado administrativo de infraestructura,3341,K – Actividades financieras y de seguros,6,Formal
+CAND-095,3,Encargado administrativo de infraestructura,3341,K – Actividades financieras y de seguros,62,Formal
+CAND-095,4,Auxiliar contable,4311,K – Actividades financieras y de seguros,11,Formal
+CAND-095,5,Auxiliar administrativo de infraestructura,4110,K – Actividades financieras y de seguros,141,Formal
+CAND-095,6,Auxiliar de archivo,4415,K – Actividades financieras y de seguros,5,Formal
+CAND-096,1,Especialista de organización y procesos,2421,J – Información y comunicación,5,Formal
+CAND-096,2,Analista de organización y procesos,2421,G – Comercio al por mayor y al por menor,7,Formal
+CAND-096,3,Analista de procesos,2421,K – Actividades financieras y de seguros,19,Formal
+CAND-096,4,Auditora externa,2411,"M – Actividades profesionales, científicas y técnicas",20,Formal
+CAND-096,5,Auxiliar contable y encargada de tarjetas,4311,G – Comercio al por mayor y al por menor,31,Formal
+CAND-097,1,Especialista en entrenamiento y desarrollo organizacional,2424,N – Actividades de servicios administrativos y de apoyo,33,Formal
+CAND-097,2,"Controller senior, analista GTR/workforce y asesor de atención al cliente (contact center)",3341,J – Información y comunicación,96,Formal
+CAND-098,1,Coordinadora de certificaciones y sistemas de gestión integrados,2421,J – Información y comunicación,30,Formal
+CAND-098,2,Coordinadora de calidad y experiencia al cliente,2421,ND,24,Formal
+CAND-098,3,Supervisora de producción y calidad,3122,C – Industrias manufactureras,41,Formal
+CAND-098,4,Asistente de calidad,3119,G – Comercio al por mayor y al por menor,19,Formal
+CAND-098,5,Operaciones digitales (redes sociales y medición de satisfacción),4222,N – Actividades de servicios administrativos y de apoyo,34,Formal
+CAND-099,1,Analista financiero,2413,K – Actividades financieras y de seguros,5,Formal
+CAND-099,2,Pasante analista de banca de inversión,2413,K – Actividades financieras y de seguros,4,Pasantía
+CAND-099,3,Consultor del equipo de inversiones,2413,U – Actividades de organizaciones y órganos extraterritoriales,3,Formal
+CAND-099,4,Asistente estudiantil de biblioteca,4411,P – Enseñanza,17,Formal
+CAND-100,1,Jefa administrativa y financiera,1211,H – Transporte y almacenamiento,2,Formal
+CAND-100,2,Analista administrativa y financiera de proyecto,2411,U – Actividades de organizaciones y órganos extraterritoriales,24,Formal
+CAND-100,3,Analista de investigación y desarrollo (rediseño de procesos de cobranza),2421,K – Actividades financieras y de seguros,4,Formal
+CAND-100,4,Supervisora de cuentas por cobrar (centro de servicios compartidos),3341,"M – Actividades profesionales, científicas y técnicas",16,Formal
+CAND-100,5,Analista senior de procesos y calidad,2421,"M – Actividades profesionales, científicas y técnicas",16,Formal
+CAND-100,6,Analista senior de cuentas por cobrar,3313,"M – Actividades profesionales, científicas y técnicas",23,Formal
+CAND-100,7,Analista de planeamiento financiero,2413,K – Actividades financieras y de seguros,39,Formal
+CAND-100,8,Asistente comercial de banca de personas,3312,K – Actividades financieras y de seguros,17,Formal
+CAND-100,9,Analista de comercio internacional,3331,C – Industrias manufactureras,18,Formal
+CAND-100,10,Asistente de adquisiciones,3323,C – Industrias manufactureras,12,Formal
+CAND-101,1,Gerente financiero,1211,J – Información y comunicación,8,Formal
+CAND-101,2,Gerente de planificación y control de gestión,1211,ND,17,Formal
+CAND-101,3,Gerente de pricing y reporting,1211,J – Información y comunicación,17,Formal
+CAND-101,4,Gerente comercial y de operaciones,1221,J – Información y comunicación,43,Formal
+CAND-101,5,Gerente de planificación y análisis financiero (FP&A),1211,J – Información y comunicación,48,Formal
+CAND-101,6,Analista de CAPEX e inteligencia de negocios,2413,J – Información y comunicación,39,Formal
+CAND-101,7,Asistente de oficial administrativo,4110,U – Actividades de organizaciones y órganos extraterritoriales,60,Formal
+CAND-103,1,Analista administrativo de onboarding de comercios,4312,K – Actividades financieras y de seguros,21,Formal
+CAND-103,2,Analista administrativo contable,3313,ND,11,Formal
+CAND-103,3,Auxiliar contable,4311,"M – Actividades profesionales, científicas y técnicas",23,Formal
+CAND-104,1,Gestión bancaria / servicio al cliente (registro previsional en empresas de servicios tercerizados),4229,N – Actividades de servicios administrativos y de apoyo,63,Formal
+CAND-105,1,Ejecutiva comercial bancaria,3312,K – Actividades financieras y de seguros,17,Formal
+CAND-105,2,Ejecutiva de atención al cliente bancario,4229,K – Actividades financieras y de seguros,13,Formal
+CAND-105,3,Oficial de cobranzas,4214,K – Actividades financieras y de seguros,3,Formal
+CAND-105,4,Oficial de cobranzas,4214,K – Actividades financieras y de seguros,4,Formal
+CAND-105,5,Agente de cobranzas y retención (remoto),4214,N – Actividades de servicios administrativos y de apoyo,5,Formal
+CAND-106,1,Ejecutivo de postventa y red comercial,3322,K – Actividades financieras y de seguros,28,Formal
+CAND-106,2,Analista operativo de pólizas de caución,4312,K – Actividades financieras y de seguros,12,Formal
+CAND-106,3,Analista de pólizas de caución,4312,K – Actividades financieras y de seguros,36,Formal
+CAND-106,4,Ejecutivo de cuentas corrientes,4312,K – Actividades financieras y de seguros,24,Formal
+CAND-107,1,Analista de impuestos,3313,J – Información y comunicación,21,Formal
+CAND-107,2,Administrativa,4110,ND,5,Formal
+CAND-107,3,Analista de contabilidad,3313,G – Comercio al por mayor y al por menor,37,Formal
+CAND-107,4,Recepcionista administrativa,4226,ND,4,Formal
+CAND-108,1,Ejecutiva de cuentas de marketplace,3322,J – Información y comunicación,8,Formal
+CAND-108,2,Atención al cliente y soporte operativo de marketplace,4222,J – Información y comunicación,7,Formal
+CAND-108,3,Agente de atención y soporte de envíos,4222,H – Transporte y almacenamiento,12,Formal
+CAND-108,4,Agente de contact center,4222,N – Actividades de servicios administrativos y de apoyo,16,Formal
+CAND-109,1,"Gerente de Ejecución, Operaciones y Logística",1324,H – Transporte y almacenamiento,13,Formal
+CAND-109,2,Gerente de Logística,1324,,12,Formal
+CAND-109,3,Gerente de Logística,1324,C – Industrias manufactureras,12,Formal
+CAND-109,4,Líder de Programas de Excelencia Logística,2421,C – Industrias manufactureras,24,Formal
+CAND-109,5,Gerente de Logística Regional,1324,C – Industrias manufactureras,24,Formal
+CAND-109,6,Jefa de Centro de Distribución,1324,C – Industrias manufactureras,12,Formal
+CAND-109,7,"Soporte de Gestión de Higiene, Seguridad y Medio Ambiente",3257,C – Industrias manufactureras,,Formal
+CAND-109,8,Oficial Administrativo bancario,4312,K – Actividades financieras y de seguros,24,Formal
+CAND-109,9,Cajera bancaria,4211,K – Actividades financieras y de seguros,36,Formal
+CAND-109,10,Auxiliar de Medios de Pago,4312,K – Actividades financieras y de seguros,12,Formal
+CAND-110,1,Coordinadora de Gestión de Infraestructura,1219,J – Información y comunicación,7,Formal
+CAND-110,2,Analista Administrativa,2421,J – Información y comunicación,10,Formal
+CAND-110,3,Analista de Datos,2521,L – Actividades inmobiliarias,4,Formal
+CAND-110,4,Analista de Operaciones,2421,L – Actividades inmobiliarias,7,Formal
+CAND-110,5,Analista de Back Office,4110,L – Actividades inmobiliarias,11,Formal
+CAND-110,6,Encargada de Finanzas e Importaciones,3331,,12,Formal
+CAND-110,7,Auxiliar de Auditoría,3313,"M – Actividades profesionales, científicas y técnicas",5,Formal
+CAND-110,8,Auxiliar de Operaciones y Atención al Cliente,4229,,10,Formal
+CAND-110,9,Auxiliar Administrativa,4110,,9,Formal
+CAND-110,10,Pasante curricular,,,2,Pasantía
+CAND-111,1,Especialista en crecimiento de startups,2421,J – Información y comunicación,10,Formal
+CAND-111,2,Consultora de mapeo de estándares (remoto),2421,S – Otras actividades de servicios,43,Independiente
+CAND-111,3,Consultora independiente en proyectos y mentora de PYMES,2421,"M – Actividades profesionales, científicas y técnicas",56,Independiente
+CAND-111,4,Gerente de Proyecto (coordinación técnica) de programa de cooperación,1219,S – Otras actividades de servicios,24,Formal
+CAND-111,5,"Asesora en desarrollo, gestión y monitoreo de proyectos",2421,S – Otras actividades de servicios,25,Formal
+CAND-111,6,"Consultora independiente, coach y mentora de startups y PYMES",2421,"M – Actividades profesionales, científicas y técnicas",19,Independiente
+CAND-111,7,Coordinadora de Riesgos y Finanzas,2413,"M – Actividades profesionales, científicas y técnicas",3,Formal
+CAND-111,8,Gerente de Proyecto (coordinación técnica) de programa de cooperación,1219,S – Otras actividades de servicios,15,Formal
+CAND-111,9,Oficial de Programa de fondo concursable,2421,,17,Formal
+CAND-111,10,Consultora de proyecto de ONG,2421,S – Otras actividades de servicios,7,Formal
+CAND-111,11,Consultora de proyecto de articulación productiva,2421,S – Otras actividades de servicios,3,Formal
+CAND-112,1,Analista de Innovación / Coordinadora Junior de programa de incubación,2421,J – Información y comunicación,12,Formal
+CAND-112,2,Asistente de Laboratorio STEAM,5312,P – Enseñanza,26,Formal
+CAND-112,3,Auxiliar de Investigación (medio tiempo),3141,P – Enseñanza,26,Formal
+CAND-112,4,Guía y Divulgadora Científica (medio tiempo),5113,"R – Actividades artísticas, de entretenimiento y recreativas",13,Formal
+CAND-113,1,Analista Junior de Contratos,3411,J – Información y comunicación,3,Formal
+CAND-113,2,Asistente de Secretaría General (gestión societaria),3342,J – Información y comunicación,17,Formal
+CAND-113,3,Asistente de Secretaría General (gestión societaria),3342,K – Actividades financieras y de seguros,4,Formal
+CAND-113,4,Asistente de Secretaría General (gestión societaria),3342,K – Actividades financieras y de seguros,5,Formal
+CAND-113,5,Asistente de Secretaría General,3342,K – Actividades financieras y de seguros,64,Formal
+CAND-113,6,Auxiliar de Garantías Reales,4312,K – Actividades financieras y de seguros,36,Formal
+CAND-114,1,Analista GTR / Controller de atención,3341,N – Actividades de servicios administrativos y de apoyo,20,Formal
+CAND-114,2,Ejecutivo de Atención Digital,4222,N – Actividades de servicios administrativos y de apoyo,8,Formal
+CAND-114,3,Agente de Servicio de Atención al Cliente,4222,,32,Formal
+CAND-115,1,Coordinadora de Certificaciones de Sistemas de Gestión,2141,,8,Formal
+CAND-115,2,Analista Senior de Sistema Integrado de Gestión (QHSE),2263,H – Transporte y almacenamiento,20,Formal
+CAND-115,3,Coordinadora de Sistemas de Gestión (Calidad y Ambiente),2141,C – Industrias manufactureras,12,Formal
+CAND-115,4,Encargada de Registros y Asistente de I+D,3111,,12,Formal
+CAND-115,5,Asistente de Coordinación de Procesos y Garantía de Calidad,3119,C – Industrias manufactureras,24,Formal
+CAND-116,1,Ingeniero de Software,2512,J – Información y comunicación,23,Formal
+CAND-116,2,Ingeniero DevOps,2522,J – Información y comunicación,8,Formal
+CAND-116,3,Ingeniero de Software,2512,J – Información y comunicación,9,Formal
+CAND-116,4,Desarrollador backend y DevOps,2512,J – Información y comunicación,14,Formal
+CAND-116,5,Desarrollador de software,2514,O – Administración pública y defensa,8,Formal
+CAND-116,6,Programador informático full stack,2514,J – Información y comunicación,36,Formal
+CAND-116,7,Programador informático,2514,K – Actividades financieras y de seguros,27,Formal
+CAND-117,1,Administrador de Bases de Datos Oracle (DBA),2521,J – Información y comunicación,,Formal
+CAND-117,2,Administrador de Sistemas y Bases de Datos,2521,K – Actividades financieras y de seguros,12,Formal
+CAND-117,3,"Administrador de Bases de Datos (SQL Server, Oracle)",2521,K – Actividades financieras y de seguros,168,Formal
+CAND-118,1,Ingeniero de Software,2512,J – Información y comunicación,30,Formal
+CAND-118,2,Analista Programador,2514,K – Actividades financieras y de seguros,14,Formal
+CAND-118,3,Auxiliar Informático (soporte técnico e infraestructura),3512,,14,Formal
+CAND-118,4,Asistente de Taller (administrativo),4110,,11,Formal
+CAND-119,1,Investigador y coordinador de red de investigación,2631,S – Otras actividades de servicios,43,Formal
+CAND-119,2,Analista de Proyectos (inicialmente auxiliar y analista administrativo),2421,S – Otras actividades de servicios,85,Formal
+CAND-120,1,"Jefa de Compras, Importaciones y Cotizaciones",1324,G – Comercio al por mayor y al por menor,10,Formal
+CAND-120,2,Encargada de Comercio Exterior,3323,,51,Formal
+CAND-120,3,Jefa de Compras,1324,H – Transporte y almacenamiento,5,Formal
+CAND-120,4,Encargada de Importaciones y Compras Locales,3323,C – Industrias manufactureras,72,Formal
+CAND-120,5,Encargada de Importaciones,3323,,77,Formal
+CAND-120,6,Asistente de Directorio – Compras y Operaciones de Comercio Exterior,3323,,17,Formal
+CAND-120,7,Asistente de Comercio Exterior y Compras Locales,3323,C – Industrias manufactureras,45,Formal
+CAND-121,1,Jefa de Operaciones de casa de bolsa,1346,K – Actividades financieras y de seguros,41,Formal
+CAND-121,2,Supervisora de Operaciones (back office bursátil),3341,K – Actividades financieras y de seguros,37,Formal
+CAND-121,3,Operadora de Bolsa,3311,K – Actividades financieras y de seguros,10,Formal
+CAND-121,4,Asistente de Operaciones,4312,K – Actividades financieras y de seguros,11,Formal
+CAND-121,5,Asistente de Vencimientos y Custodia,4312,K – Actividades financieras y de seguros,17,Formal
+CAND-121,6,Recepcionista,4226,K – Actividades financieras y de seguros,6,Formal
+CAND-121,7,Pasante administrativa,4110,K – Actividades financieras y de seguros,4,Pasantía
+CAND-121,8,Pasante administrativa,4110,K – Actividades financieras y de seguros,3,Pasantía
+CAND-122,1,Analista de Business Intelligence,2521,K – Actividades financieras y de seguros,6,Formal
+CAND-122,2,Jefe de Experiencia de Contact Center,1439,K – Actividades financieras y de seguros,11,Formal
+CAND-122,3,Encargado de equipo de Contact Center,3341,K – Actividades financieras y de seguros,19,Formal
+CAND-122,4,Coordinador de Centro de Operaciones Técnicas,3522,J – Información y comunicación,13,Formal
+CAND-122,5,Team Leader de Contact Center,3341,J – Información y comunicación,58,Formal
+CAND-123,1,Jefe de Logística y Operaciones,1324,J – Información y comunicación,31,Formal
+CAND-123,2,Analista de Adquisición de Repartidores,2421,J – Información y comunicación,14,Formal
+CAND-123,3,Especialista de Onboarding de socios comerciales,2421,J – Información y comunicación,10,Formal
+CAND-123,4,Team Leader de Onboarding,3341,J – Información y comunicación,14,Formal
+CAND-123,5,Asistente de Onboarding,4110,J – Información y comunicación,8,Formal
+CAND-123,6,Coordinador de Servicio Técnico de POS,3341,K – Actividades financieras y de seguros,39,Formal
+CAND-123,7,Back Office de atención al cliente / Team Leader de llamadas,4222,J – Información y comunicación,16,Formal
+CAND-124,1,Analista Senior de Operaciones (deportes y eventos),2421,J – Información y comunicación,16,Formal
+CAND-124,2,Jefe de Riesgos de centro de procesamiento de créditos,1346,K – Actividades financieras y de seguros,24,Formal
+CAND-124,3,Jefe Operativo de Sucursal bancaria,1346,K – Actividades financieras y de seguros,24,Formal
+CAND-124,4,Encargado de Sucursal bancaria,1346,K – Actividades financieras y de seguros,48,Formal
+CAND-124,5,Jefe de Gestión Operativa de sucursal bancaria,1346,K – Actividades financieras y de seguros,108,Formal
+CAND-125,1,Key Account Manager de marcas internacionales,3322,J – Información y comunicación,16,Formal
+CAND-125,2,Ejecutivo de Cuentas,3322,J – Información y comunicación,14,Formal
+CAND-125,3,Team Leader de Staffing y Soporte,3341,J – Información y comunicación,24,Formal
+CAND-125,4,Coordinador de Logística,4323,J – Información y comunicación,21,Formal
+CAND-125,5,Cajero y Atención al Cliente,4211,K – Actividades financieras y de seguros,54,Formal
+CAND-125,6,Pasante,,K – Actividades financieras y de seguros,3,Pasantía
+CAND-126,1,Jefe Comercial de Deportes y Eventos,1221,"R – Actividades artísticas, de entretenimiento y recreativas",12,Formal
+CAND-126,2,Gerente Comercial,1221,J – Información y comunicación,26,Formal
+CAND-126,3,Jefe de Ventas Canal Supermercados,1221,G – Comercio al por mayor y al por menor,18,Formal
+CAND-126,4,Gerente de Sucursales,1420,,17,Formal
+CAND-126,5,Key Account Manager,3322,C – Industrias manufactureras,45,Formal
+CAND-126,6,Analista de Marca y Estrategias Premium,2431,C – Industrias manufactureras,22,Formal
+CAND-126,7,Operativo Internacional bancario,4312,K – Actividades financieras y de seguros,35,Formal
+CAND-127,1,"Jefe de Monitoreo, Calidad, Mejora Continua y BI",1219,K – Actividades financieras y de seguros,16,Formal
+CAND-127,2,"Gestor de Calidad, Procesos y Experiencia del Cliente",2421,N – Actividades de servicios administrativos y de apoyo,10,Formal
+CAND-127,3,Analista Senior COPC y PMO,2421,N – Actividades de servicios administrativos y de apoyo,34,Formal
+CAND-127,4,Analista de Customer Experience y Sistema de Gestión de Calidad,2421,N – Actividades de servicios administrativos y de apoyo,84,Formal
+CAND-128,1,Líder de Recursos Humanos,1212,,5,Formal
+CAND-128,2,Consultor independiente en gestión de RRHH,2423,"M – Actividades profesionales, científicas y técnicas",6,Independiente
+CAND-128,3,Gerente de Recursos Humanos,1212,G – Comercio al por mayor y al por menor,4,Formal
+CAND-128,4,Jefe de Recursos Humanos,1212,,2,Formal
+CAND-128,5,Jefe de Talento Humano,1212,Q – Actividades de atención de la salud humana y de asistencia social,11,Formal
+CAND-128,6,Jefe Administrativo de RRHH,1212,C – Industrias manufactureras,3,Formal
+CAND-128,7,Director de Recursos Humanos,1212,P – Enseñanza,88,Formal
+CAND-128,8,Encargado Administrativo,3341,,2,Formal
+CAND-128,9,Coordinador de Recursos Humanos,2423,,13,Formal
+CAND-128,10,Encargado de Compensaciones,2423,K – Actividades financieras y de seguros,40,Formal
+CAND-128,11,Encargado de Recursos Humanos,2423,S – Otras actividades de servicios,18,Formal
+CAND-128,12,Encargado de Recursos Humanos,2423,,2,Formal
+CAND-128,13,Asistente de RRHH / Encargado de pagos y auxiliar de Tesorería,4110,,54,Formal
+CAND-129,1,Encargado de Depósito,4321,C – Industrias manufactureras,4,Formal
+CAND-129,2,Supervisor de Warehouse,4321,C – Industrias manufactureras,4,Formal
+CAND-129,3,Analista de Datos Estadísticos,3314,O – Administración pública y defensa,7,Formal
+CAND-129,4,Jefe de Bienes de Consumo – Depósito de Suministros,4321,O – Administración pública y defensa,72,Formal
+CAND-129,5,Asistente de Combustible,4321,O – Administración pública y defensa,36,Formal
+CAND-129,6,Asistente de Servicios Generales,4110,O – Administración pública y defensa,12,Formal
+CAND-129,7,Encargado General de Stock y Depósito,4321,Q – Actividades de atención de la salud humana y de asistencia social,13,Formal
+CAND-129,8,Mapeador voluntario,,,,Voluntariado
+CAND-130,1,Analista de Organización y Procesos,2421,J – Información y comunicación,16,Formal
+CAND-130,2,Analista Semi Senior de Riesgo Operacional,2413,K – Actividades financieras y de seguros,4,Formal
+CAND-130,3,Analista de Riesgo Operacional,2413,K – Actividades financieras y de seguros,28,Formal
+CAND-130,4,Atención al Cliente y Auxiliar de Operaciones,4312,K – Actividades financieras y de seguros,11,Formal
+CAND-131,1,Niñera,5311,T – Actividades de los hogares como empleadores,17,Independiente
+CAND-131,2,Practicante de Psicología Organizacional,2634,,2,Pasantía
+CAND-131,3,Asistente Administrativa (cobertura temporal),4110,,3,Formal
+CAND-133,1,Operadora Logística de Reservas,4323,J – Información y comunicación,13,Formal
+CAND-133,2,Asistente Administrativa,4110,J – Información y comunicación,4,Formal
+CAND-133,3,Asistente del Área Comercial y Marketing,2431,P – Enseñanza,17,Formal
+CAND-133,4,Asistente Administrativa / Recepcionista,4226,P – Enseñanza,24,Formal
+CAND-133,5,Digitadora de banco de ítems de evaluación,4132,P – Enseñanza,1,Formal
+CAND-133,6,Community Manager freelance / emprendedora / locutora radial,2432,,,Independiente
+CAND-134,1,Back Office Comercial / Operativo Comercial,4312,K – Actividades financieras y de seguros,9,Formal
+CAND-134,2,Ejecutivo de Experiencia telefónico y digital,4222,K – Actividades financieras y de seguros,21,Formal
+CAND-134,3,Pasante académico (cobranzas y facturación),4110,,3,Pasantía
+CAND-135,1,Especialista de Control de Calidad,2421,J – Información y comunicación,10,Formal
+CAND-135,2,Especialista de Mejora Continua,2421,J – Información y comunicación,13,Formal
+CAND-135,3,Analista de Calidad y Procesos,2421,K – Actividades financieras y de seguros,36,Formal
+CAND-135,4,Auxiliar de Calidad y de Organización y Métodos,4110,K – Actividades financieras y de seguros,30,Formal
+CAND-135,5,Referencista de créditos,4312,K – Actividades financieras y de seguros,20,Formal
+CAND-136,1,Analista de People Analytics,2423,J – Información y comunicación,6,Formal
+CAND-136,2,Analista de datos junior,2511,J – Información y comunicación,14,Formal
+CAND-136,3,Analista de selección de personal,2423,K – Actividades financieras y de seguros,10,Formal
+CAND-136,4,Auxiliar de selección de personal,3333,K – Actividades financieras y de seguros,7,Formal
+CAND-137,1,Periodista deportivo (prensa impresa y digital),2642,J – Información y comunicación,,Formal
+CAND-137,2,"Redactor periodístico, locutor y community manager",2642,J – Información y comunicación,48,Formal
+CAND-137,3,Community manager y ejecutivo de cuentas publicitarias,2431,"M – Actividades profesionales, científicas y técnicas",24,Formal
+CAND-137,4,Redactor creativo y editor periodístico,2641,J – Información y comunicación,,Formal
+CAND-137,5,Redactor y traductor,2641,"M – Actividades profesionales, científicas y técnicas",24,Formal
+CAND-137,6,Panelista de noticias,2656,J – Información y comunicación,,Formal
+CAND-137,7,Redactor de noticias (portal web),2642,J – Información y comunicación,,Formal
+CAND-137,8,Community manager y redactor publicitario,2431,"M – Actividades profesionales, científicas y técnicas",,Formal
+CAND-137,9,Periodista de redes sociales,2642,J – Información y comunicación,12,Formal
+CAND-137,10,"Community manager, locutor y conductor radial",2656,J – Información y comunicación,24,Formal
+CAND-137,11,Redactor de revista digital,2641,J – Información y comunicación,,Formal
+CAND-137,12,Redactor (sección juvenil de diario),2642,J – Información y comunicación,12,Formal
+CAND-137,13,Cronista (pasantía radial),2642,J – Información y comunicación,,Pasantía
+CAND-139,1,Programador independiente y analista funcional (CRM y automatización),2512,J – Información y comunicación,8,Independiente
+CAND-139,2,Encargado de producción y operador de cámara,3521,J – Información y comunicación,1,Formal
+CAND-139,3,Distribución y producción ejecutiva cinematográfica,2654,J – Información y comunicación,2,Formal
+CAND-139,4,Asistente de producción y producción ejecutiva,2654,J – Información y comunicación,4,Formal
+CAND-139,5,Programador y auxiliar informático,2512,J – Información y comunicación,8,Formal
+CAND-139,6,Administrativo y programador,4110,"E – Suministro de agua; evacuación de aguas residuales, gestión de desechos y descontaminación",12,Formal
+CAND-140,1,Product Manager (interino) / Analista senior de producto,2421,J – Información y comunicación,20,Formal
+CAND-140,2,Scrum Master y Product Owner de producto digital,2421,K – Actividades financieras y de seguros,18,Formal
+CAND-140,3,Analista senior de calidad y experiencia comercial,2421,J – Información y comunicación,64,Formal
+CAND-141,1,Product Manager,2421,J – Información y comunicación,16,Formal
+CAND-141,2,Jefe de negocios digitales e innovación,1330,K – Actividades financieras y de seguros,19,Formal
+CAND-141,3,Líder de proyectos TI,1330,J – Información y comunicación,6,Formal
+CAND-141,4,Desarrolladora full-stack / Scrum Master,2512,J – Información y comunicación,27,Formal
+CAND-141,5,Desarrolladora full-stack,2512,J – Información y comunicación,,Independiente
+CAND-141,6,Ingeniera de software,2512,J – Información y comunicación,,Formal
+CAND-141,7,Coach de robótica,2359,P – Enseñanza,48,Formal
+CAND-141,8,Desarrolladora full-stack,2512,J – Información y comunicación,24,Formal
+CAND-142,1,Product Manager de productos digitales,2421,J – Información y comunicación,48,Formal
+CAND-142,2,Brand Manager e-commerce,2431,G – Comercio al por mayor y al por menor,29,Formal
+CAND-142,3,Account Manager / Brand Manager e-commerce,2431,J – Información y comunicación,30,Formal
+CAND-142,4,Ejecutiva de cuentas,3322,C – Industrias manufactureras,34,Formal
+CAND-142,5,Inspectora de control de calidad / Asistente de gerencia de producción / Analista de ventas,3122,C – Industrias manufactureras,47,Formal
+CAND-143,1,Coordinador de proyectos y productos digitales,2421,J – Información y comunicación,46,Formal
+CAND-143,2,Product Owner digital,2421,J – Información y comunicación,24,Formal
+CAND-143,3,Product Owner de billetera electrónica y pagos digitales,2421,K – Actividades financieras y de seguros,84,Formal
+CAND-143,4,Arquitecto y desarrollador de software,2512,J – Información y comunicación,36,Formal
+CAND-144,1,Product Manager de canal presencial (banca digital),2421,J – Información y comunicación,22,Formal
+CAND-144,2,Líder de equipo de investigación de producto y UX,2431,K – Actividades financieras y de seguros,9,Formal
+CAND-144,3,Líder de operaciones de UX e investigación,2431,K – Actividades financieras y de seguros,3,Formal
+CAND-144,4,Gerente de operaciones de soporte de atención al cliente,1219,K – Actividades financieras y de seguros,13,Formal
+CAND-144,5,Líder de equipo de aseguramiento de calidad en atención al cliente,4222,K – Actividades financieras y de seguros,12,Formal
+CAND-144,6,Analista de calidad en atención al cliente,4222,K – Actividades financieras y de seguros,10,Formal
+CAND-144,7,Especialista de soporte a programas de intercambio,3412,S – Otras actividades de servicios,5,Formal
+CAND-145,1,Editor audiovisual,2654,J – Información y comunicación,10,Formal
+CAND-145,2,Community manager,2432,J – Información y comunicación,16,Formal
+CAND-145,3,Creador de contenidos y diseñador gráfico,2166,"M – Actividades profesionales, científicas y técnicas",17,Formal
+CAND-145,4,Editor de audio y video,2654,J – Información y comunicación,9,Formal
+CAND-145,5,Switcher / Coordinador técnico de TV,3521,J – Información y comunicación,9,Formal
+CAND-145,6,Editor de audio y video / gestión de redes,2654,J – Información y comunicación,49,Formal
+CAND-145,7,Coordinador artístico / editor de audio radial,2654,J – Información y comunicación,12,Formal
+CAND-145,8,Camarógrafo,3521,J – Información y comunicación,11,Formal
+CAND-145,9,"Producción, edición y operación técnica",3521,J – Información y comunicación,13,Formal
+CAND-145,10,Operador técnico de radio,3521,J – Información y comunicación,23,Formal
+CAND-145,11,Operador técnico de radio,3521,J – Información y comunicación,21,Formal
+CAND-147,1,Project Manager / Product Manager de TI,2421,"R – Actividades artísticas, de entretenimiento y recreativas",9,Formal
+CAND-147,2,Project & Account Manager (integraciones de medios de pago),2421,J – Información y comunicación,6,Formal
+CAND-147,3,IT Product Owner,2421,J – Información y comunicación,15,Formal
+CAND-147,4,Especialista de soporte TI,3512,G – Comercio al por mayor y al por menor,5,Formal
+CAND-147,5,Consultora TI,2511,S – Otras actividades de servicios,18,Formal
+CAND-147,6,Pasante en proyecto de divulgación científica,3343,O – Administración pública y defensa,31,Pasantía
+CAND-148,1,Coordinadora de gestión humana,2423,G – Comercio al por mayor y al por menor,4,Formal
+CAND-148,2,Psicóloga (evaluación psicológica y psicométrica),2634,Q – Actividades de atención de la salud humana y de asistencia social,12,Independiente
+CAND-148,3,Aprendiz de psicología (ámbito educativo),2634,P – Enseñanza,2,Pasantía
+CAND-148,4,Aprendiz de psicología (acompañamiento psicosocial),2634,P – Enseñanza,3,Pasantía
+CAND-148,5,Auxiliar administrativa y de gestión documental,4415,"M – Actividades profesionales, científicas y técnicas",11,Formal
+CAND-148,6,Analista administrativa (proyectos sociales),3343,S – Otras actividades de servicios,48,Formal
+CAND-149,1,Impulsadora de ventas (trade marketing),5242,"M – Actividades profesionales, científicas y técnicas",,Formal
+CAND-149,2,Secretaria,4120,"M – Actividades profesionales, científicas y técnicas",12,Formal
+CAND-149,3,Encargada de tienda,5222,G – Comercio al por mayor y al por menor,12,Formal
+CAND-149,4,Secretaria administrativa,4120,G – Comercio al por mayor y al por menor,12,Formal
+CAND-149,5,Secretaria / Auxiliar contable,4311,H – Transporte y almacenamiento,36,Formal
+CAND-149,6,Secretaria,4120,N – Actividades de servicios administrativos y de apoyo,12,Formal
+CAND-149,7,Recepcionista / Secretaria,4226,"R – Actividades artísticas, de entretenimiento y recreativas",12,Formal
+CAND-150,1,Senior Engineering Manager,1330,J – Información y comunicación,27,Formal
+CAND-150,2,Jefe de TI,1330,"R – Actividades artísticas, de entretenimiento y recreativas",88,Formal
+CAND-150,3,Asistente de TI,3512,"R – Actividades artísticas, de entretenimiento y recreativas",63,Formal
+CAND-150,4,Consultor CRM,2511,J – Información y comunicación,8,Formal
+CAND-150,5,Técnico de infraestructura TI,3513,"M – Actividades profesionales, científicas y técnicas",43,Formal
+CAND-151,1,Analista senior de productos / Analista de productos,2421,K – Actividades financieras y de seguros,29,Formal
+CAND-151,2,Analista de transformación digital,2421,K – Actividades financieras y de seguros,2,Formal
+CAND-151,3,Analista senior de productos y procesos,2421,K – Actividades financieras y de seguros,58,Formal
+CAND-151,4,Encargada de préstamos,3312,K – Actividades financieras y de seguros,41,Formal
+CAND-151,5,Encargada comercial (nuevo modelo de negocios),3312,K – Actividades financieras y de seguros,13,Formal
+CAND-151,6,Encargada comercial de sucursales,3312,K – Actividades financieras y de seguros,31,Formal
+CAND-151,7,Soporte comercial,4312,K – Actividades financieras y de seguros,14,Formal
+CAND-151,8,Atención al cliente / soporte operativo y mesa de dinero,4214,K – Actividades financieras y de seguros,20,Formal
+CAND-152,1,Ingeniero de software senior (móvil),2514,J – Información y comunicación,20,Formal
+CAND-152,2,Analista desarrollador senior,2514,J – Información y comunicación,36,Formal
+CAND-152,3,Desarrollador full stack,2512,J – Información y comunicación,72,Formal
+CAND-153,1,Diseñador de producto senior (UX/UI),2166,J – Información y comunicación,17,Formal
+CAND-153,2,Diseñador de producto senior (UX),2166,J – Información y comunicación,25,Formal
+CAND-153,3,Diseñador UI senior (sistema de diseño),2166,J – Información y comunicación,10,Formal
+CAND-153,4,Diseñador UX/UI,2166,J – Información y comunicación,10,Formal
+CAND-153,5,Diseñador digital senior,2166,P – Enseñanza,7,Formal
+CAND-153,6,Diseñador UI senior,2166,H – Transporte y almacenamiento,39,Formal
+CAND-153,7,Diseñador web,2166,J – Información y comunicación,35,Formal
+CAND-153,8,Diseñador,2166,J – Información y comunicación,7,Formal
+CAND-153,9,Auxiliar de diseño gráfico,3432,"M – Actividades profesionales, científicas y técnicas",3,Formal
+CAND-154,1,Ingeniero semi senior de infraestructura TI,2523,J – Información y comunicación,18,Formal
+CAND-154,2,Analista de servicios de infraestructura (sitios),3513,J – Información y comunicación,6,Formal
+CAND-154,3,Técnico de soporte y mesa de ayuda,3512,J – Información y comunicación,9,Formal
+CAND-154,4,Técnico de monitoreo y soporte operativo,3512,G – Comercio al por mayor y al por menor,11,Formal
+CAND-155,1,Analista semi senior de detección de fraude,2413,J – Información y comunicación,5,Formal
+CAND-155,2,Analista junior de detección de fraude,2413,J – Información y comunicación,19,Formal
+CAND-156,1,Supervisor de canales digitales y medios de pago,3341,K – Actividades financieras y de seguros,,Formal
+CAND-156,2,Encargado de administración de cajeros automáticos y autoservicio,3341,K – Actividades financieras y de seguros,60,Formal
+CAND-156,3,Auxiliar de administración de cajeros automáticos y autoservicio,4312,K – Actividades financieras y de seguros,48,Formal
+CAND-157,1,Supervisora administrativa (pagos y liquidación de comisiones),3341,K – Actividades financieras y de seguros,8,Formal
+CAND-157,2,Analista administrativa,4311,K – Actividades financieras y de seguros,21,Formal
+CAND-157,3,Supervisora de ejecutivos de atención (banca premium),3341,K – Actividades financieras y de seguros,,Formal
+CAND-157,4,Ejecutiva de atención al cliente bancaria,4222,K – Actividades financieras y de seguros,43,Formal
+CAND-157,5,Asesora de clientes / asistente de cobranzas,4222,K – Actividades financieras y de seguros,13,Formal
+CAND-158,1,Supervisora de operaciones y logística,3341,J – Información y comunicación,28,Formal
+CAND-158,2,Ejecutiva de cuentas corporativas,3322,J – Información y comunicación,9,Formal
+CAND-158,3,Asistente de logística (temporal),4323,U – Actividades de organizaciones y órganos extraterritoriales,1,Formal
+CAND-158,4,Ejecutiva de ventas,3322,J – Información y comunicación,13,Formal
+CAND-158,5,Desarrolladora de canales pymes / asesora de tienda online / operadora de cobranzas,3322,J – Información y comunicación,71,Formal
+CAND-159,1,Operador de soporte de operaciones,4222,J – Información y comunicación,6,Formal
+CAND-159,2,Back office operativo,4110,J – Información y comunicación,48,Formal
+CAND-159,3,Auxiliar de auditoría interna,4311,G – Comercio al por mayor y al por menor,7,Formal
+CAND-160,1,Líder de equipo de desarrollo organizacional,2423,K – Actividades financieras y de seguros,6,Formal
+CAND-160,2,Especialista de desarrollo organizacional,2423,J – Información y comunicación,11,Formal
+CAND-160,3,Analista senior de experiencia de repartidores,2423,J – Información y comunicación,31,Formal
+CAND-160,4,Líder de equipo de onboarding y beneficios,2423,J – Información y comunicación,11,Formal
+CAND-160,5,Analista senior de nómina logística,4313,J – Información y comunicación,11,Formal
+CAND-160,6,Analista de desarrollo organizacional y selección,2423,G – Comercio al por mayor y al por menor,7,Formal
+CAND-160,7,Analista administrativa de RRHH,4416,G – Comercio al por mayor y al por menor,20,Formal
