@@ -18,6 +18,21 @@ Este repositorio es **público**. Solo contiene datos anonimizados: cada candida
 ## Estado
 
 - [x] Estructura del repositorio y esquema de datos
-- [ ] Carga de CVs y construcción de la base
-- [ ] Análisis de recursos humanos y de mercado laboral
-- [ ] Documento técnico y propuesta de oferta
+- [x] Carga de 160 CVs y construcción de la base anonimizada
+- [x] Análisis de recursos humanos (14 perfiles) y de mercado laboral
+- [x] Documento técnico y propuesta de oferta
+- [ ] Revisión por el MTESS y segunda etapa con las subcarpetas del Drive no incluidas en la planilla
+
+## Documentos principales
+
+- [Propuesta de oferta para empresas](docs/propuesta_oferta_perfiles.md)
+- [Documento técnico](docs/documento_tecnico.md)
+- [Fichas de perfiles (RR.HH.)](analisis/perfiles_rrhh.md)
+- [Análisis de mercado laboral](analisis/mercado_laboral.md)
+
+## Reproducir
+
+```bash
+python3 scripts/construir_base.py      # requiere datos/privado/extraccion/ (no publicado)
+python3 scripts/asignar_perfiles.py    # perfiles, seniority y empleabilidad
+```

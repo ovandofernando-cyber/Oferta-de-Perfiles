@@ -1,1 +1,1939 @@
 id_candidato,competencia,tipo,nivel,evidencia
+CAND-001,Derecho societario y corporativo,Técnica,Avanzado,Experiencia
+CAND-001,Redacción y revisión de contratos,Técnica,Avanzado,Experiencia
+CAND-001,Litigio civil y laboral,Técnica,Avanzado,Experiencia
+CAND-001,Registro de marcas y propiedad intelectual,Técnica,Avanzado,Experiencia
+CAND-001,Licitaciones públicas y privadas,Técnica,Intermedio,Experiencia
+CAND-001,Mediación y arbitraje,Técnica,Intermedio,Experiencia
+CAND-001,Cobranza judicial y extrajudicial,Técnica,Intermedio,Experiencia
+CAND-001,Gestión de RR.HH. y nómina,Técnica,Avanzado,Experiencia
+CAND-001,Normativa laboral (MTESS/IPS),Técnica,Avanzado,Título
+CAND-001,Derecho administrativo,Técnica,Intermedio,Curso
+CAND-001,Asistencia de directorio,Transversal,Avanzado,Experiencia
+CAND-001,Liderazgo de equipos,Transversal,Avanzado,Experiencia
+CAND-001,Competencias gerenciales,Certificación,ND,Curso
+CAND-002,Redacción y revisión de contratos,Técnica,Intermedio,Experiencia
+CAND-002,Escrituración y transferencias inmobiliarias,Técnica,Intermedio,Experiencia
+CAND-002,Gestión de firmas y documentación legal,Técnica,Avanzado,Experiencia
+CAND-002,Cobranza judicial,Técnica,Básico,Experiencia
+CAND-002,Contrataciones públicas (Ley 2051),Certificación,ND,Curso
+CAND-002,Gestión de contratos (DNCP),Certificación,ND,Curso
+CAND-002,Asistencia de directorio y gestión de agenda,Transversal,Avanzado,Experiencia
+CAND-002,Atención al cliente,Transversal,Intermedio,Experiencia
+CAND-002,Contabilidad básica,Técnica,Básico,Título
+CAND-002,Comunicación efectiva,Transversal,ND,Autodeclarada
+CAND-002,Confidencialidad y organización,Transversal,ND,Autodeclarada
+CAND-003,Gestión y monitoreo de cartera judicial,Técnica,Avanzado,Experiencia
+CAND-003,Supervisión de abogados externos,Técnica,Avanzado,Experiencia
+CAND-003,Recupero y cobranza judicial,Técnica,Avanzado,Experiencia
+CAND-003,Subastas judiciales,Técnica,Intermedio,Experiencia
+CAND-003,PLAFT/AML,Certificación,Avanzado,Curso
+CAND-003,Normativa BCP,Técnica,Intermedio,Curso
+CAND-003,Riesgo operacional,Técnica,Básico,Curso
+CAND-003,Derecho inmobiliario,Técnica,Intermedio,Curso
+CAND-003,Atención al cliente,Transversal,Intermedio,Experiencia
+CAND-003,Office,Digital,ND,Autodeclarada
+CAND-003,Solución de conflictos,Transversal,ND,Autodeclarada
+CAND-003,Trabajo bajo presión,Transversal,ND,Autodeclarada
+CAND-004,Atención al cliente,Transversal,Intermedio,Experiencia
+CAND-004,Atención por canales digitales,Digital,Intermedio,Experiencia
+CAND-004,Gestión documental y mesa de entrada,Técnica,Intermedio,Experiencia
+CAND-004,Gestión de oficios judiciales,Técnica,Básico,Experiencia
+CAND-004,Gestión de reclamos,Técnica,Intermedio,Experiencia
+CAND-004,Ventas y negociación,Técnica,Básico,Experiencia
+CAND-004,Prevención de riesgos laborales,Técnica,Básico,Experiencia
+CAND-004,Manejo de información confidencial,Transversal,ND,Autodeclarada
+CAND-004,Organización y gestión del tiempo,Transversal,ND,Autodeclarada
+CAND-004,Trabajo en equipo,Transversal,ND,Autodeclarada
+CAND-005,Gestión y rendición de viáticos,Técnica,Avanzado,Experiencia
+CAND-005,Gestión patrimonial y control de activos fijos,Técnica,Avanzado,Experiencia
+CAND-005,Control de inventarios,Técnica,Avanzado,Experiencia
+CAND-005,Control de costos,Técnica,Intermedio,Experiencia
+CAND-005,Registro contable y conciliaciones,Técnica,Intermedio,Título
+CAND-005,Reportes de control interno,Técnica,Intermedio,Experiencia
+CAND-005,Gestión de proveedores,Técnica,Intermedio,Experiencia
+CAND-005,PLAFT/AML,Certificación,Básico,Curso
+CAND-005,Prevención de fraude,Certificación,Básico,Curso
+CAND-005,Normas ISO 9001 / 27001,Certificación,Básico,Curso
+CAND-005,IA generativa (fundamentos),Digital,Básico,Curso
+CAND-005,Liderazgo,Transversal,ND,Autodeclarada
+CAND-005,Organización y planificación,Transversal,ND,Autodeclarada
+CAND-006,Análisis y mejora de procesos,Técnica,Intermedio,Experiencia
+CAND-006,Atención digital multicanal,Digital,Avanzado,Experiencia
+CAND-006,Gestión de reclamos,Técnica,Avanzado,Experiencia
+CAND-006,Análisis operativo,Técnica,Intermedio,Experiencia
+CAND-006,Excel y Microsoft Office,Digital,ND,Autodeclarada
+CAND-006,Auditoría interna ISO 9001,Certificación,Básico,Curso
+CAND-006,PLAFT/AML,Certificación,Básico,Curso
+CAND-006,"Normativa BCP (sistema de pagos, mercado de valores, protección al consumidor)",Certificación,Básico,Curso
+CAND-006,Ciberseguridad e ingeniería social,Certificación,Básico,Curso
+CAND-006,Capacitación y mentoría de equipos,Transversal,Intermedio,Experiencia
+CAND-006,"Ventas, cobranzas y retención de clientes",Técnica,Intermedio,Experiencia
+CAND-006,Control de inventarios y presupuestos,Técnica,Básico,Experiencia
+CAND-006,Trabajo en equipo y adaptabilidad,Transversal,ND,Autodeclarada
+CAND-007,Gestión de nómina y liquidación de salarios,Técnica,Avanzado,Experiencia
+CAND-007,Obligaciones patronales IPS/REOP,Técnica,Avanzado,Experiencia
+CAND-007,Legislación laboral,Técnica,Intermedio,Curso
+CAND-007,Gestión de viáticos y rendiciones,Técnica,Avanzado,Experiencia
+CAND-007,Cuentas por cobrar y cobranzas,Técnica,Avanzado,Experiencia
+CAND-007,Cuentas por pagar y flujo de caja,Técnica,Intermedio,Experiencia
+CAND-007,Conciliación de pagos y transferencias,Técnica,Intermedio,Experiencia
+CAND-007,SAP FI,Digital,Avanzado,Experiencia
+CAND-007,Microsoft Dynamics,Digital,Avanzado,Experiencia
+CAND-007,Liderazgo del talento humano,Certificación,ND,Curso
+CAND-007,Coordinación de equipos,Transversal,Intermedio,Experiencia
+CAND-007,Negociación,Transversal,ND,Curso
+CAND-007,Atención a colaboradores y gestión de reclamos,Transversal,Intermedio,Experiencia
+CAND-008,Registro contable y cierre de balances,Técnica,Avanzado,Experiencia
+CAND-008,Conciliaciones bancarias,Técnica,Avanzado,Experiencia
+CAND-008,"Gestión impositiva (IRE, IVA, IRP)",Técnica,Intermedio,Curso
+CAND-008,Facturación y cálculo de retenciones,Técnica,Intermedio,Experiencia
+CAND-008,Análisis de crédito,Técnica,Intermedio,Experiencia
+CAND-008,Gestión de tarjetas de crédito/débito y contracargos,Técnica,Intermedio,Experiencia
+CAND-008,Riesgo operacional,Técnica,Básico,Experiencia
+CAND-008,Tesorería y caja,Técnica,Avanzado,Experiencia
+CAND-008,"Excel intermedio (macros, tablas dinámicas)",Digital,Intermedio,Autodeclarada
+CAND-008,SQL,Digital,Básico,Autodeclarada
+CAND-008,Sistemas core bancarios,Digital,ND,Experiencia
+CAND-008,Capacidad analítica,Transversal,ND,Autodeclarada
+CAND-008,Trabajo en equipo,Transversal,ND,Autodeclarada
+CAND-009,Control de calidad de procesos,Técnica,Intermedio,Experiencia
+CAND-009,Auditoría interna,Técnica,Intermedio,Experiencia
+CAND-009,Control interno y gestión de riesgos,Técnica,Intermedio,Experiencia
+CAND-009,PLAFT/AML,Técnica,Intermedio,Experiencia
+CAND-009,Normas ISO 27001 (auditoría),Certificación,Básico,Curso
+CAND-009,MECIP,Certificación,Básico,Curso
+CAND-009,Power BI,Digital,Básico,Curso
+CAND-009,SQL,Digital,Básico,Curso
+CAND-009,SAP,Digital,ND,Autodeclarada
+CAND-009,Microsoft Office,Digital,ND,Autodeclarada
+CAND-009,Elaboración de informes para directorio,Técnica,Intermedio,Experiencia
+CAND-009,Planillas de salarios,Técnica,Básico,Experiencia
+CAND-009,Liderazgo y trabajo en equipo,Transversal,ND,Autodeclarada
+CAND-009,Trabajo bajo presión,Transversal,ND,Autodeclarada
+CAND-010,Control de calidad de procesos,Técnica,Intermedio,Experiencia
+CAND-010,Verificación de adherencia a procedimientos,Técnica,Intermedio,Experiencia
+CAND-010,Identificación de oportunidades de automatización,Técnica,Básico,Experiencia
+CAND-010,Custodia de valores y pagarés,Técnica,Avanzado,Experiencia
+CAND-010,"Operaciones bancarias (cheques, desembolsos, legajos)",Técnica,Avanzado,Experiencia
+CAND-010,Análisis de crédito,Técnica,Intermedio,Experiencia
+CAND-010,Tesorería y pago a proveedores,Técnica,Intermedio,Experiencia
+CAND-010,Elaboración de reportes,Técnica,Intermedio,Experiencia
+CAND-010,Salesforce,Digital,ND,Experiencia
+CAND-010,Jira,Digital,ND,Experiencia
+CAND-010,Sistemas core bancarios,Digital,ND,Experiencia
+CAND-010,Atención al cliente,Transversal,Intermedio,Experiencia
+CAND-010,Comunicación asertiva,Transversal,ND,Autodeclarada
+CAND-010,Priorización de tareas y trabajo en equipo,Transversal,ND,Autodeclarada
+CAND-011,Análisis de crédito de consumo,Técnica,Avanzado,Experiencia
+CAND-011,Análisis de riesgo crediticio de empresas,Técnica,Avanzado,Experiencia
+CAND-011,Créditos hipotecarios y de vivienda (AFD),Técnica,Intermedio,Experiencia
+CAND-011,Evaluación de tarjetas de crédito y compra de cartera,Técnica,Intermedio,Experiencia
+CAND-011,Verificación de procedimientos y normas de riesgos,Técnica,Avanzado,Experiencia
+CAND-011,Venta de productos bancarios,Técnica,Intermedio,Experiencia
+CAND-011,Gestión de cartera de clientes,Técnica,Intermedio,Experiencia
+CAND-011,Atención al cliente,Transversal,Intermedio,Experiencia
+CAND-011,Contabilidad,Técnica,ND,Título
+CAND-011,Gestión de riesgos,Certificación,ND,Curso
+CAND-011,Microsoft Word,Digital,ND,Autodeclarada
+CAND-011,Liderazgo de área,Transversal,Intermedio,Experiencia
+CAND-012,PLAFT/AML,Técnica,Avanzado,Experiencia
+CAND-012,Monitoreo y análisis de alertas transaccionales,Técnica,Avanzado,Experiencia
+CAND-012,Debida diligencia ampliada,Técnica,Intermedio,Experiencia
+CAND-012,Normativa BCP y SEPRELAD (reportes regulatorios),Técnica,Intermedio,Experiencia
+CAND-012,ISO 37001 / ISO 37301,Técnica,Intermedio,Experiencia
+CAND-012,Gobierno corporativo y compliance,Certificación,ND,Curso
+CAND-012,Elaboración de políticas y procedimientos,Técnica,Intermedio,Experiencia
+CAND-012,Excel avanzado,Digital,Avanzado,Curso
+CAND-012,"Sistemas bancarios (Finansys, ITGF)",Digital,ND,Experiencia
+CAND-012,Gestión comercial de préstamos y tarjetas,Técnica,Intermedio,Experiencia
+CAND-012,Atención al cliente,Transversal,ND,Curso
+CAND-012,Liderazgo,Transversal,ND,Curso
+CAND-012,Organización y proactividad,Transversal,ND,Autodeclarada
+CAND-013,PLAFT/AML,Técnica,Avanzado,Experiencia
+CAND-013,Debida diligencia y KYC,Técnica,Avanzado,Experiencia
+CAND-013,Reportes regulatorios BCP/SEPRELAD (ROS),Técnica,Avanzado,Experiencia
+CAND-013,Matriz y autoevaluación de riesgos LA/FT,Técnica,Avanzado,Experiencia
+CAND-013,Control de listas de sanciones internacionales,Técnica,Avanzado,Experiencia
+CAND-013,"Elaboración de manuales, políticas y código de ética",Técnica,Avanzado,Experiencia
+CAND-013,"Atención de auditorías internas, externas y del supervisor",Técnica,Avanzado,Experiencia
+CAND-013,Formación de Oficial de Cumplimiento PLA/FT/FP,Certificación,ND,Curso
+CAND-013,Capacitación de personal,Transversal,Intermedio,Experiencia
+CAND-013,Gestión de proyectos,Transversal,Intermedio,Curso
+CAND-013,Análisis de datos y reportes BI (Tableau),Digital,Intermedio,Experiencia
+CAND-013,PostgreSQL,Digital,ND,Autodeclarada
+CAND-013,SAP,Digital,ND,Autodeclarada
+CAND-013,Jira y SharePoint,Digital,ND,Autodeclarada
+CAND-013,Comunicación asertiva,Transversal,ND,Autodeclarada
+CAND-014,Custodia de pagarés y valores,Técnica,Avanzado,Experiencia
+CAND-014,Gestión de CDAs y escrituras,Técnica,Intermedio,Experiencia
+CAND-014,Gestión documental y archivo,Técnica,Avanzado,Experiencia
+CAND-014,Digitalización y clasificación de documentos,Técnica,Intermedio,Experiencia
+CAND-014,Administración de permisos en sistemas de archivo,Digital,Básico,Experiencia
+CAND-014,Atención al cliente,Transversal,Intermedio,Experiencia
+CAND-014,Microsoft Office,Digital,Intermedio,Autodeclarada
+CAND-014,Microsoft Windows,Digital,Intermedio,Autodeclarada
+CAND-014,Administración de recursos humanos,Certificación,Básico,Curso
+CAND-014,Llenado de formulario de IVA,Certificación,Básico,Curso
+CAND-015,SQL,Digital,Intermedio,Experiencia
+CAND-015,AWS Athena,Digital,Intermedio,Experiencia
+CAND-015,AWS QuickSight (dashboards),Digital,Intermedio,Experiencia
+CAND-015,Power BI,Digital,Básico,Curso
+CAND-015,Excel,Digital,ND,Autodeclarada
+CAND-015,STATA,Digital,Básico,Autodeclarada
+CAND-015,Análisis de funnel de adquisición y retención,Técnica,Intermedio,Experiencia
+CAND-015,Modelado de perfiles predictivos,Técnica,Básico,Experiencia
+CAND-015,Seguimiento de KPIs,Técnica,Intermedio,Experiencia
+CAND-015,Análisis económico e informes sectoriales,Técnica,Intermedio,Experiencia
+CAND-015,Transformación digital y design thinking,Técnica,Básico,Experiencia
+CAND-015,Fundamentos de Microsoft Azure,Certificación,Básico,Curso
+CAND-015,Coordinación de proyectos,Transversal,ND,Autodeclarada
+CAND-015,Supervisión de equipos,Transversal,Intermedio,Experiencia
+CAND-016,"Dashboards y KPIs (Excel, Looker Studio)",Digital,Intermedio,Experiencia
+CAND-016,Automatización con Google Apps Script,Digital,Intermedio,Experiencia
+CAND-016,Planificación y seguimiento presupuestario,Técnica,Intermedio,Experiencia
+CAND-016,Análisis de costos y fijación de precios,Técnica,Intermedio,Experiencia
+CAND-016,Gestión de inventarios,Técnica,Básico,Experiencia
+CAND-016,Coordinación de programas de formación,Técnica,Avanzado,Experiencia
+CAND-016,Contabilidad,Técnica,ND,Título
+CAND-016,Mercados financieros,Certificación,Básico,Curso
+CAND-016,"Plataformas educativas (Moodle, Canvas)",Digital,Intermedio,Experiencia
+CAND-016,"Herramientas AWS, Oracle y Google AI Studio",Digital,Básico,Autodeclarada
+CAND-016,Organización de eventos,Transversal,Intermedio,Experiencia
+CAND-016,Docencia de inglés,Técnica,Avanzado,Experiencia
+CAND-017,Gestión de contracargos y disputas,Técnica,Avanzado,Experiencia
+CAND-017,Prevención de fraudes,Técnica,Avanzado,Experiencia
+CAND-017,Análisis transaccional y detección de anomalías,Técnica,Intermedio,Experiencia
+CAND-017,Validación de identidad y onboarding,Técnica,Intermedio,Experiencia
+CAND-017,Gestión de riesgos operativos,Técnica,Intermedio,Experiencia
+CAND-017,Soporte IT de segunda línea,Digital,Intermedio,Experiencia
+CAND-017,Administración Windows y Linux,Digital,ND,Autodeclarada
+CAND-017,SQL (T-SQL),Digital,ND,Autodeclarada
+CAND-017,Python,Digital,ND,Autodeclarada
+CAND-017,Jira,Digital,ND,Autodeclarada
+CAND-017,Salesforce,Digital,ND,Autodeclarada
+CAND-017,Atención al cliente y manejo de caja,Transversal,Intermedio,Experiencia
+CAND-017,Trabajo bajo presión,Transversal,ND,Experiencia
+CAND-018,Monitoreo de calidad de atención,Técnica,Intermedio,Experiencia
+CAND-018,Mejora continua,Técnica,Básico,Experiencia
+CAND-018,Análisis de datos,Técnica,ND,Autodeclarada
+CAND-018,Atención al cliente,Transversal,Avanzado,Experiencia
+CAND-018,Atención digital multicanal,Digital,Intermedio,Experiencia
+CAND-018,Retroalimentación a equipos,Transversal,Intermedio,Experiencia
+CAND-018,Producción bajo normas de calidad,Técnica,Intermedio,Experiencia
+CAND-018,Comunicación efectiva,Transversal,ND,Autodeclarada
+CAND-018,Gestión del tiempo,Transversal,ND,Autodeclarada
+CAND-018,Informática (bachillerato técnico),Digital,Básico,Título
+CAND-019,Gestión y cierre de nómina,Técnica,Avanzado,Experiencia
+CAND-019,Obligaciones patronales IPS/MTESS,Técnica,Avanzado,Experiencia
+CAND-019,"Cálculo de liquidaciones, horas extras y comisiones",Técnica,Avanzado,Experiencia
+CAND-019,Libros laborales y embargos judiciales,Técnica,Intermedio,Experiencia
+CAND-019,Compensaciones y beneficios,Técnica,Intermedio,Experiencia
+CAND-019,Gestión de planes de capacitación,Técnica,Intermedio,Experiencia
+CAND-019,Descriptivos de cargo,Técnica,Intermedio,Experiencia
+CAND-019,Soporte a auditorías ISO,Técnica,Básico,Experiencia
+CAND-019,Control de legajos,Técnica,Intermedio,Experiencia
+CAND-019,Pago a proveedores,Técnica,Básico,Experiencia
+CAND-019,Operaciones de caja bancaria,Certificación,Básico,Curso
+CAND-019,Atención al cliente,Transversal,Intermedio,Experiencia
+CAND-019,Informática (bachillerato técnico),Digital,Básico,Título
+CAND-020,Prevención de fraudes,Técnica,Intermedio,Experiencia
+CAND-020,Monitoreo transaccional en tiempo real,Técnica,Intermedio,Experiencia
+CAND-020,Análisis de patrones de fraude,Técnica,Intermedio,Experiencia
+CAND-020,Riesgo operacional,Certificación,Básico,Curso
+CAND-020,Ciberseguridad,Certificación,Básico,Curso
+CAND-020,Protección de datos,Certificación,Básico,Curso
+CAND-020,Manejo de CRM y cores financieros,Digital,Intermedio,Experiencia
+CAND-020,Atención al cliente telefónica y digital,Transversal,Avanzado,Experiencia
+CAND-020,Gestión de cuentas y cumplimiento de KPIs,Técnica,Intermedio,Experiencia
+CAND-020,Resolución de incidencias,Transversal,Intermedio,Experiencia
+CAND-021,Procesamiento de tarjetas (emisor),Técnica,Intermedio,Experiencia
+CAND-021,Atención a entidades y comercios adheridos,Técnica,Intermedio,Experiencia
+CAND-021,Atención al cliente,Transversal,Avanzado,Experiencia
+CAND-021,Manejo de caja,Técnica,Intermedio,Experiencia
+CAND-021,Telemarketing,Técnica,Básico,Experiencia
+CAND-021,Manejo de redes sociales,Digital,Básico,Experiencia
+CAND-021,Habilidades digitales,Digital,Básico,Curso
+CAND-021,Oratoria y marca personal,Transversal,Básico,Curso
+CAND-021,Contabilidad básica,Técnica,Básico,Título
+CAND-022,Operaciones de tarjetas de crédito y débito,Técnica,Intermedio,Experiencia
+CAND-022,"Reversiones, ajustes y desembolsos de préstamos",Técnica,Intermedio,Experiencia
+CAND-022,Onboarding y verificación documental de clientes,Técnica,Intermedio,Experiencia
+CAND-022,Análisis de perfil crediticio,Técnica,Básico,Experiencia
+CAND-022,Gestión de casos de fraude y contracargos,Técnica,Básico,Experiencia
+CAND-022,Verificación de transferencias SPI/SIPAP,Técnica,Básico,Experiencia
+CAND-022,Salesforce,Digital,ND,Experiencia
+CAND-022,Sistemas core bancarios,Digital,ND,Experiencia
+CAND-022,Riesgo operacional,Certificación,Básico,Curso
+CAND-022,Privacidad de datos y phishing,Certificación,Básico,Curso
+CAND-022,Gestión documental y archivo,Técnica,Básico,Experiencia
+CAND-022,Atención al cliente,Transversal,Intermedio,Experiencia
+CAND-022,Trabajo en equipo,Transversal,ND,Autodeclarada
+CAND-023,Reclutamiento y selección,Técnica,Avanzado,Experiencia
+CAND-023,Búsquedas masivas,Técnica,Avanzado,Experiencia
+CAND-023,Onboarding e inducción,Técnica,Avanzado,Experiencia
+CAND-023,Desarrollo organizacional,Técnica,Intermedio,Experiencia
+CAND-023,Comunicación interna,Técnica,Intermedio,Experiencia
+CAND-023,Bienestar y clima laboral,Técnica,Intermedio,Experiencia
+CAND-023,Administración de legajos y contratos,Técnica,Intermedio,Experiencia
+CAND-023,SAP SuccessFactors,Digital,Intermedio,Experiencia
+CAND-023,ODOO / JD Edwards,Digital,Intermedio,Experiencia
+CAND-023,Microsoft Office,Digital,ND,Autodeclarada
+CAND-023,Canva,Digital,ND,Autodeclarada
+CAND-023,Organización de eventos corporativos,Transversal,Intermedio,Experiencia
+CAND-023,Gestión de cobranzas,Técnica,Intermedio,Experiencia
+CAND-023,Pensamiento analítico,Transversal,ND,Autodeclarada
+CAND-024,Core bancario (módulo de préstamos),Técnica,Avanzado,Experiencia
+CAND-024,GeneXus,Digital,Avanzado,Experiencia
+CAND-024,RPG / AS400 (IBM i),Digital,Avanzado,Experiencia
+CAND-024,SQL y PL/SQL,Digital,Avanzado,Experiencia
+CAND-024,Bases de datos DB2/400 y Oracle,Digital,Avanzado,Experiencia
+CAND-024,Servicios web SOAP/REST,Digital,Avanzado,Experiencia
+CAND-024,Migración de datos,Técnica,Avanzado,Experiencia
+CAND-024,Análisis funcional y relevamiento de requerimientos,Técnica,Avanzado,Experiencia
+CAND-024,Pruebas QA/UAT,Técnica,Avanzado,Experiencia
+CAND-024,"Integraciones regulatorias (SET, DNIT, MTESS, Informconf)",Técnica,Avanzado,Experiencia
+CAND-024,Oracle Audit Vault,Digital,Intermedio,Experiencia
+CAND-024,Coordinación de proveedores externos,Transversal,Avanzado,Experiencia
+CAND-024,Soporte N2/N3,Técnica,Avanzado,Experiencia
+CAND-024,AWS Cloud Practitioner (en preparación),Certificación,Básico,Curso
+CAND-025,Conciliaciones bancarias,Técnica,Avanzado,Experiencia
+CAND-025,Pago a proveedores y emisión de cheques,Técnica,Avanzado,Experiencia
+CAND-025,Transferencias SIPAP,Técnica,Avanzado,Experiencia
+CAND-025,Descuento de cheques,Técnica,Intermedio,Experiencia
+CAND-025,Proyección de flujo de caja,Técnica,Intermedio,Experiencia
+CAND-025,Gestión de cartera de inversiones,Técnica,Intermedio,Experiencia
+CAND-025,Administración de cuentas bancarias (Citidirect),Digital,Intermedio,Experiencia
+CAND-025,Manejo de bóveda y efectivo,Técnica,Avanzado,Experiencia
+CAND-025,Custodia de pagarés,Técnica,Intermedio,Experiencia
+CAND-025,Atención al cliente en caja,Transversal,Intermedio,Experiencia
+CAND-025,Trabajo bajo presión,Transversal,ND,Autodeclarada
+CAND-025,Resolución de problemas y autogestión,Transversal,ND,Autodeclarada
+CAND-026,PL/SQL Oracle,Digital,Avanzado,Experiencia
+CAND-026,Oracle Forms & Reports,Digital,Avanzado,Experiencia
+CAND-026,Bases de datos Oracle,Digital,Avanzado,Experiencia
+CAND-026,Sistemas core bancarios (ITGF),Técnica,Avanzado,Experiencia
+CAND-026,"Control de versiones (Git, GitHub, SVN, Bitbucket)",Digital,Intermedio,Curso
+CAND-026,"Asistentes de IA para desarrollo (GitHub Copilot, Cursor, Gemini)",Digital,Intermedio,Autodeclarada
+CAND-026,Scrum,Certificación,ND,Curso
+CAND-026,DevOps,Certificación,Básico,Curso
+CAND-026,Principios SOLID y Clean Code,Certificación,ND,Curso
+CAND-026,Java y aplicaciones web,Digital,Básico,Curso
+CAND-026,Gestión de incidencias de producción,Técnica,Avanzado,Experiencia
+CAND-026,Liderazgo técnico y mentoría de equipos,Transversal,Intermedio,Experiencia
+CAND-026,Especialización en Fintech,Certificación,ND,Curso
+CAND-027,Derecho societario y corporativo,Técnica,Avanzado,Experiencia
+CAND-027,Trámites ante Abogacía del Tesoro y SIARA (beneficiarios finales),Técnica,Avanzado,Experiencia
+CAND-027,Redacción y revisión de contratos,Técnica,Avanzado,Experiencia
+CAND-027,Due diligence legal,Técnica,Intermedio,Experiencia
+CAND-027,Derecho laboral (reglamentos internos y matriz legal),Técnica,Intermedio,Experiencia
+CAND-027,Derecho marítimo (inscripción de buques),Técnica,Avanzado,Experiencia
+CAND-027,"Derecho regulatorio (DINAC, DINAVISA, CONATEL)",Técnica,Intermedio,Experiencia
+CAND-027,Dictámenes jurídicos y legajos de cumplimiento de clientes,Técnica,Intermedio,Experiencia
+CAND-027,Libros societarios y documentación asamblearia,Técnica,Avanzado,Experiencia
+CAND-027,Mediación,Técnica,Básico,Experiencia
+CAND-027,"Microsoft Office (Word, Excel)",Digital,Avanzado,Autodeclarada
+CAND-027,Trámites electrónicos y firma cualificada,Digital,Intermedio,Experiencia
+CAND-027,Atención al detalle y confidencialidad,Transversal,ND,Autodeclarada
+CAND-027,Gestión autónoma de procesos complejos,Transversal,ND,Autodeclarada
+CAND-028,Testing funcional y no funcional,Técnica,Avanzado,Experiencia
+CAND-028,Automatización de pruebas (Selenium / Robot Framework),Técnica,Intermedio,Curso
+CAND-028,Pruebas de performance (JMeter),Técnica,ND,Experiencia
+CAND-028,Pruebas de servicios/API (Postman),Técnica,ND,Experiencia
+CAND-028,SQL / PL-SQL (Oracle),Técnica,Intermedio,Curso
+CAND-028,Jira / Confluence,Digital,ND,Autodeclarada
+CAND-028,TestLink,Digital,ND,Autodeclarada
+CAND-028,Git / GitHub,Digital,Básico,Curso
+CAND-028,JavaScript,Técnica,Intermedio,Curso
+CAND-028,Linux,Técnica,Básico,Curso
+CAND-028,Metodologías ágiles,Transversal,ND,Experiencia
+CAND-028,Soporte técnico a usuarios,Técnica,Avanzado,Experiencia
+CAND-028,Gestión de proyectos,Transversal,Básico,Curso
+CAND-028,Aprendizaje autónomo,Transversal,ND,Autodeclarada
+CAND-029,Transferencias SIPAP,Técnica,ND,Experiencia
+CAND-029,Mensajería SWIFT (MT103/MT202) y cambio de divisas,Técnica,ND,Experiencia
+CAND-029,Operaciones bancarias,Técnica,ND,Experiencia
+CAND-029,Caja bancaria y manejo de valores,Técnica,Avanzado,Experiencia
+CAND-029,Verificación de cheques y clearing,Técnica,ND,Experiencia
+CAND-029,Detección de billetes falsos,Certificación,ND,Curso
+CAND-029,PLAFT/AML (Ley 1015),Técnica,Básico,Curso
+CAND-029,Análisis de crédito,Técnica,Básico,Curso
+CAND-029,Atención al cliente,Transversal,ND,Experiencia
+CAND-029,Excel intermedio,Digital,Intermedio,Autodeclarada
+CAND-029,Microsoft Word / PowerPoint,Digital,Intermedio,Autodeclarada
+CAND-029,SAP,Digital,Intermedio,Autodeclarada
+CAND-029,Técnicas de negociación,Transversal,Básico,Curso
+CAND-030,Gestión de reclamos,Técnica,Avanzado,Experiencia
+CAND-030,Productos activos (préstamos y tarjetas de crédito),Técnica,ND,Experiencia
+CAND-030,Cuentas de ahorro y cuentas corrientes,Técnica,ND,Experiencia
+CAND-030,Soporte de segundo nivel,Técnica,ND,Experiencia
+CAND-030,Gestión de SLA,Técnica,ND,Experiencia
+CAND-030,Monitoreo y auditoría de calidad de atención,Técnica,ND,Experiencia
+CAND-030,Capacitación y coaching de equipos,Transversal,ND,Experiencia
+CAND-030,Atención al cliente,Transversal,Avanzado,Experiencia
+CAND-030,Fidelización de clientes,Transversal,ND,Experiencia
+CAND-030,Pensamiento analítico,Transversal,ND,Autodeclarada
+CAND-030,Comunicación asertiva,Transversal,ND,Autodeclarada
+CAND-030,Liderazgo,Transversal,ND,Autodeclarada
+CAND-031,PLAFT/AML,Técnica,Avanzado,Experiencia
+CAND-031,Monitoreo transaccional y gestión de alertas,Técnica,Avanzado,Experiencia
+CAND-031,Reportes de Operaciones Sospechosas (ROS) a SEPRELAD,Técnica,Avanzado,Experiencia
+CAND-031,Debida diligencia de clientes de alto riesgo,Técnica,Avanzado,Experiencia
+CAND-031,Screening de sanciones y listas OFAC,Técnica,Avanzado,Experiencia
+CAND-031,Normativa BCP / Superintendencia de Bancos,Técnica,Avanzado,Experiencia
+CAND-031,Transferencias internacionales,Técnica,ND,Experiencia
+CAND-031,Implementación de sistemas de monitoreo de cumplimiento,Técnica,ND,Experiencia
+CAND-031,Compliance Officer & AML Training,Certificación,ND,Curso
+CAND-031,Activos virtuales y tipologías LA/FT (GAFILAT),Certificación,ND,Curso
+CAND-031,Capacitación en PLA/FT,Transversal,ND,Experiencia
+CAND-031,Bantotal,Digital,ND,Experiencia
+CAND-031,Excel avanzado,Digital,Avanzado,Autodeclarada
+CAND-031,"Microsoft Office (Word, PowerPoint, Outlook)",Digital,ND,Autodeclarada
+CAND-032,PLAFT/AML,Técnica,Avanzado,Experiencia
+CAND-032,Debida diligencia ampliada (KYC/onboarding),Técnica,Avanzado,Experiencia
+CAND-032,Monitoreo transaccional y gestión de alertas,Técnica,Avanzado,Experiencia
+CAND-032,Reportes de Operaciones Sospechosas (ROS) a SEPRELAD,Técnica,ND,Experiencia
+CAND-032,Análisis de origen de fondos (CDA),Técnica,ND,Experiencia
+CAND-032,Gestión de clientes de riesgo alto y sujetos obligados,Técnica,ND,Experiencia
+CAND-032,Captación y asesoramiento comercial de productos bancarios,Técnica,ND,Experiencia
+CAND-032,Apertura de cuentas y back office comercial,Técnica,ND,Experiencia
+CAND-032,Capacitación en prevención de lavado de dinero,Transversal,ND,Experiencia
+CAND-032,Supervisión de personal,Transversal,ND,Experiencia
+CAND-032,Atención al cliente,Transversal,ND,Experiencia
+CAND-032,Resolución de problemas,Transversal,ND,Autodeclarada
+CAND-032,Trabajo en equipo,Transversal,ND,Autodeclarada
+CAND-033,Gestión de contracargos y reversos de tarjetas,Técnica,Avanzado,Experiencia
+CAND-033,"Medios de pago (POS, QR, Visa/Mastercard)",Técnica,Avanzado,Experiencia
+CAND-033,Acreditación y alta de comercios,Técnica,ND,Experiencia
+CAND-033,Gestión de incidencias operativas,Técnica,ND,Experiencia
+CAND-033,Monitoreo de KPI y SLA,Técnica,ND,Experiencia
+CAND-033,Transferencias SIPAP,Técnica,ND,Experiencia
+CAND-033,"Operaciones bancarias (custodia de valores, chequeras, CDA, préstamos)",Técnica,ND,Experiencia
+CAND-033,Bantotal,Digital,ND,Experiencia
+CAND-033,Salesforce / CRM,Digital,ND,Autodeclarada
+CAND-033,Cybersource / Bancard backoffice,Digital,ND,Autodeclarada
+CAND-033,Coordinación de equipos,Transversal,ND,Experiencia
+CAND-033,Mejora de procesos,Transversal,ND,Experiencia
+CAND-034,Power BI,Digital,Avanzado,Experiencia
+CAND-034,Excel avanzado,Digital,Avanzado,Experiencia
+CAND-034,Looker Studio (dashboards),Digital,ND,Experiencia
+CAND-034,"Análisis de KPI operativos (SLA, AHT, CSAT)",Técnica,Avanzado,Experiencia
+CAND-034,Planificación de capacidad (workforce planning),Técnica,ND,Experiencia
+CAND-034,Reportes de gestión para gerencia,Técnica,ND,Experiencia
+CAND-034,Jira / Trello,Digital,ND,Experiencia
+CAND-034,SAP HANA,Digital,ND,Experiencia
+CAND-034,Salesforce / CRM,Digital,ND,Experiencia
+CAND-034,Power Apps,Digital,ND,Autodeclarada
+CAND-034,Google Sheets,Digital,ND,Autodeclarada
+CAND-034,Conciliaciones bancarias,Técnica,ND,Experiencia
+CAND-034,Estandarización y mejora de procesos,Transversal,ND,Experiencia
+CAND-034,Soporte a usuarios y gestión de datos maestros,Técnica,ND,Experiencia
+CAND-035,Escrituración de operaciones bancarias,Técnica,Avanzado,Experiencia
+CAND-035,Análisis jurídico bancario,Técnica,Avanzado,Experiencia
+CAND-035,Derecho notarial,Técnica,ND,Título
+CAND-035,Derecho civil y comercial,Técnica,ND,Título
+CAND-035,Procedimientos judiciales (tribunales civiles),Técnica,ND,Experiencia
+CAND-035,Matrícula de abogado (CSJ),Certificación,ND,Título
+CAND-035,Excel avanzado,Digital,Avanzado,Autodeclarada
+CAND-035,Microsoft Office,Digital,Avanzado,Autodeclarada
+CAND-036,Operaciones bancarias,Técnica,ND,Experiencia
+CAND-036,Pagos a proveedores y transferencias nacionales,Técnica,ND,Experiencia
+CAND-036,Operaciones de cambio de divisas,Técnica,ND,Experiencia
+CAND-036,Revisión documental,Técnica,ND,Experiencia
+CAND-036,"Productos financieros (tarjetas, préstamos, CDA)",Técnica,ND,Experiencia
+CAND-036,Atención al cliente,Transversal,Avanzado,Experiencia
+CAND-036,Gestión de reclamos,Técnica,ND,Experiencia
+CAND-036,Manejo de caja,Técnica,ND,Experiencia
+CAND-036,Capacitación de colaboradores,Transversal,ND,Experiencia
+CAND-036,Microsoft Word,Digital,Intermedio,Autodeclarada
+CAND-036,Microsoft Excel,Digital,Básico,Autodeclarada
+CAND-036,Trabajo en equipo,Transversal,ND,Autodeclarada
+CAND-037,Contabilidad general y cierres contables,Técnica,Avanzado,Experiencia
+CAND-037,"Liquidación de impuestos (IVA, IRE, IRP) - Marangatu/DNIT",Técnica,Avanzado,Experiencia
+CAND-037,Facturación electrónica (SIFEN),Técnica,ND,Experiencia
+CAND-037,Conciliaciones bancarias,Técnica,ND,Experiencia
+CAND-037,Elaboración de estados financieros,Técnica,ND,Experiencia
+CAND-037,Análisis de crédito,Técnica,ND,Experiencia
+CAND-037,Excel avanzado,Digital,Avanzado,Curso
+CAND-037,Power BI / Power Pivot,Digital,ND,Curso
+CAND-037,SQL,Digital,ND,Curso
+CAND-037,"ERP contables (SAP, Odoo y otros)",Digital,ND,Experiencia
+CAND-037,Comunicación efectiva,Transversal,ND,Autodeclarada
+CAND-037,Toma de decisiones,Transversal,ND,Autodeclarada
+CAND-038,Gestión de abastecimiento y monitoreo de cajeros automáticos (ATM),Técnica,ND,Experiencia
+CAND-038,Soporte técnico de POS,Técnica,ND,Experiencia
+CAND-038,"Sistemas de redes de pago (Bancard, Bepsa)",Digital,ND,Experiencia
+CAND-038,Excel intermedio (tablas dinámicas),Digital,Intermedio,Experiencia
+CAND-038,Paquete Office,Digital,ND,Autodeclarada
+CAND-038,CRM (Bitrix),Digital,ND,Experiencia
+CAND-038,Ventas y postventa,Técnica,ND,Experiencia
+CAND-038,Cobranzas y manejo de cartera,Técnica,ND,Experiencia
+CAND-038,Elaboración de informes operativos,Técnica,ND,Experiencia
+CAND-038,Gestión documental notarial,Técnica,ND,Experiencia
+CAND-038,Capacitación de nuevos colaboradores,Transversal,ND,Experiencia
+CAND-038,Trabajo bajo presión,Transversal,ND,Autodeclarada
+CAND-039,Atención al cliente,Transversal,Avanzado,Experiencia
+CAND-039,Gestión de reclamos,Técnica,ND,Experiencia
+CAND-039,Productos y servicios bancarios,Técnica,ND,Experiencia
+CAND-039,Verificación y registro de documentación de clientes,Técnica,ND,Experiencia
+CAND-039,Gestión administrativa y documental,Técnica,ND,Experiencia
+CAND-039,Técnicas de venta,Técnica,ND,Experiencia
+CAND-039,"Microsoft Office (Excel, Word, PowerPoint)",Digital,Avanzado,Autodeclarada
+CAND-039,Inteligencia artificial aplicada,Digital,Básico,Curso
+CAND-039,Liderazgo y desarrollo del talento humano,Certificación,ND,Curso
+CAND-039,Branding e imagen corporativa,Técnica,Básico,Curso
+CAND-039,Trabajo en equipo,Transversal,ND,Autodeclarada
+CAND-040,Atención al cliente,Transversal,ND,Experiencia
+CAND-040,Onboarding digital y apertura de cuentas,Técnica,ND,Experiencia
+CAND-040,Carga y validación de datos,Técnica,ND,Experiencia
+CAND-040,Parametrización de plataformas de venta digital,Digital,ND,Experiencia
+CAND-040,Capacitación a usuarios de backoffice,Transversal,ND,Experiencia
+CAND-040,Control de venta de cheques,Técnica,ND,Experiencia
+CAND-040,Microsoft Office,Digital,ND,Autodeclarada
+CAND-040,Resolución de problemas,Transversal,ND,Autodeclarada
+CAND-040,Trabajo en equipo,Transversal,ND,Autodeclarada
+CAND-041,Atención al cliente,Transversal,Avanzado,Experiencia
+CAND-041,Gestión de reclamos,Técnica,ND,Experiencia
+CAND-041,Validación documental y onboarding,Técnica,ND,Experiencia
+CAND-041,Monitoreo de pedidos y logística de entregas,Técnica,ND,Experiencia
+CAND-041,Telecobranzas,Técnica,ND,Experiencia
+CAND-041,Caja y cobros,Técnica,ND,Experiencia
+CAND-041,Captación y capacitación de vendedores y proveedores,Transversal,ND,Experiencia
+CAND-041,Excel y Word,Digital,ND,Experiencia
+CAND-041,Contabilidad básica,Técnica,Básico,Título
+CAND-041,Resolución de problemas,Transversal,ND,Autodeclarada
+CAND-042,Atención al cliente,Transversal,Avanzado,Experiencia
+CAND-042,Atención por canales digitales,Técnica,ND,Experiencia
+CAND-042,Gestión de reclamos,Técnica,ND,Experiencia
+CAND-042,Productos y servicios bancarios,Técnica,ND,Experiencia
+CAND-042,Ventas consultivas (POS y telefonía),Técnica,ND,Experiencia
+CAND-042,Soporte a comercios,Técnica,ND,Experiencia
+CAND-042,Gestión administrativa y facturación,Técnica,ND,Experiencia
+CAND-042,Gestión de compras e insumos,Técnica,ND,Experiencia
+CAND-042,Microsoft Excel,Digital,Intermedio,Autodeclarada
+CAND-042,Microsoft Word,Digital,Intermedio,Autodeclarada
+CAND-042,Comunicación efectiva,Transversal,ND,Autodeclarada
+CAND-043,Atención al cliente VIP,Transversal,Avanzado,Experiencia
+CAND-043,Gestión de casos y reclamos de segunda línea,Técnica,ND,Experiencia
+CAND-043,Manejo de core bancario,Digital,ND,Experiencia
+CAND-043,PLAFT/AML,Técnica,ND,Autodeclarada
+CAND-043,Primeros auxilios y prevención de riesgos,Certificación,ND,Curso
+CAND-043,"Microsoft Office (Word, Excel, PowerPoint)",Digital,Intermedio,Autodeclarada
+CAND-043,"Programación básica (Java, JavaScript, HTML)",Técnica,Básico,Curso
+CAND-043,Trabajo en equipo,Transversal,ND,Autodeclarada
+CAND-044,Gestión de reclamos,Técnica,ND,Experiencia
+CAND-044,Resolución de casos de fraude,Técnica,ND,Experiencia
+CAND-044,Monitoreo transaccional,Técnica,ND,Experiencia
+CAND-044,Verificación de documentos legales (banca empresas),Técnica,ND,Experiencia
+CAND-044,Apertura de cuentas,Técnica,ND,Experiencia
+CAND-044,Normativa financiera y regulatoria,Técnica,ND,Autodeclarada
+CAND-044,Administración de cartera de clientes,Técnica,ND,Experiencia
+CAND-044,Atención al cliente,Transversal,Avanzado,Experiencia
+CAND-044,Excel (carga de datos y planillas),Digital,ND,Experiencia
+CAND-044,Pensamiento analítico,Transversal,ND,Autodeclarada
+CAND-044,Resolución de conflictos,Transversal,ND,Autodeclarada
+CAND-045,Prevención de fraudes,Técnica,ND,Experiencia
+CAND-045,Monitoreo de movimientos sospechosos,Técnica,ND,Experiencia
+CAND-045,Bloqueos preventivos y mitigación de riesgos,Técnica,ND,Experiencia
+CAND-045,Verificación de identidad y protocolos de seguridad,Técnica,ND,Experiencia
+CAND-045,Apertura de cuentas y actualización de datos,Técnica,ND,Experiencia
+CAND-045,Gestión de reclamos,Técnica,ND,Experiencia
+CAND-045,Atención al cliente,Transversal,Avanzado,Experiencia
+CAND-045,Salesforce / CRM bancario,Digital,ND,Experiencia
+CAND-045,"Sistemas de medios de pago (Bancard, Mastercard Connect, Crediware)",Digital,ND,Autodeclarada
+CAND-045,Microsoft Office,Digital,ND,Curso
+CAND-045,Gestión de crisis,Transversal,ND,Autodeclarada
+CAND-045,Pensamiento analítico,Transversal,ND,Autodeclarada
+CAND-046,Atención al cliente,Transversal,Avanzado,Experiencia
+CAND-046,Gestión de reclamos,Técnica,ND,Experiencia
+CAND-046,Cobranzas y negociación de pagos,Técnica,ND,Experiencia
+CAND-046,Back office bancario y documentación,Técnica,ND,Experiencia
+CAND-046,Atención por canales digitales,Técnica,ND,Experiencia
+CAND-046,Televentas,Técnica,ND,Experiencia
+CAND-046,Gestión administrativa,Técnica,ND,Autodeclarada
+CAND-046,Resolución de problemas,Transversal,ND,Autodeclarada
+CAND-046,Comunicación efectiva,Transversal,ND,Autodeclarada
+CAND-047,Prevención de fraudes,Técnica,ND,Experiencia
+CAND-047,Atención al cliente,Transversal,Avanzado,Experiencia
+CAND-047,Gestión de casos,Técnica,ND,Experiencia
+CAND-047,Atención por canales digitales,Técnica,ND,Experiencia
+CAND-047,Cobranzas telefónicas,Técnica,ND,Experiencia
+CAND-047,Control de caja,Técnica,ND,Experiencia
+CAND-047,Gestión de redes sociales,Digital,ND,Experiencia
+CAND-047,Creación de contenido y copywriting,Digital,ND,Experiencia
+CAND-047,Planificación de campañas y análisis de métricas,Técnica,ND,Experiencia
+CAND-047,Comunicación efectiva,Transversal,ND,Autodeclarada
+CAND-047,Resolución de problemas,Transversal,ND,Autodeclarada
+CAND-048,Atención al cliente,Transversal,Avanzado,Experiencia
+CAND-048,Gestión de reclamos en redes sociales,Técnica,ND,Experiencia
+CAND-048,Monitoreo de redes sociales,Digital,ND,Experiencia
+CAND-048,Atención por chat y canales digitales,Técnica,ND,Experiencia
+CAND-048,"Productos bancarios (transferencias, préstamos, tarjetas)",Técnica,ND,Experiencia
+CAND-048,Retención y fidelización de clientes,Técnica,ND,Experiencia
+CAND-048,Cobranzas y negociación con clientes en mora,Técnica,ND,Experiencia
+CAND-048,Asesoramiento comercial corporativo,Técnica,ND,Experiencia
+CAND-048,Negociación,Transversal,ND,Autodeclarada
+CAND-048,Resolución de conflictos,Transversal,ND,Autodeclarada
+CAND-049,Gestión de importaciones y comercio exterior,Técnica,Avanzado,Experiencia
+CAND-049,Logística nacional e internacional,Técnica,Avanzado,Experiencia
+CAND-049,Procesos aduaneros,Técnica,Avanzado,Experiencia
+CAND-049,Control de inventarios y planificación por forecast,Técnica,Avanzado,Experiencia
+CAND-049,Negociación con proveedores,Transversal,Avanzado,Experiencia
+CAND-049,Apoyo en procesos licitatorios,Técnica,ND,Experiencia
+CAND-049,Manejo de personal,Transversal,ND,Experiencia
+CAND-049,"Descuento de cheques, pagarés y cobranzas",Técnica,ND,Experiencia
+CAND-049,Registros contables,Técnica,ND,Experiencia
+CAND-049,Atención al cliente bancario,Transversal,ND,Experiencia
+CAND-049,SAP,Digital,ND,Autodeclarada
+CAND-049,Excel avanzado,Digital,Avanzado,Autodeclarada
+CAND-049,Diplomado en Comercio Internacional,Certificación,ND,Curso
+CAND-050,Facturación,Técnica,ND,Experiencia
+CAND-050,Cobranzas y cuentas corrientes,Técnica,ND,Experiencia
+CAND-050,Registro de comprobantes contables,Técnica,ND,Experiencia
+CAND-050,Coordinación operativa de reservas y traslados,Técnica,ND,Experiencia
+CAND-050,Atención a clientes corporativos,Transversal,ND,Experiencia
+CAND-050,SAP,Digital,Intermedio,Experiencia
+CAND-050,Excel intermedio,Digital,Intermedio,Autodeclarada
+CAND-050,Microsoft Word,Digital,Intermedio,Autodeclarada
+CAND-050,Google Workspace (Sheets),Digital,Intermedio,Autodeclarada
+CAND-050,Organización y planificación,Transversal,ND,Autodeclarada
+CAND-051,Atención al cliente presencial y telefónica,Transversal,ND,Experiencia
+CAND-051,Gestión documental y archivo,Técnica,ND,Experiencia
+CAND-051,Manejo y cierre de caja,Técnica,ND,Experiencia
+CAND-051,Control de pagos a prestadores y rendición de gastos,Técnica,ND,Experiencia
+CAND-051,Gestión de agenda y turnos,Técnica,ND,Experiencia
+CAND-051,Técnico en Gestión Administrativa (MEC),Certificación,ND,Curso
+CAND-051,Técnico en Informática (MEC),Certificación,ND,Curso
+CAND-051,Auxiliar contable,Técnica,Básico,Curso
+CAND-051,Secretariado,Técnica,Básico,Curso
+CAND-051,Gestión del talento humano,Certificación,ND,Curso
+CAND-052,Reversión y conciliación de transacciones,Técnica,ND,Experiencia
+CAND-052,Soporte operativo a comercios (medios de pago),Técnica,ND,Experiencia
+CAND-052,Verificación de acreditaciones y devoluciones,Técnica,ND,Experiencia
+CAND-052,Facturación y notas de crédito,Técnica,ND,Experiencia
+CAND-052,Gestión de reclamos y postventa,Técnica,ND,Experiencia
+CAND-052,Control de estados de cuenta,Técnica,ND,Experiencia
+CAND-052,Salesforce,Digital,ND,Experiencia
+CAND-052,Portal de comercios Bancard / Mastercard / CyberSource,Digital,ND,Experiencia
+CAND-052,Excel,Digital,Básico,Curso
+CAND-052,Manejo de equipo,Transversal,ND,Experiencia
+CAND-052,Resolución de conflictos,Transversal,ND,Autodeclarada
+CAND-053,Gestión de fraude y monitoreo de alertas,Técnica,ND,Experiencia
+CAND-053,Verificación y validación de transacciones,Técnica,ND,Experiencia
+CAND-053,Gestión de reclamos,Técnica,ND,Experiencia
+CAND-053,Apertura de cuentas y contratos de servicios,Técnica,ND,Experiencia
+CAND-053,Arqueo de caja y manejo de valores,Técnica,ND,Experiencia
+CAND-053,Medidas de seguridad de billetes (BCP),Certificación,ND,Curso
+CAND-053,"Gestión de riesgo operacional (introducción, BCP)",Certificación,Básico,Curso
+CAND-053,Televentas,Técnica,ND,Experiencia
+CAND-053,Atención al cliente,Transversal,Avanzado,Experiencia
+CAND-053,"Microsoft Office (Word, Excel, PowerPoint)",Digital,ND,Autodeclarada
+CAND-053,Sistemas bancarios (Stealth),Digital,ND,Autodeclarada
+CAND-053,Reingeniería de procesos,Técnica,Básico,Curso
+CAND-054,Liquidación de impuestos y RG90 (Marangatu/SET),Técnica,Avanzado,Experiencia
+CAND-054,"Gestiones tributarias (RUC, timbrados)",Técnica,ND,Experiencia
+CAND-054,Facturación y cobros,Técnica,ND,Experiencia
+CAND-054,Conciliación de cuentas de clientes y proveedores,Técnica,ND,Experiencia
+CAND-054,Liquidación de nóminas y trámites IPS/MTESS,Técnica,ND,Experiencia
+CAND-054,Supervisión de personal,Transversal,ND,Experiencia
+CAND-054,Excel,Digital,ND,Autodeclarada
+CAND-054,StarSoft,Digital,ND,Autodeclarada
+CAND-054,Jira / Trello,Digital,ND,Autodeclarada
+CAND-054,Gestión del tiempo y planificación,Transversal,ND,Autodeclarada
+CAND-055,Gestión operativa de créditos,Técnica,ND,Experiencia
+CAND-055,Gestión documental,Técnica,ND,Experiencia
+CAND-055,Atención al cliente,Transversal,ND,Experiencia
+CAND-055,Control de calidad,Técnica,ND,Experiencia
+CAND-055,Elaboración de flujogramas de procesos,Técnica,ND,Experiencia
+CAND-055,SAP,Digital,Básico,Autodeclarada
+CAND-055,AutoCAD,Digital,ND,Autodeclarada
+CAND-055,Microsoft Office,Digital,ND,Autodeclarada
+CAND-055,Redacción de informes,Transversal,ND,Autodeclarada
+CAND-055,PLAFT/AML,Certificación,Básico,Curso
+CAND-055,Riesgo operacional,Técnica,Básico,Curso
+CAND-055,Prevención de fraude,Técnica,Básico,Curso
+CAND-055,Trabajo en equipo,Transversal,ND,Autodeclarada
+CAND-055,Resolución de problemas,Transversal,ND,Autodeclarada
+CAND-056,Prevención y gestión de fraude,Técnica,ND,Experiencia
+CAND-056,Verificación transaccional,Técnica,ND,Experiencia
+CAND-056,Gestión de reclamos,Técnica,ND,Experiencia
+CAND-056,"Operaciones bancarias (apertura de cuentas, pagos)",Técnica,ND,Experiencia
+CAND-056,Atención al cliente en canales digitales,Transversal,ND,Experiencia
+CAND-056,Mastercard Connected (parametrización),Digital,ND,Experiencia
+CAND-056,Gestión documental y digitalización,Técnica,ND,Experiencia
+CAND-056,Facturación y registro de IVA,Técnica,ND,Experiencia
+CAND-056,PLAFT/AML,Certificación,ND,Curso
+CAND-056,Cajero bancario,Certificación,ND,Curso
+CAND-056,Mercado de capitales,Técnica,ND,Curso
+CAND-056,Banca digital y Fintech,Técnica,ND,Curso
+CAND-056,Contrataciones públicas (DNCP),Técnica,ND,Curso
+CAND-056,Comunicación efectiva,Transversal,ND,Autodeclarada
+CAND-056,Trabajo en equipo,Transversal,ND,Autodeclarada
+CAND-057,Power BI,Digital,Avanzado,Experiencia
+CAND-057,SQL,Digital,Avanzado,Experiencia
+CAND-057,Python,Digital,Intermedio,Experiencia
+CAND-057,AWS,Digital,ND,Experiencia
+CAND-057,Amazon QuickSight,Digital,ND,Experiencia
+CAND-057,Data Warehouse y modelado de datos,Técnica,Avanzado,Experiencia
+CAND-057,Procesos ETL,Técnica,ND,Experiencia
+CAND-057,Definición de KPI gerenciales,Técnica,ND,Experiencia
+CAND-057,Calidad de datos,Técnica,ND,Experiencia
+CAND-057,Oracle / PostgreSQL / SQL Server / MySQL,Digital,ND,Experiencia
+CAND-057,Pentaho,Digital,ND,Experiencia
+CAND-057,MicroStrategy,Digital,ND,Experiencia
+CAND-057,Excel,Digital,ND,Curso
+CAND-057,Scrum,Certificación,ND,Curso
+CAND-057,Soporte IT / Service Desk,Técnica,ND,Experiencia
+CAND-058,Atención al cliente,Transversal,ND,Experiencia
+CAND-058,Manejo de caja,Técnica,ND,Experiencia
+CAND-058,Facturación,Técnica,ND,Experiencia
+CAND-058,Control de inventario,Técnica,ND,Experiencia
+CAND-058,Barismo (café de especialidad),Técnica,ND,Experiencia
+CAND-058,Bartender / coctelería,Certificación,ND,Curso
+CAND-058,Servicio de mesa y eventos,Técnica,ND,Experiencia
+CAND-058,Ventas telefónicas,Técnica,ND,Experiencia
+CAND-058,Trabajo en equipo,Transversal,ND,Autodeclarada
+CAND-058,Trabajo bajo presión,Transversal,ND,Autodeclarada
+CAND-059,ISO 9001 (auditora interna),Certificación,Avanzado,Curso
+CAND-059,ISO 27001 (auditora interna),Certificación,Avanzado,Curso
+CAND-059,ISO 37001 (auditora interna),Certificación,Avanzado,Curso
+CAND-059,ISO 37301 (auditora interna),Certificación,Avanzado,Curso
+CAND-059,ISO 14001 / ISO 27701,Técnica,ND,Experiencia
+CAND-059,Sistemas de gestión integrados,Técnica,Avanzado,Experiencia
+CAND-059,Auditoría interna,Técnica,Avanzado,Experiencia
+CAND-059,Diseño y estandarización de procesos,Técnica,ND,Experiencia
+CAND-059,Análisis de causa raíz,Técnica,ND,Experiencia
+CAND-059,Matriz de riesgos,Técnica,ND,Experiencia
+CAND-059,Estándar de Protección al Cliente,Técnica,ND,Experiencia
+CAND-059,Certificación SWIFT,Técnica,ND,Experiencia
+CAND-059,Gestión de reclamos,Técnica,ND,Experiencia
+CAND-059,Capacitación de equipos,Transversal,ND,Experiencia
+CAND-059,Liderazgo de equipos,Transversal,ND,Experiencia
+CAND-060,Cocina y emplatado,Técnica,ND,Título
+CAND-060,Elaboración de masas y pizzas,Técnica,Básico,Curso
+CAND-060,Atención al cliente,Transversal,ND,Experiencia
+CAND-060,Ventas en salón,Técnica,ND,Experiencia
+CAND-060,Atención telefónica y por chat,Técnica,ND,Experiencia
+CAND-060,Coordinación de entregas mayoristas,Técnica,ND,Experiencia
+CAND-060,Marketing y piezas publicitarias,Técnica,ND,Experiencia
+CAND-060,Canva,Digital,ND,Autodeclarada
+CAND-060,CapCut,Digital,ND,Autodeclarada
+CAND-060,Figma,Digital,ND,Autodeclarada
+CAND-060,Diseño UI/UX,Digital,Básico,Curso
+CAND-061,PLAFT/AML,Certificación,Avanzado,Curso
+CAND-061,Debida diligencia y screening de terceros,Técnica,Avanzado,Experiencia
+CAND-061,Matrices de riesgos y obligaciones,Técnica,ND,Experiencia
+CAND-061,ISO 37001 / ISO 37301,Certificación,ND,Curso
+CAND-061,Normativa SEPRELAD,Técnica,ND,Curso
+CAND-061,Recomendaciones GAFI,Certificación,ND,Curso
+CAND-061,Auditoría interna y evaluación de controles,Técnica,ND,Experiencia
+CAND-061,Elaboración de políticas y procedimientos,Técnica,ND,Experiencia
+CAND-061,Monitoreo transaccional,Técnica,ND,Experiencia
+CAND-061,Python,Digital,ND,Experiencia
+CAND-061,SQL,Digital,Intermedio,Autodeclarada
+CAND-061,Excel avanzado,Digital,Avanzado,Autodeclarada
+CAND-061,Looker Studio,Digital,ND,Autodeclarada
+CAND-061,Jira,Digital,ND,Autodeclarada
+CAND-061,Capacitación,Transversal,ND,Experiencia
+CAND-062,Comunicación corporativa,Técnica,Avanzado,Experiencia
+CAND-062,Relaciones públicas y prensa,Técnica,Avanzado,Experiencia
+CAND-062,Branding y voz de marca,Técnica,ND,Experiencia
+CAND-062,Comunicación interna y endomarketing,Técnica,ND,Experiencia
+CAND-062,Comunicación de crisis,Técnica,ND,Experiencia
+CAND-062,Redacción y edición de contenidos,Técnica,Avanzado,Experiencia
+CAND-062,"Customer Experience (NPS, CSAT)",Técnica,ND,Experiencia
+CAND-062,Marketing digital,Técnica,ND,Curso
+CAND-062,SEO/SEM,Digital,ND,Autodeclarada
+CAND-062,Google Ads / Meta Ads,Digital,ND,Curso
+CAND-062,Gestión de proyectos,Transversal,ND,Experiencia
+CAND-062,Inversiones y mercado de valores,Técnica,ND,Curso
+CAND-062,Ceremonial y protocolo,Certificación,ND,Curso
+CAND-063,Comunicación corporativa,Técnica,Avanzado,Experiencia
+CAND-063,Posicionamiento de marca / branding,Técnica,Avanzado,Experiencia
+CAND-063,Relaciones con medios y vocería,Técnica,ND,Experiencia
+CAND-063,Dirección editorial,Técnica,ND,Experiencia
+CAND-063,Producción audiovisual,Técnica,ND,Experiencia
+CAND-063,Campañas de marketing 360°,Técnica,ND,Experiencia
+CAND-063,Gestión presupuestaria,Técnica,ND,Experiencia
+CAND-063,Organización de eventos de marca,Técnica,ND,Experiencia
+CAND-063,Liderazgo de equipos,Transversal,ND,Experiencia
+CAND-063,Gestión de stakeholders,Transversal,ND,Experiencia
+CAND-063,WordPress,Digital,ND,Autodeclarada
+CAND-063,Mailchimp,Digital,ND,Autodeclarada
+CAND-063,Meta Business Suite,Digital,ND,Autodeclarada
+CAND-063,Google Analytics,Digital,ND,Autodeclarada
+CAND-063,CRM,Digital,ND,Autodeclarada
+CAND-064,Contabilidad general y cierres contables,Técnica,Avanzado,Título
+CAND-064,Liquidación de impuestos (SET),Técnica,ND,Experiencia
+CAND-064,RG 90 (control documental tributario),Técnica,ND,Experiencia
+CAND-064,Conciliaciones bancarias,Técnica,ND,Experiencia
+CAND-064,Elaboración de estados financieros,Técnica,ND,Autodeclarada
+CAND-064,Auditoría interna de cuentas,Técnica,ND,Experiencia
+CAND-064,Tesorería y caja chica,Técnica,ND,Experiencia
+CAND-064,SAP,Digital,ND,Autodeclarada
+CAND-064,Oracle,Digital,ND,Autodeclarada
+CAND-064,Starsoft,Digital,ND,Autodeclarada
+CAND-064,Marangatú / Tesaka,Digital,ND,Experiencia
+CAND-064,Excel (aplicación contable),Digital,Intermedio,Autodeclarada
+CAND-064,Microsoft Word,Digital,Avanzado,Autodeclarada
+CAND-065,Conciliaciones contables y bancarias,Técnica,Avanzado,Experiencia
+CAND-065,Conciliación de medios de pago y billeteras electrónicas,Técnica,ND,Experiencia
+CAND-065,Análisis de transacciones financieras,Técnica,ND,Experiencia
+CAND-065,Control operativo y seguimiento de diferencias,Técnica,ND,Experiencia
+CAND-065,Registro y análisis contable,Técnica,ND,Experiencia
+CAND-065,Presentación de obligaciones tributarias,Técnica,ND,Experiencia
+CAND-065,Documentación de procesos y procedimientos,Técnica,ND,Experiencia
+CAND-065,Automatización y mejora de procesos,Transversal,ND,Experiencia
+CAND-065,"Excel (tablas dinámicas, Power Query)",Digital,Intermedio,Autodeclarada
+CAND-065,Microsoft Office,Digital,ND,Autodeclarada
+CAND-065,Google Workspace,Digital,ND,Autodeclarada
+CAND-065,Starsoft,Digital,ND,Autodeclarada
+CAND-065,Marangatú,Digital,ND,Autodeclarada
+CAND-065,Coordinación interáreas,Transversal,ND,Experiencia
+CAND-066,Control presupuestario y análisis de costos,Técnica,ND,Experiencia
+CAND-066,Gestión de proveedores,Técnica,ND,Experiencia
+CAND-066,Gestión de tickets y reclamos (Jira),Digital,ND,Experiencia
+CAND-066,Gestión de permisos municipales y licencias ambientales (MADES),Técnica,ND,Experiencia
+CAND-066,Contabilidad y conciliaciones bancarias,Técnica,ND,Experiencia
+CAND-066,"Liquidación de impuestos (IVA, IRE, IRP)",Técnica,ND,Experiencia
+CAND-066,Liquidación de salarios y nómina,Técnica,ND,Experiencia
+CAND-066,Control de stock e inventarios,Técnica,ND,Experiencia
+CAND-066,SAP S/4HANA,Digital,ND,Autodeclarada
+CAND-066,Starsoft / Datamex ERP / Marangatú,Digital,ND,Autodeclarada
+CAND-066,SQL,Certificación,Avanzado,Curso
+CAND-066,Power BI,Digital,ND,Autodeclarada
+CAND-066,Microsoft Excel,Digital,ND,Autodeclarada
+CAND-066,PLAFT/AML,Certificación,Básico,Curso
+CAND-066,Prevención de fraude,Técnica,Básico,Curso
+CAND-067,Monitoreo de ATM y niveles de servicio (Uptime),Técnica,Avanzado,Experiencia
+CAND-067,Gestión de terminales POS,Técnica,ND,Experiencia
+CAND-067,Gestión de incidencias y soporte técnico,Técnica,ND,Experiencia
+CAND-067,Gestión de reclamos,Técnica,ND,Experiencia
+CAND-067,Control de inventarios de equipos,Técnica,ND,Experiencia
+CAND-067,Atención al cliente bancario,Transversal,ND,Experiencia
+CAND-067,SQL,Digital,Intermedio,Curso
+CAND-067,AWS QuickSight,Digital,ND,Curso
+CAND-067,Grafana,Digital,ND,Autodeclarada
+CAND-067,ATMCentre,Digital,ND,Autodeclarada
+CAND-067,Salesforce,Digital,ND,Autodeclarada
+CAND-067,AS400 y sistemas bancarios,Digital,ND,Experiencia
+CAND-067,Excel,Digital,ND,Autodeclarada
+CAND-067,Elaboración de reportes operativos,Transversal,ND,Experiencia
+CAND-068,Gestión de cobranzas,Técnica,Avanzado,Experiencia
+CAND-068,Negociación de deudas y acuerdos de pago,Técnica,Avanzado,Experiencia
+CAND-068,Refinanciación y reestructuración de créditos,Técnica,ND,Experiencia
+CAND-068,Análisis de crédito,Técnica,ND,Experiencia
+CAND-068,Recuperación de cartera en mora,Técnica,ND,Experiencia
+CAND-068,Cobranza prejudicial y judicial,Técnica,ND,Experiencia
+CAND-068,Liderazgo de equipos de cobranza,Transversal,ND,Experiencia
+CAND-068,Coordinación de agencias externas,Técnica,ND,Experiencia
+CAND-068,Elaboración de informes de gestión,Transversal,ND,Experiencia
+CAND-068,Atención al cliente,Transversal,ND,Experiencia
+CAND-068,Gestión de reclamos,Técnica,ND,Experiencia
+CAND-068,Excel,Digital,ND,Autodeclarada
+CAND-069,Cámara compensadora y clearing digital,Técnica,Avanzado,Experiencia
+CAND-069,Normativa BCP,Técnica,Avanzado,Experiencia
+CAND-069,PLAFT/AML,Certificación,Avanzado,Curso
+CAND-069,Tesorería,Técnica,ND,Experiencia
+CAND-069,Cuentas corrientes corporativas,Técnica,ND,Experiencia
+CAND-069,Conciliaciones bancarias,Técnica,ND,Experiencia
+CAND-069,Gestión de rechazos de instrumentos,Técnica,ND,Experiencia
+CAND-069,Validación de instrumentos financieros y prevención de fraude documental,Técnica,ND,Experiencia
+CAND-069,Liderazgo de equipos operativos,Transversal,ND,Experiencia
+CAND-070,Análisis y mejora de procesos,Técnica,Avanzado,Experiencia
+CAND-070,Documentación de políticas y procedimientos,Técnica,Avanzado,Experiencia
+CAND-070,Definición y seguimiento de KPI,Técnica,ND,Experiencia
+CAND-070,Análisis de causa raíz,Técnica,ND,Experiencia
+CAND-070,ISO 9001,Certificación,ND,Curso
+CAND-070,Soporte a auditorías ISO,Técnica,ND,Experiencia
+CAND-070,Estructura organizacional y gestión del cambio,Técnica,ND,Experiencia
+CAND-070,Liderazgo de equipos,Transversal,ND,Experiencia
+CAND-070,Tesorería y pagos a proveedores,Técnica,ND,Experiencia
+CAND-070,Conciliaciones bancarias,Técnica,ND,Experiencia
+CAND-070,Manejo de caja y facturación,Técnica,ND,Experiencia
+CAND-070,Microsoft Visio,Digital,ND,Autodeclarada
+CAND-070,Microsoft Office,Digital,ND,Autodeclarada
+CAND-071,Evaluación de desempeño,Técnica,Avanzado,Experiencia
+CAND-071,Plan anual de capacitación y presupuesto,Técnica,Avanzado,Experiencia
+CAND-071,Clima organizacional,Técnica,ND,Experiencia
+CAND-071,Onboarding y período de prueba,Técnica,ND,Experiencia
+CAND-071,KPI de RR.HH.,Técnica,ND,Curso
+CAND-071,Organigramas y descriptivos de cargo,Técnica,ND,Experiencia
+CAND-071,Reclutamiento y selección,Técnica,ND,Experiencia
+CAND-071,Auditorías ISO 9001 / 27001 / 37001 / 37301,Técnica,ND,Experiencia
+CAND-071,Gestión de proveedores,Técnica,ND,Experiencia
+CAND-071,People analytics,Técnica,ND,Curso
+CAND-071,"Google Apps Script (JavaScript, HTML)",Digital,Intermedio,Experiencia
+CAND-071,Looker Studio,Digital,ND,Experiencia
+CAND-071,Power BI,Digital,ND,Curso
+CAND-071,Excel avanzado,Digital,Avanzado,Curso
+CAND-071,Automatización de procesos de RR.HH.,Digital,ND,Experiencia
+CAND-072,ISO 9001,Técnica,Avanzado,Experiencia
+CAND-072,ISO/IEC 27001,Técnica,ND,Experiencia
+CAND-072,ISO 37301,Técnica,ND,Experiencia
+CAND-072,ISO/IEC 20000-1,Técnica,ND,Experiencia
+CAND-072,ISO 37001 (auditor y manager),Certificación,ND,Curso
+CAND-072,ISO 14001,Certificación,ND,Curso
+CAND-072,Gestión de certificaciones internacionales,Técnica,Avanzado,Experiencia
+CAND-072,Auditoría interna,Técnica,ND,Experiencia
+CAND-072,Revisión por la Dirección,Técnica,ND,Experiencia
+CAND-072,No conformidades y planes de acción,Técnica,ND,Experiencia
+CAND-072,Matriz de riesgos,Técnica,ND,Experiencia
+CAND-072,Mapeo de procesos y procedimientos,Técnica,ND,Experiencia
+CAND-072,Indicadores de gestión,Técnica,ND,Experiencia
+CAND-072,Metodologías ágiles,Técnica,ND,Curso
+CAND-073,PLAFT/AML,Técnica,Avanzado,Experiencia
+CAND-073,Debida diligencia,Técnica,ND,Experiencia
+CAND-073,Monitoreo de alertas y operaciones inusuales,Técnica,ND,Experiencia
+CAND-073,Reporte de operaciones sospechosas (ROS/SIRO - SEPRELAD),Técnica,ND,Experiencia
+CAND-073,Verificación de antecedentes y prensa negativa,Técnica,ND,Experiencia
+CAND-073,Atención de auditorías internas y externas,Técnica,ND,Experiencia
+CAND-073,Calidad de datos para clasificación de riesgo,Técnica,ND,Experiencia
+CAND-073,Amazon Athena (AWS),Digital,ND,Experiencia
+CAND-073,Automatización de procesos y análisis de datos,Digital,ND,Experiencia
+CAND-073,Herramientas de inteligencia artificial,Digital,ND,Experiencia
+CAND-073,Power BI,Digital,ND,Curso
+CAND-073,Excel,Digital,ND,Autodeclarada
+CAND-073,ISO 37001 / ISO 37301,Certificación,ND,Curso
+CAND-074,Java,Digital,Avanzado,Experiencia
+CAND-074,Spring Boot,Digital,Avanzado,Experiencia
+CAND-074,Microservicios,Técnica,ND,Experiencia
+CAND-074,APIs REST,Técnica,ND,Experiencia
+CAND-074,Arquitectura hexagonal,Técnica,ND,Experiencia
+CAND-074,PostgreSQL / SQL,Digital,ND,Experiencia
+CAND-074,Docker,Digital,ND,Experiencia
+CAND-074,Jenkins (CI/CD),Digital,ND,Experiencia
+CAND-074,Git,Digital,ND,Experiencia
+CAND-074,Angular,Digital,ND,Autodeclarada
+CAND-074,JavaScript / jQuery / HTML / CSS,Digital,ND,Experiencia
+CAND-074,"Python (Django, Celery)",Digital,ND,Autodeclarada
+CAND-074,Grafana / Loki,Digital,ND,Autodeclarada
+CAND-074,Linux,Digital,ND,Autodeclarada
+CAND-075,Flutter,Digital,Avanzado,Experiencia
+CAND-075,Dart,Digital,Avanzado,Experiencia
+CAND-075,"Desarrollo móvil multiplataforma (Android, Windows)",Técnica,ND,Experiencia
+CAND-075,Spring Boot,Digital,ND,Experiencia
+CAND-075,Node.js,Digital,ND,Experiencia
+CAND-075,ASP.NET / C#,Digital,ND,Experiencia
+CAND-075,APIs REST,Técnica,ND,Experiencia
+CAND-075,SQL Server,Digital,ND,Experiencia
+CAND-075,MongoDB,Digital,ND,Experiencia
+CAND-075,JavaScript / HTML / CSS,Digital,ND,Autodeclarada
+CAND-075,Vue.js / AngularJS,Digital,ND,Autodeclarada
+CAND-075,Java,Digital,ND,Autodeclarada
+CAND-075,Python,Digital,ND,Autodeclarada
+CAND-075,Soporte técnico y redes,Técnica,ND,Experiencia
+CAND-076,React,Digital,Avanzado,Experiencia
+CAND-076,Next.js,Digital,Avanzado,Experiencia
+CAND-076,TypeScript / JavaScript,Digital,Avanzado,Experiencia
+CAND-076,HTML5 / CSS / Tailwind CSS,Digital,ND,Experiencia
+CAND-076,Redux Toolkit / Zustand / TanStack,Digital,ND,Experiencia
+CAND-076,"Testing (Vitest, Playwright)",Digital,ND,Experiencia
+CAND-076,"Observabilidad (New Relic, Sentry)",Digital,ND,Experiencia
+CAND-076,Google Tag Manager,Digital,ND,Experiencia
+CAND-076,"CI/CD (GitHub Actions, Jenkins)",Digital,ND,Experiencia
+CAND-076,Docker,Digital,ND,Experiencia
+CAND-076,PostgreSQL / Prisma,Digital,ND,Experiencia
+CAND-076,Python / Django,Digital,ND,Autodeclarada
+CAND-076,Scrum / Kanban,Técnica,ND,Experiencia
+CAND-076,Liderazgo técnico de equipos,Transversal,ND,Experiencia
+CAND-077,Gestión de cuentas clave (KAM),Técnica,ND,Experiencia
+CAND-077,Ventas B2B y desarrollo de negocios,Técnica,ND,Experiencia
+CAND-077,Venta consultiva y cierre de ventas,Técnica,ND,Experiencia
+CAND-077,E-commerce y ventas online,Técnica,ND,Experiencia
+CAND-077,Marketing digital,Técnica,ND,Autodeclarada
+CAND-077,Gestión de leads y conversión,Técnica,ND,Experiencia
+CAND-077,Onboarding tecnológico de clientes,Técnica,ND,Experiencia
+CAND-077,Soluciones fintech y pasarelas de pago,Técnica,ND,Experiencia
+CAND-077,Procesamiento de solicitudes de crédito,Técnica,ND,Experiencia
+CAND-077,Negociación internacional y logística documental,Técnica,ND,Experiencia
+CAND-077,Análisis de datos para toma de decisiones,Transversal,ND,Autodeclarada
+CAND-077,Fidelización de clientes,Transversal,ND,Experiencia
+CAND-077,Control de calidad en laboratorio,Técnica,ND,Experiencia
+CAND-078,Atención al cliente presencial,Transversal,ND,Experiencia
+CAND-078,Gestión de reclamos,Técnica,ND,Experiencia
+CAND-078,Resolución de incidencias bancarias,Técnica,ND,Experiencia
+CAND-078,Registro y seguimiento de casos,Técnica,ND,Experiencia
+CAND-078,Sistemas y herramientas bancarias,Digital,Avanzado,Autodeclarada
+CAND-078,Protocolos y procesos bancarios,Técnica,ND,Experiencia
+CAND-078,Secretaría administrativa,Técnica,ND,Experiencia
+CAND-078,Empatía y trato cordial,Transversal,ND,Autodeclarada
+CAND-078,Orientación al detalle,Transversal,ND,Autodeclarada
+CAND-079,"Atención al cliente multicanal (teléfono, chat, correo)",Transversal,Avanzado,Experiencia
+CAND-079,Gestión de reclamos,Técnica,ND,Experiencia
+CAND-079,Telecobranzas y negociación de mora,Técnica,ND,Experiencia
+CAND-079,Ventas en salón,Técnica,ND,Experiencia
+CAND-079,Venta de préstamos,Técnica,ND,Experiencia
+CAND-079,Manejo de caja,Técnica,ND,Experiencia
+CAND-079,Control de stock,Técnica,ND,Experiencia
+CAND-079,Atención a socios de cooperativa (ahorro y tarjetas),Técnica,ND,Experiencia
+CAND-079,Capacitación de nuevos ingresos,Transversal,ND,Experiencia
+CAND-079,PLAFT/AML,Certificación,Básico,Curso
+CAND-079,Riesgo operacional,Técnica,Básico,Curso
+CAND-079,Paquete Office,Digital,ND,Autodeclarada
+CAND-079,Dactilografía computarizada,Digital,ND,Autodeclarada
+CAND-079,Escucha activa,Transversal,ND,Autodeclarada
+CAND-079,Trabajo bajo presión,Transversal,ND,Autodeclarada
+CAND-080,Atención al cliente,Transversal,ND,Experiencia
+CAND-080,Atención bancaria en sucursal,Técnica,ND,Experiencia
+CAND-080,Registro contable,Técnica,Básico,Experiencia
+CAND-080,PLAFT/AML,Certificación,Básico,Curso
+CAND-080,Riesgo operacional,Técnica,Básico,Curso
+CAND-080,Seguridad de la información y ciberseguridad,Técnica,Básico,Curso
+CAND-080,Fundamentos de IA generativa,Digital,Básico,Curso
+CAND-080,Trato adecuado a personas con discapacidad,Transversal,ND,Curso
+CAND-080,Relaciones interpersonales,Transversal,ND,Autodeclarada
+CAND-080,Organización,Transversal,ND,Autodeclarada
+CAND-081,Atención al cliente bancario,Transversal,ND,Experiencia
+CAND-081,Gestión de reclamos,Técnica,ND,Experiencia
+CAND-081,Venta de productos financieros,Técnica,ND,Experiencia
+CAND-081,Apertura y cierre de cuentas,Técnica,ND,Experiencia
+CAND-081,Gestión de cartera en mora y negociación,Técnica,ND,Experiencia
+CAND-081,Refinanciación de cuentas,Técnica,ND,Experiencia
+CAND-081,Redacción de escritos jurídicos,Técnica,ND,Experiencia
+CAND-081,Gestión de expedientes electrónicos,Técnica,ND,Experiencia
+CAND-081,"Procuración (tribunales, registros, Ministerio Público)",Técnica,ND,Experiencia
+CAND-081,Impulsión de ventas y presencia de marca,Técnica,ND,Experiencia
+CAND-082,Apertura y alta de cuentas (persona física y jurídica),Técnica,Intermedio,Experiencia
+CAND-082,Validación de firmas y requisitos legales,Técnica,Intermedio,Experiencia
+CAND-082,Conciliación de saldos y extractos bancarios,Técnica,Intermedio,Experiencia
+CAND-082,Evaluación de perfiles de riesgo crediticio,Técnica,Intermedio,Experiencia
+CAND-082,Transferencias SIPAP/SPI,Técnica,Avanzado,Experiencia
+CAND-082,Prevención de fraude,Técnica,Intermedio,Experiencia
+CAND-082,Gestión de contracargos de tarjetas,Técnica,Intermedio,Experiencia
+CAND-082,Gestión de tarjetas de crédito y débito,Técnica,Intermedio,Experiencia
+CAND-082,Macros de Excel,Digital,ND,Experiencia
+CAND-082,Sistemas core bancarios,Digital,Avanzado,Experiencia
+CAND-082,Capacidad analítica,Transversal,ND,Autodeclarada
+CAND-082,Trabajo en equipo,Transversal,ND,Autodeclarada
+CAND-082,Liderazgo de equipo,Transversal,ND,Autodeclarada
+CAND-082,Organización y planificación,Transversal,ND,Autodeclarada
+CAND-083,Atención bancaria digital,Técnica,Intermedio,Experiencia
+CAND-083,Contact center,Técnica,Avanzado,Experiencia
+CAND-083,Atención al cliente,Transversal,Avanzado,Experiencia
+CAND-083,Gestión de reclamos,Técnica,Intermedio,Experiencia
+CAND-083,Ventas y fidelización,Técnica,Avanzado,Experiencia
+CAND-083,Apoyo contable y facturación,Técnica,Intermedio,Experiencia
+CAND-083,Declaraciones juradas impositivas,Técnica,Básico,Experiencia
+CAND-083,Elaboración de instructivos y documentación operativa,Técnica,Intermedio,Experiencia
+CAND-083,"Microsoft Office (Word, Excel, PowerPoint, Access)",Digital,ND,Autodeclarada
+CAND-083,CRM,Digital,ND,Experiencia
+CAND-083,Google Workspace,Digital,ND,Autodeclarada
+CAND-083,WhatsApp Business,Digital,ND,Experiencia
+CAND-083,Cumplimiento de KPIs,Transversal,ND,Experiencia
+CAND-083,Resolución de conflictos,Transversal,ND,Autodeclarada
+CAND-084,Atención al cliente,Transversal,Avanzado,Experiencia
+CAND-084,Atención bancaria,Técnica,Intermedio,Experiencia
+CAND-084,Ventas minoristas,Técnica,Avanzado,Experiencia
+CAND-084,Manejo de caja,Técnica,Intermedio,Experiencia
+CAND-084,Gestión de tienda,Técnica,Avanzado,Experiencia
+CAND-084,Proactividad,Transversal,ND,Autodeclarada
+CAND-084,Organización,Transversal,ND,Autodeclarada
+CAND-084,Relaciones interpersonales,Transversal,ND,Autodeclarada
+CAND-085,Banca privada,Técnica,Avanzado,Experiencia
+CAND-085,Gestión patrimonial (Wealth Management),Técnica,Intermedio,Experiencia
+CAND-085,Asesoramiento de inversiones,Técnica,Intermedio,Experiencia
+CAND-085,Desarrollo de negocios y captación de clientes,Técnica,Intermedio,Experiencia
+CAND-085,Gestión de cartera de clientes,Técnica,Intermedio,Experiencia
+CAND-085,Análisis financiero,Técnica,Intermedio,Título
+CAND-085,Operaciones de back office bancario,Técnica,Intermedio,Experiencia
+CAND-085,Cobranzas,Técnica,Básico,Experiencia
+CAND-085,Negociación,Transversal,ND,Experiencia
+CAND-085,Power BI,Digital,ND,Autodeclarada
+CAND-085,CRM,Digital,ND,Autodeclarada
+CAND-085,Microsoft Office,Digital,ND,Autodeclarada
+CAND-085,Atención al cliente,Transversal,Avanzado,Experiencia
+CAND-086,Originación de créditos hipotecarios,Técnica,Intermedio,Experiencia
+CAND-086,Análisis documental de créditos,Técnica,Intermedio,Experiencia
+CAND-086,Formalización y desembolso de créditos,Técnica,Intermedio,Experiencia
+CAND-086,Cumplimiento de políticas de riesgo,Técnica,Básico,Experiencia
+CAND-086,Ventas consultivas a clientes de alto perfil,Técnica,Avanzado,Experiencia
+CAND-086,Fidelización de clientes,Técnica,Avanzado,Experiencia
+CAND-086,Telemarketing,Técnica,Intermedio,Experiencia
+CAND-086,Gestión de redes sociales,Digital,Intermedio,Experiencia
+CAND-086,Estrategias comerciales y de marketing,Técnica,Intermedio,Experiencia
+CAND-086,Negociación,Transversal,ND,Autodeclarada
+CAND-086,Trabajo en equipo,Transversal,ND,Autodeclarada
+CAND-086,Organización,Transversal,ND,Autodeclarada
+CAND-087,Atención al cliente en servicios financieros,Transversal,Intermedio,Experiencia
+CAND-087,Gestión de reclamos,Técnica,Intermedio,Experiencia
+CAND-087,Remesas internacionales (Western Union y similares),Técnica,Intermedio,Experiencia
+CAND-087,"Plataformas de pago y cobranza (Wepa, Infonet, Practipago, Aquipago)",Técnica,Intermedio,Experiencia
+CAND-087,Verificación y control de transacciones,Técnica,Intermedio,Experiencia
+CAND-087,Manejo de caja y valores,Técnica,Intermedio,Experiencia
+CAND-087,Cobranzas,Técnica,Básico,Experiencia
+CAND-087,Herramientas ofimáticas,Digital,ND,Autodeclarada
+CAND-087,Inteligencia artificial aplicada,Certificación,Básico,Curso
+CAND-087,Reparación y mantenimiento de celulares,Certificación,Básico,Curso
+CAND-087,Trabajo bajo presión,Transversal,ND,Autodeclarada
+CAND-087,Comunicación efectiva,Transversal,ND,Autodeclarada
+CAND-088,"Sistemas bancarios (Bantotal, Bancard, Cash Management)",Digital,Intermedio,Experiencia
+CAND-088,Soporte de banca digital empresarial,Técnica,Intermedio,Experiencia
+CAND-088,Administración de usuarios y perfiles corporativos,Técnica,Intermedio,Experiencia
+CAND-088,Operaciones de back office bancario,Técnica,Intermedio,Experiencia
+CAND-088,Verificación documental y cumplimiento normativo,Técnica,Básico,Experiencia
+CAND-088,Gestión de reclamos,Técnica,Intermedio,Experiencia
+CAND-088,Atención al cliente multicanal,Transversal,Intermedio,Experiencia
+CAND-088,Marangatu (RUC) y JUPE,Digital,ND,Autodeclarada
+CAND-088,Excel,Digital,Intermedio,Autodeclarada
+CAND-088,Word,Digital,Intermedio,Autodeclarada
+CAND-088,Resolución de problemas,Transversal,ND,Autodeclarada
+CAND-088,Trabajo en equipo,Transversal,ND,Autodeclarada
+CAND-089,"Asesoría en productos financieros (préstamos, inversiones)",Técnica,Intermedio,Experiencia
+CAND-089,Gestión de reclamos,Técnica,Intermedio,Experiencia
+CAND-089,Ventas de productos bancarios,Técnica,Intermedio,Experiencia
+CAND-089,Verificación de datos en procesos de crédito,Técnica,Básico,Experiencia
+CAND-089,Operaciones de tarjetas de crédito y financiamiento vehicular,Técnica,Básico,Experiencia
+CAND-089,Reclutamiento y gestión de expedientes,Técnica,Básico,Experiencia
+CAND-089,Software de gestión,Digital,ND,Autodeclarada
+CAND-089,Informática,Digital,Avanzado,Autodeclarada
+CAND-089,Software de diseño,Digital,Básico,Autodeclarada
+CAND-089,Atención al cliente,Transversal,Intermedio,Experiencia
+CAND-089,Trabajo en equipo,Transversal,ND,Autodeclarada
+CAND-090,Atención al cliente omnicanal,Transversal,Avanzado,Experiencia
+CAND-090,Gestión de reclamos,Técnica,Avanzado,Experiencia
+CAND-090,Asesoría en productos bancarios,Técnica,Intermedio,Experiencia
+CAND-090,Negociación de cobranzas (mora temprana y tardía),Técnica,Intermedio,Experiencia
+CAND-090,Gestión extrajudicial de cobros,Técnica,Intermedio,Experiencia
+CAND-090,Agendamiento de turnos médicos,Técnica,Avanzado,Experiencia
+CAND-090,Elaboración de presupuestos,Técnica,Básico,Experiencia
+CAND-090,Fidelización de clientes,Técnica,Intermedio,Experiencia
+CAND-090,WhatsApp y correo como canales de atención,Digital,ND,Experiencia
+CAND-090,Negociación,Transversal,ND,Experiencia
+CAND-091,Monitoreo transaccional y detección de fraude,Técnica,Avanzado,Experiencia
+CAND-091,Gestión de contracargos y disputas,Técnica,Intermedio,Experiencia
+CAND-091,Herramientas de mitigación de fraude de Mastercard,Digital,Intermedio,Experiencia
+CAND-091,Crediware,Digital,Intermedio,Experiencia
+CAND-091,Bloqueo y desbloqueo de medios de pago,Técnica,Avanzado,Experiencia
+CAND-091,Validación de identidad y seguridad de accesos,Técnica,Intermedio,Experiencia
+CAND-091,PLAFT/AML,Certificación,ND,Curso
+CAND-091,Riesgo operacional,Técnica,Básico,Curso
+CAND-091,Ciberseguridad,Certificación,ND,Curso
+CAND-091,Auditoría de calidad de atención,Técnica,Intermedio,Experiencia
+CAND-091,Capacitación de agentes,Transversal,Intermedio,Experiencia
+CAND-091,Gestión de reclamos,Técnica,Intermedio,Experiencia
+CAND-091,Manejo de caja y arqueos,Técnica,Intermedio,Experiencia
+CAND-091,Excel avanzado y financiero,Digital,ND,Curso
+CAND-091,Administración bancaria,Técnica,Básico,Curso
+CAND-092,Venta de productos financieros,Técnica,Avanzado,Experiencia
+CAND-092,Colocación de préstamos y tarjetas,Técnica,Avanzado,Experiencia
+CAND-092,Venta de seguros,Técnica,Avanzado,Experiencia
+CAND-092,Administración de cartera de clientes,Técnica,Avanzado,Experiencia
+CAND-092,Gestión de mora,Técnica,Intermedio,Experiencia
+CAND-092,Análisis de crédito,Técnica,Intermedio,Experiencia
+CAND-092,Préstamos con fondeo AFD,Técnica,Intermedio,Experiencia
+CAND-092,Atención al cliente,Transversal,Avanzado,Experiencia
+CAND-092,Negociación,Transversal,ND,Autodeclarada
+CAND-092,Resolución de problemas,Transversal,ND,Autodeclarada
+CAND-092,Trabajo en equipo,Transversal,ND,Autodeclarada
+CAND-093,Tesorería de sucursal y control de bóveda,Técnica,Avanzado,Experiencia
+CAND-093,Abastecimiento de ATMs,Técnica,Intermedio,Experiencia
+CAND-093,Operaciones de caja y cambio de divisas,Técnica,Avanzado,Experiencia
+CAND-093,Apertura y cancelación de cuentas,Técnica,Intermedio,Experiencia
+CAND-093,Transferencias internacionales,Técnica,Intermedio,Experiencia
+CAND-093,Desembolso y cobro de créditos,Técnica,Intermedio,Experiencia
+CAND-093,Verificación de solicitudes de crédito,Técnica,Básico,Experiencia
+CAND-093,Gestión de cobranzas y mora,Técnica,Avanzado,Experiencia
+CAND-093,Supervisión y capacitación de equipos de cobranza,Transversal,Intermedio,Experiencia
+CAND-093,Prevención de fraude (bloqueo de tarjetas),Técnica,Básico,Experiencia
+CAND-093,Atención al cliente,Transversal,Avanzado,Experiencia
+CAND-093,Ofimática,Digital,ND,Autodeclarada
+CAND-093,Diseño gráfico y marketing digital,Digital,Intermedio,Curso
+CAND-093,Trámites aduaneros,Técnica,Básico,Experiencia
+CAND-094,Conciliación bancaria,Técnica,Intermedio,Experiencia
+CAND-094,Gestión de cobranzas,Técnica,Intermedio,Experiencia
+CAND-094,Pago a proveedores y cuentas por pagar,Técnica,Intermedio,Experiencia
+CAND-094,Control de cuentas corrientes y antigüedad de saldos,Técnica,Intermedio,Experiencia
+CAND-094,Arqueo y supervisión de caja,Técnica,Avanzado,Experiencia
+CAND-094,Emisión de facturas y recibos,Técnica,Intermedio,Experiencia
+CAND-094,Control de stock e inventario,Técnica,Básico,Experiencia
+CAND-094,Elaboración de reportes de gestión,Técnica,Intermedio,Experiencia
+CAND-094,SAP HANA,Digital,ND,Autodeclarada
+CAND-094,Microsoft Excel,Digital,ND,Autodeclarada
+CAND-094,Microsoft Word y PowerPoint,Digital,ND,Autodeclarada
+CAND-094,Atención al cliente,Transversal,Avanzado,Experiencia
+CAND-094,Liderazgo,Transversal,Básico,Curso
+CAND-095,Gestión de presupuestos y control de gastos,Técnica,Avanzado,Experiencia
+CAND-095,Coordinación de mantenimiento preventivo y correctivo,Técnica,Avanzado,Experiencia
+CAND-095,Gestión de proveedores,Técnica,Avanzado,Experiencia
+CAND-095,Verificación y pago de facturas,Técnica,Avanzado,Experiencia
+CAND-095,Conciliaciones bancarias y de rubros transitorios,Técnica,Intermedio,Experiencia
+CAND-095,Ajustes contables,Técnica,Intermedio,Título
+CAND-095,Gestión de activos fijos y bienes de uso,Técnica,Intermedio,Experiencia
+CAND-095,Administración de caja chica,Técnica,Intermedio,Experiencia
+CAND-095,Optimización de procesos administrativos,Técnica,Intermedio,Experiencia
+CAND-095,Gestión documental y archivo,Técnica,Intermedio,Experiencia
+CAND-095,"Microsoft Office 365 (Excel, Word)",Digital,ND,Curso
+CAND-095,Trabajo bajo presión,Transversal,ND,Autodeclarada
+CAND-095,Trabajo en equipo,Transversal,ND,Autodeclarada
+CAND-096,Modelado de procesos BPMN,Técnica,Avanzado,Experiencia
+CAND-096,"Elaboración de políticas, procedimientos y manuales de funciones",Técnica,Avanzado,Experiencia
+CAND-096,Diseño de estructura organizacional,Técnica,Intermedio,Curso
+CAND-096,Gestión del cambio,Transversal,Intermedio,Experiencia
+CAND-096,Control interno e identificación de riesgos,Técnica,Intermedio,Experiencia
+CAND-096,Auditoría PCI DSS (soporte),Técnica,Básico,Experiencia
+CAND-096,Auditoría externa,Técnica,Intermedio,Experiencia
+CAND-096,"Liquidación y control de impuestos (IVA, IRE, retenciones)",Técnica,Intermedio,Experiencia
+CAND-096,Conciliación bancaria,Técnica,Intermedio,Experiencia
+CAND-096,Conciliación de transacciones con tarjetas,Técnica,Intermedio,Experiencia
+CAND-096,Indicadores de mejora continua,Técnica,Intermedio,Experiencia
+CAND-096,Facilitación de talleres,Transversal,Intermedio,Experiencia
+CAND-096,Microsoft Office,Digital,Avanzado,Autodeclarada
+CAND-096,Trabajo bajo presión,Transversal,ND,Autodeclarada
+CAND-097,Diseño y coordinación de programas de capacitación,Técnica,Avanzado,Experiencia
+CAND-097,Onboarding e inducción de personal,Técnica,Avanzado,Experiencia
+CAND-097,Desarrollo organizacional,Técnica,Intermedio,Título
+CAND-097,Gestión en tiempo real (GTR) y workforce management,Técnica,Avanzado,Experiencia
+CAND-097,Forecast y planning de contact center,Técnica,Intermedio,Experiencia
+CAND-097,Estándares COPC,Técnica,Intermedio,Experiencia
+CAND-097,Reporting y análisis de métricas,Técnica,Avanzado,Experiencia
+CAND-097,Genesys Cloud,Digital,Intermedio,Experiencia
+CAND-097,Salesforce y Zendesk,Digital,Intermedio,Experiencia
+CAND-097,Google Workspace y Apps Script,Digital,Intermedio,Autodeclarada
+CAND-097,"Herramientas de e-learning (Genially, Kahoot, Canva)",Digital,Intermedio,Autodeclarada
+CAND-097,Liderazgo de equipos,Transversal,Avanzado,Experiencia
+CAND-097,Oratoria,Certificación,Avanzado,Curso
+CAND-097,"Seguridad y salud ocupacional (primeros auxilios, brigada)",Certificación,Básico,Curso
+CAND-098,ISO 9001,Certificación,Avanzado,Curso
+CAND-098,ISO/IEC 27001,Certificación,Avanzado,Experiencia
+CAND-098,ISO 37001 (antisoborno),Certificación,Intermedio,Experiencia
+CAND-098,ISO 37301 (compliance),Certificación,Intermedio,Experiencia
+CAND-098,Auditoría interna de sistemas de gestión,Técnica,Avanzado,Curso
+CAND-098,Reingeniería y mejora de procesos,Técnica,Avanzado,Título
+CAND-098,Gestión de riesgos operativos y de cumplimiento,Técnica,Intermedio,Experiencia
+CAND-098,"Gestión documental (manuales, políticas, procedimientos)",Técnica,Avanzado,Experiencia
+CAND-098,Indicadores de gestión,Técnica,Avanzado,Experiencia
+CAND-098,Experiencia al cliente (CX),Técnica,Intermedio,Experiencia
+CAND-098,Buenas prácticas de manufactura (BPM/BPL),Técnica,Intermedio,Curso
+CAND-098,Planificación de la producción,Técnica,Intermedio,Experiencia
+CAND-098,Planificación estratégica,Técnica,Intermedio,Curso
+CAND-098,Liderazgo de equipos,Transversal,Avanzado,Experiencia
+CAND-099,Análisis de variaciones de estados financieros,Técnica,Intermedio,Experiencia
+CAND-099,Modelación financiera,Técnica,Intermedio,Experiencia
+CAND-099,Elaboración de presupuestos,Técnica,Intermedio,Experiencia
+CAND-099,Estructuración de emisiones en mercado de capitales,Técnica,Básico,Experiencia
+CAND-099,Valuación de bonos y análisis de spreads,Técnica,Básico,Experiencia
+CAND-099,Finanzas sostenibles (ESG),Técnica,Básico,Experiencia
+CAND-099,Due diligence,Técnica,Básico,Experiencia
+CAND-099,Google Looker Studio,Digital,Intermedio,Experiencia
+CAND-099,Excel,Digital,Avanzado,Experiencia
+CAND-099,Bloomberg Terminal,Digital,Básico,Experiencia
+CAND-099,Microsoft Office,Digital,ND,Autodeclarada
+CAND-099,Presentaciones a inversores y directorio,Transversal,Intermedio,Experiencia
+CAND-100,Planificación y control presupuestario,Técnica,Avanzado,Experiencia
+CAND-100,Proyecciones financieras y análisis de desviaciones,Técnica,Avanzado,Experiencia
+CAND-100,Reportes gerenciales y KPIs financieros,Técnica,Avanzado,Experiencia
+CAND-100,Cuentas por cobrar (Order to Cash),Técnica,Avanzado,Experiencia
+CAND-100,Análisis de crédito y gestión de cartera vencida,Técnica,Intermedio,Experiencia
+CAND-100,Mejora de procesos (AS-IS/TO-BE),Técnica,Avanzado,Experiencia
+CAND-100,Controles internos y compliance,Técnica,Intermedio,Experiencia
+CAND-100,Análisis de P&L por sucursal y producto,Técnica,Intermedio,Experiencia
+CAND-100,Flujo de caja y análisis de costos,Técnica,Avanzado,Experiencia
+CAND-100,Power BI,Digital,Intermedio,Curso
+CAND-100,Gestión de proyectos (PMI) y Scrum,Certificación,Intermedio,Curso
+CAND-100,Gestión de calidad y procesos,Certificación,Intermedio,Curso
+CAND-100,Comercio exterior y compras,Técnica,Intermedio,Experiencia
+CAND-100,Microsoft Office y Google Workspace,Digital,ND,Autodeclarada
+CAND-100,Gestión de stakeholders internacionales,Transversal,Avanzado,Experiencia
+CAND-101,Finanzas corporativas,Técnica,Avanzado,Título
+CAND-101,Planificación y análisis financiero (FP&A),Técnica,Avanzado,Experiencia
+CAND-101,Planificación estratégica,Técnica,Avanzado,Experiencia
+CAND-101,Control de gestión y presupuestos,Técnica,Avanzado,Experiencia
+CAND-101,Modelado financiero y evaluación de inversiones (CAPEX),Técnica,Avanzado,Experiencia
+CAND-101,M&A e integración de negocios,Técnica,Avanzado,Experiencia
+CAND-101,Pricing y análisis de rentabilidad,Técnica,Avanzado,Experiencia
+CAND-101,IFRS y controles SOX,Técnica,Intermedio,Experiencia
+CAND-101,Business Intelligence y reporting ejecutivo,Técnica,Avanzado,Experiencia
+CAND-101,"KPIs, OKRs y cuadro de mando integral",Técnica,Avanzado,Experiencia
+CAND-101,Gobierno de datos,Técnica,Intermedio,Experiencia
+CAND-101,Excel avanzado,Digital,Avanzado,Autodeclarada
+CAND-101,Power BI,Digital,ND,Autodeclarada
+CAND-101,Liderazgo de equipos,Transversal,Avanzado,Experiencia
+CAND-103,Onboarding y debida diligencia de comercios (KYC),Técnica,Intermedio,Experiencia
+CAND-103,Validación de documentación societaria,Técnica,Intermedio,Experiencia
+CAND-103,Conciliación bancaria,Técnica,Avanzado,Experiencia
+CAND-103,Registración de asientos contables,Técnica,Intermedio,Experiencia
+CAND-103,Liquidación de IVA y RG 90,Técnica,Intermedio,Experiencia
+CAND-103,Órdenes de pago y pagos masivos por banca electrónica,Técnica,Intermedio,Experiencia
+CAND-103,Facturación y control de cuentas de clientes,Técnica,Intermedio,Experiencia
+CAND-103,Marangatu y sistema Ábaco,Digital,Intermedio,Experiencia
+CAND-103,Excel intermedio,Digital,Intermedio,Curso
+CAND-103,PLAFT/AML,Certificación,Básico,Curso
+CAND-103,Prevención de fraude,Certificación,Básico,Curso
+CAND-103,Ciberseguridad y continuidad del negocio,Certificación,Básico,Curso
+CAND-103,Atención al detalle,Transversal,ND,Autodeclarada
+CAND-103,Trabajo en equipo,Transversal,ND,Autodeclarada
+CAND-105,"Armado de carpetas de crédito (vehicular, vivienda, consumo)",Técnica,Intermedio,Experiencia
+CAND-105,Colocación de productos financieros e inversiones,Técnica,Intermedio,Experiencia
+CAND-105,Análisis de cartera de clientes,Técnica,Básico,Experiencia
+CAND-105,Atención al cliente,Transversal,Avanzado,Experiencia
+CAND-105,Trámites operativos bancarios,Técnica,Intermedio,Experiencia
+CAND-105,Gestión de cobranzas y mora,Técnica,Intermedio,Experiencia
+CAND-105,Negociación de propuestas de pago,Transversal,Intermedio,Experiencia
+CAND-105,Telecobranzas y retención,Técnica,Intermedio,Experiencia
+CAND-105,Operador de computadoras,Digital,Básico,Curso
+CAND-105,Secretariado ejecutivo,Certificación,Básico,Curso
+CAND-105,Administración de recursos humanos,Certificación,Básico,Curso
+CAND-106,Administración de cartera de clientes,Técnica,Avanzado,Experiencia
+CAND-106,Gestión y renovación de pólizas de caución,Técnica,Avanzado,Experiencia
+CAND-106,Gestión de cobranzas y recuperación de mora,Técnica,Intermedio,Experiencia
+CAND-106,Elaboración y formalización de contratos comerciales,Técnica,Intermedio,Experiencia
+CAND-106,Control de documentación legal y financiera,Técnica,Intermedio,Experiencia
+CAND-106,Validación de depósitos y control de saldos,Técnica,Intermedio,Experiencia
+CAND-106,Visitas comerciales y captación de clientes,Técnica,Intermedio,Experiencia
+CAND-106,Negociación,Transversal,ND,Experiencia
+CAND-106,Atención al cliente,Transversal,Avanzado,Experiencia
+CAND-106,Microsoft Excel,Digital,ND,Autodeclarada
+CAND-106,Liderazgo,Transversal,ND,Experiencia
+CAND-107,"Liquidación de IVA, IRE e IRP",Técnica,Avanzado,Experiencia
+CAND-107,Registro e imputación de comprobantes,Técnica,Avanzado,Experiencia
+CAND-107,Asientos contables y retenciones,Técnica,Intermedio,Experiencia
+CAND-107,Control de facturación electrónica,Técnica,Intermedio,Experiencia
+CAND-107,Pago a proveedores y operaciones bancarias,Técnica,Intermedio,Experiencia
+CAND-107,Gestión de cobranzas y facturación,Técnica,Intermedio,Experiencia
+CAND-107,Control de caja chica,Técnica,Intermedio,Experiencia
+CAND-107,Supervisión de digitadores,Transversal,Básico,Experiencia
+CAND-107,Marangatu y Tesaka,Digital,Avanzado,Experiencia
+CAND-107,Odoo,Digital,ND,Autodeclarada
+CAND-107,"Sistemas contables (HBS, Pegasus)",Digital,ND,Autodeclarada
+CAND-107,Paquete Office,Digital,ND,Autodeclarada
+CAND-107,Trabajo en equipo,Transversal,ND,Autodeclarada
+CAND-108,Gestión de marketplaces,Técnica,Intermedio,Experiencia
+CAND-108,Administración e integración de sellers,Técnica,Intermedio,Experiencia
+CAND-108,Optimización de catálogos y publicaciones,Técnica,Intermedio,Experiencia
+CAND-108,Control de stock y facturación de proveedores,Técnica,Intermedio,Experiencia
+CAND-108,Gestión de reclamos,Técnica,Intermedio,Experiencia
+CAND-108,Trazabilidad de envíos y logística,Técnica,Intermedio,Experiencia
+CAND-108,Documentación aduanera y comercio exterior,Técnica,Básico,Experiencia
+CAND-108,Atención al cliente omnicanal,Transversal,Avanzado,Experiencia
+CAND-108,Microsoft Excel,Digital,Intermedio,Autodeclarada
+CAND-108,Microsoft Word,Digital,Intermedio,Autodeclarada
+CAND-108,Google Workspace,Digital,ND,Autodeclarada
+CAND-109,Gestión logística y cadena de suministro,Técnica,Avanzado,Título
+CAND-109,Gestión de centros de distribución y almacenes,Técnica,Avanzado,Experiencia
+CAND-109,Gestión de inventarios,Técnica,Avanzado,Experiencia
+CAND-109,Planificación de rutas y distribución,Técnica,Avanzado,Experiencia
+CAND-109,Gestión de indicadores (KPI),Técnica,Avanzado,Experiencia
+CAND-109,Gestión de presupuestos y costos operativos,Técnica,Intermedio,Experiencia
+CAND-109,"Mejora continua (5S, FIFO)",Técnica,Avanzado,Experiencia
+CAND-109,SAP ERP,Digital,ND,Autodeclarada
+CAND-109,WMS/TMS,Digital,ND,Autodeclarada
+CAND-109,Salesforce,Digital,ND,Autodeclarada
+CAND-109,Zendesk,Digital,ND,Autodeclarada
+CAND-109,Jira,Digital,ND,Autodeclarada
+CAND-109,Liderazgo de equipos,Transversal,Avanzado,Experiencia
+CAND-109,Gestión de riesgos operativos,Técnica,Intermedio,Experiencia
+CAND-109,Atención al cliente,Transversal,Intermedio,Experiencia
+CAND-110,Power BI,Digital,Avanzado,Experiencia
+CAND-110,AWS QuickSight,Digital,Intermedio,Experiencia
+CAND-110,SQL,Digital,ND,Autodeclarada
+CAND-110,Jira (administración),Digital,Avanzado,Experiencia
+CAND-110,Excel avanzado,Digital,Avanzado,Autodeclarada
+CAND-110,SAP,Digital,ND,Autodeclarada
+CAND-110,Dynamics CRM,Digital,ND,Autodeclarada
+CAND-110,QuickBooks,Digital,ND,Autodeclarada
+CAND-110,Business Intelligence y reportería ejecutiva,Técnica,Avanzado,Experiencia
+CAND-110,Automatización de procesos,Técnica,Intermedio,Experiencia
+CAND-110,Mejora continua de procesos,Técnica,Intermedio,Experiencia
+CAND-110,Elaboración de procedimientos y políticas,Técnica,Intermedio,Experiencia
+CAND-110,Control de gastos y presupuesto,Técnica,Intermedio,Experiencia
+CAND-110,Coordinación de equipos,Transversal,Intermedio,Experiencia
+CAND-110,Comercio exterior e importaciones,Técnica,Intermedio,Experiencia
+CAND-111,Gestión de proyectos,Técnica,Avanzado,Experiencia
+CAND-111,"Monitoreo y evaluación (marco lógico, indicadores)",Técnica,Avanzado,Experiencia
+CAND-111,Formulación de proyectos para financiamiento,Técnica,Avanzado,Experiencia
+CAND-111,Gestión de portafolio,Técnica,Intermedio,Experiencia
+CAND-111,Planificación estratégica,Técnica,Avanzado,Experiencia
+CAND-111,Análisis de datos y elaboración de reportes,Técnica,Intermedio,Experiencia
+CAND-111,Design Thinking,Técnica,ND,Experiencia
+CAND-111,Innovación abierta y aceleración de startups,Técnica,Intermedio,Experiencia
+CAND-111,Jira,Digital,ND,Autodeclarada
+CAND-111,Microsoft Project,Digital,ND,Autodeclarada
+CAND-111,Herramientas de IA generativa,Digital,ND,Autodeclarada
+CAND-111,"Herramientas colaborativas (Trello, Miro, Notion, Slack)",Digital,ND,Autodeclarada
+CAND-111,Mentoría de emprendimientos,Transversal,Avanzado,Curso
+CAND-111,Economía circular,Certificación,ND,Curso
+CAND-111,Compliance,Certificación,ND,Curso
+CAND-112,Gestión de proyectos,Técnica,Intermedio,Experiencia
+CAND-112,Gestión de portafolio de startups,Técnica,Intermedio,Experiencia
+CAND-112,Gestión de presupuesto,Técnica,Intermedio,Experiencia
+CAND-112,Monitoreo de KPIs,Técnica,Intermedio,Experiencia
+CAND-112,"Evaluación de viabilidad técnica, financiera y comercial",Técnica,Intermedio,Experiencia
+CAND-112,Incubación de startups y modelos de negocio,Técnica,Intermedio,Experiencia
+CAND-112,Gestión de stakeholders,Transversal,Intermedio,Experiencia
+CAND-112,Google Workspace y Apps Script,Digital,ND,Experiencia
+CAND-112,Herramientas de IA,Digital,ND,Curso
+CAND-112,Análisis estadístico de datos,Técnica,Intermedio,Experiencia
+CAND-112,Organización de eventos,Transversal,Intermedio,Experiencia
+CAND-112,Liderazgo de equipos,Transversal,Intermedio,Experiencia
+CAND-112,Pitch y storytelling,Transversal,ND,Curso
+CAND-112,Transferencia tecnológica,Técnica,Básico,Curso
+CAND-112,Advanced Project Management and Leadership,Certificación,ND,Curso
+CAND-113,Derecho societario y secretaría corporativa,Técnica,Avanzado,Experiencia
+CAND-113,Gobierno corporativo en entidades reguladas,Técnica,Avanzado,Experiencia
+CAND-113,Cumplimiento normativo y gestión ante entes reguladores,Técnica,Intermedio,Experiencia
+CAND-113,Redacción y revisión de contratos,Técnica,Intermedio,Experiencia
+CAND-113,Redacción de actas de Directorio y Asamblea,Técnica,Avanzado,Experiencia
+CAND-113,Libros societarios y Registro de Accionistas,Técnica,Avanzado,Experiencia
+CAND-113,Gestión de garantías reales y seguros,Técnica,Intermedio,Experiencia
+CAND-113,Atención a accionistas,Transversal,Intermedio,Experiencia
+CAND-113,Microsoft Office,Digital,Intermedio,Autodeclarada
+CAND-113,Organización y cumplimiento de plazos,Transversal,ND,Autodeclarada
+CAND-113,Trabajo en equipo,Transversal,ND,Autodeclarada
+CAND-113,Atención al detalle,Transversal,ND,Autodeclarada
+CAND-114,Gestión de tráfico en tiempo real (GTR/WFM),Técnica,Intermedio,Experiencia
+CAND-114,Dimensionamiento de dotación operativa,Técnica,Intermedio,Experiencia
+CAND-114,Análisis de productividad y KPIs de atención,Técnica,Intermedio,Experiencia
+CAND-114,Supervisión de canales digitales,Técnica,Intermedio,Experiencia
+CAND-114,Control de calidad de atención y tiempos de respuesta,Técnica,Intermedio,Experiencia
+CAND-114,"Atención al cliente multicanal (chat, mail, llamadas)",Transversal,Avanzado,Experiencia
+CAND-114,Gestión de reclamos,Transversal,Intermedio,Experiencia
+CAND-115,ISO 9001:2015 (implementación y mantenimiento),Técnica,Avanzado,Experiencia
+CAND-115,Auditoría interna ISO 9001 / ISO 14001,Certificación,Avanzado,Curso
+CAND-115,ISO 14001 (gestión ambiental),Técnica,Intermedio,Curso
+CAND-115,ISO 45001 (seguridad y salud ocupacional),Técnica,Básico,Curso
+CAND-115,Auditor Código IGS,Certificación,ND,Curso
+CAND-115,Gestión de calidad,Técnica,Avanzado,Título
+CAND-115,Control documental y procedimientos,Técnica,Avanzado,Experiencia
+CAND-115,Análisis de causa raíz y acciones correctivas,Técnica,Avanzado,Experiencia
+CAND-115,KPI y tableros de seguimiento,Técnica,Intermedio,Experiencia
+CAND-115,Cumplimiento regulatorio ambiental,Técnica,Intermedio,Experiencia
+CAND-115,"Registros y habilitaciones ante entes reguladores (DNVS, MIC, MADES)",Técnica,Intermedio,Experiencia
+CAND-115,Gestión de reclamos,Transversal,Intermedio,Experiencia
+CAND-115,Excel avanzado,Digital,Avanzado,Curso
+CAND-115,Mejora continua,Técnica,Avanzado,Experiencia
+CAND-115,Liderazgo y comunicación efectiva,Transversal,ND,Autodeclarada
+CAND-116,"Java (Spring, Java EE)",Técnica,Avanzado,Experiencia
+CAND-116,Node.js / NestJS,Técnica,Avanzado,Experiencia
+CAND-116,TypeScript / JavaScript,Técnica,Avanzado,Experiencia
+CAND-116,Angular,Técnica,Intermedio,Experiencia
+CAND-116,React.js,Técnica,Intermedio,Experiencia
+CAND-116,APIs REST,Técnica,Avanzado,Experiencia
+CAND-116,SQL / PostgreSQL,Técnica,Intermedio,Experiencia
+CAND-116,MongoDB y Redis,Técnica,ND,Autodeclarada
+CAND-116,"AWS (EKS, Lambda)",Digital,Intermedio,Experiencia
+CAND-116,Docker y Kubernetes,Técnica,Intermedio,Experiencia
+CAND-116,Terraform (infraestructura como código),Técnica,Intermedio,Experiencia
+CAND-116,"CI/CD (GitHub Actions, GitLab, Jenkins)",Técnica,Intermedio,Experiencia
+CAND-116,Pruebas unitarias y de integración (Jest),Técnica,Intermedio,Experiencia
+CAND-116,Desarrollo seguro (OWASP API Top 10),Certificación,Básico,Curso
+CAND-116,PLAFT/AML,Certificación,Básico,Curso
+CAND-117,Oracle Database,Técnica,Avanzado,Experiencia
+CAND-117,SQL Server,Técnica,Avanzado,Experiencia
+CAND-117,"Alta disponibilidad y contingencia (Data Guard, RAC)",Técnica,Avanzado,Experiencia
+CAND-117,"Respaldo y recuperación de datos (RMAN, Data Pump)",Técnica,Avanzado,Experiencia
+CAND-117,Performance tuning SQL,Técnica,Avanzado,Experiencia
+CAND-117,Replicación y migración de bases de datos,Técnica,Avanzado,Experiencia
+CAND-117,Seguridad de bases de datos,Técnica,Intermedio,Experiencia
+CAND-117,Mantenimiento de core bancario,Técnica,Intermedio,Experiencia
+CAND-117,Automatización de tareas,Técnica,ND,Autodeclarada
+CAND-117,Planificación y administración de proyectos,Transversal,ND,Autodeclarada
+CAND-117,Resolución de problemas,Transversal,ND,Autodeclarada
+CAND-117,Comunicación,Transversal,ND,Autodeclarada
+CAND-118,JavaScript / Node.js,Técnica,Intermedio,Experiencia
+CAND-118,Next.js,Técnica,Intermedio,Experiencia
+CAND-118,GeneXus,Técnica,Intermedio,Experiencia
+CAND-118,"SQL (SQL Server, MySQL)",Técnica,Intermedio,Experiencia
+CAND-118,Docker,Técnica,Intermedio,Experiencia
+CAND-118,Administración de servidores Linux,Técnica,Intermedio,Experiencia
+CAND-118,Pruebas de APIs (Postman),Digital,Intermedio,Experiencia
+CAND-118,Migración de bases de datos,Técnica,Básico,Experiencia
+CAND-118,Análisis y desarrollo de sistemas bancarios,Técnica,Intermedio,Experiencia
+CAND-118,Soporte técnico y mantenimiento de redes,Técnica,Intermedio,Experiencia
+CAND-118,Cableado estructurado UTP,Técnica,ND,Experiencia
+CAND-118,Microsoft Office y Visio,Digital,ND,Autodeclarada
+CAND-119,Investigación cuantitativa y cualitativa,Técnica,Avanzado,Experiencia
+CAND-119,Análisis estadístico de datos,Técnica,Avanzado,Curso
+CAND-119,STATA,Digital,ND,Autodeclarada
+CAND-119,R,Digital,ND,Autodeclarada
+CAND-119,IBM SPSS,Digital,ND,Autodeclarada
+CAND-119,Power BI,Digital,Intermedio,Curso
+CAND-119,Atlas.ti / NVivo (análisis cualitativo),Digital,ND,Autodeclarada
+CAND-119,Metodologías participativas y talleres de co-creación,Técnica,Avanzado,Experiencia
+CAND-119,Gestión de proyectos,Técnica,Intermedio,Experiencia
+CAND-119,Presupuestación y ejecución presupuestaria,Técnica,Intermedio,Experiencia
+CAND-119,QuickBooks,Digital,Intermedio,Experiencia
+CAND-119,SAP Business One,Digital,ND,Autodeclarada
+CAND-119,Elaboración de informes y dashboards,Técnica,Intermedio,Experiencia
+CAND-119,Formulación y evaluación de proyectos,Técnica,ND,Curso
+CAND-120,Gestión de compras internacionales y locales,Técnica,Avanzado,Experiencia
+CAND-120,Comercio exterior e importaciones,Técnica,Avanzado,Experiencia
+CAND-120,Negociación con proveedores internacionales,Transversal,Avanzado,Experiencia
+CAND-120,Coordinación logística y seguros de transporte,Técnica,Avanzado,Experiencia
+CAND-120,"Normativa de importación y registros regulatorios (DINAVISA, MIC, SENAVE, INTN)",Técnica,Avanzado,Experiencia
+CAND-120,Cotizaciones y licitaciones,Técnica,Intermedio,Experiencia
+CAND-120,Costeo de despacho de importaciones,Técnica,Intermedio,Curso
+CAND-120,Cartas de crédito (UCP 600),Certificación,ND,Curso
+CAND-120,SAP Business One,Digital,Intermedio,Experiencia
+CAND-120,Excel avanzado,Digital,Avanzado,Autodeclarada
+CAND-120,Auditoría interna de importaciones,Técnica,Intermedio,Experiencia
+CAND-120,Gestión de reclamos por siniestros,Técnica,Intermedio,Experiencia
+CAND-120,Liderazgo y organización,Transversal,ND,Autodeclarada
+CAND-121,Back office de mercado de capitales,Técnica,Avanzado,Experiencia
+CAND-121,Liquidación y conciliación de operaciones bursátiles,Técnica,Avanzado,Experiencia
+CAND-121,Custodia y vencimientos de valores,Técnica,Avanzado,Experiencia
+CAND-121,Normativa BCP y Superintendencia de Valores,Técnica,Intermedio,Experiencia
+CAND-121,Mercado de valores,Certificación,Avanzado,Curso
+CAND-121,Derivados financieros,Certificación,Intermedio,Curso
+CAND-121,Gestión de riesgos financieros,Técnica,Intermedio,Curso
+CAND-121,PLAFT/AML,Certificación,Básico,Curso
+CAND-121,Control interno y trazabilidad documental,Técnica,Intermedio,Experiencia
+CAND-121,Análisis de capacidad operativa,Técnica,Intermedio,Experiencia
+CAND-121,"Plataformas bursátiles (Brokerware, CAVAPY/Montran, SIVCloud)",Digital,Avanzado,Experiencia
+CAND-121,Salesforce,Digital,ND,Autodeclarada
+CAND-121,Jira,Digital,ND,Autodeclarada
+CAND-121,Liderazgo de equipos,Transversal,Avanzado,Experiencia
+CAND-121,Coordinación interdepartamental,Transversal,Avanzado,Experiencia
+CAND-122,Power BI,Digital,Intermedio,Curso
+CAND-122,SQL,Digital,ND,Autodeclarada
+CAND-122,Looker Studio,Digital,Intermedio,Experiencia
+CAND-122,Excel y Google Workspace,Digital,Intermedio,Experiencia
+CAND-122,Dashboards y reportes ejecutivos,Técnica,Intermedio,Experiencia
+CAND-122,"Gestión de indicadores CX (NPS, CSAT, FCR)",Técnica,Avanzado,Experiencia
+CAND-122,Gestión de KPIs operativos de contact center,Técnica,Avanzado,Experiencia
+CAND-122,Atención al cliente,Transversal,Avanzado,Experiencia
+CAND-122,Gestión de reclamos y escalamientos,Técnica,Avanzado,Experiencia
+CAND-122,Mejora continua de procesos,Técnica,Intermedio,Experiencia
+CAND-122,Liderazgo y coaching de equipos,Transversal,Avanzado,Experiencia
+CAND-122,Marketing digital,Técnica,Básico,Curso
+CAND-123,Gestión logística y de operaciones,Técnica,Avanzado,Experiencia
+CAND-123,Gestión de proveedores tercerizados y SLAs,Técnica,Avanzado,Experiencia
+CAND-123,Gestión de inventarios,Técnica,Intermedio,Experiencia
+CAND-123,Planificación de rutas y zonas,Técnica,Intermedio,Experiencia
+CAND-123,Presupuesto anual y facturación interna,Técnica,Intermedio,Experiencia
+CAND-123,Automatización de procesos y reportes,Técnica,Intermedio,Experiencia
+CAND-123,Excel avanzado,Digital,Avanzado,Autodeclarada
+CAND-123,Google Sheets avanzado,Digital,Avanzado,Autodeclarada
+CAND-123,SQL,Digital,Básico,Autodeclarada
+CAND-123,Looker Studio,Digital,Básico,Autodeclarada
+CAND-123,Tableau,Digital,Básico,Autodeclarada
+CAND-123,Salesforce,Digital,ND,Autodeclarada
+CAND-123,Negociación con proveedores,Transversal,Avanzado,Autodeclarada
+CAND-123,Liderazgo de equipos,Transversal,Intermedio,Experiencia
+CAND-123,Atención al cliente,Transversal,Intermedio,Experiencia
+CAND-124,Análisis de crédito,Técnica,Avanzado,Experiencia
+CAND-124,Gestión de riesgo crediticio,Técnica,Avanzado,Experiencia
+CAND-124,Dirección de sucursales bancarias,Técnica,Avanzado,Experiencia
+CAND-124,"Operaciones bancarias (tesorería, cajas, arqueos)",Técnica,Avanzado,Experiencia
+CAND-124,PLAFT/AML,Técnica,Intermedio,Experiencia
+CAND-124,Reingeniería y optimización de procesos,Técnica,Avanzado,Experiencia
+CAND-124,Gestión de SLA y KPIs,Técnica,Intermedio,Experiencia
+CAND-124,Planes de contingencia operativa,Técnica,Intermedio,Experiencia
+CAND-124,Gestión de cartera y mora,Técnica,Intermedio,Experiencia
+CAND-124,Conciliación contable,Técnica,Intermedio,Experiencia
+CAND-124,Contabilidad,Técnica,ND,Título
+CAND-124,Venta de productos financieros,Técnica,Intermedio,Experiencia
+CAND-124,Liderazgo de equipos,Transversal,Avanzado,Experiencia
+CAND-125,Key Account Management,Técnica,Avanzado,Experiencia
+CAND-125,Negociación comercial,Transversal,Avanzado,Experiencia
+CAND-125,Fidelización de clientes B2B,Técnica,Avanzado,Experiencia
+CAND-125,Desarrollo comercial y cierre de acuerdos,Técnica,Intermedio,Experiencia
+CAND-125,Gestión de KPIs,Técnica,Intermedio,Experiencia
+CAND-125,Mejora continua,Técnica,Intermedio,Experiencia
+CAND-125,Coordinación de flota logística,Técnica,Intermedio,Experiencia
+CAND-125,Liderazgo de equipos,Transversal,Intermedio,Experiencia
+CAND-125,Atención al cliente,Transversal,Avanzado,Experiencia
+CAND-125,Operaciones de caja,Técnica,Intermedio,Experiencia
+CAND-125,Resolución de problemas,Transversal,ND,Autodeclarada
+CAND-126,Estrategia comercial B2B / B2C,Técnica,Avanzado,Experiencia
+CAND-126,Key Account Management,Técnica,Avanzado,Experiencia
+CAND-126,Negociación de patrocinios,Técnica,Avanzado,Experiencia
+CAND-126,Comercialización de eventos,Técnica,Avanzado,Experiencia
+CAND-126,Proyección de ventas (forecasting),Técnica,Intermedio,Experiencia
+CAND-126,Análisis de rentabilidad y control presupuestario,Técnica,Intermedio,Experiencia
+CAND-126,Gestión de marcas y marketing BTL,Técnica,Intermedio,Experiencia
+CAND-126,Gestión de canal moderno (JBP),Técnica,Intermedio,Experiencia
+CAND-126,SAP,Digital,ND,Autodeclarada
+CAND-126,CRM (Salesforce / HubSpot),Digital,ND,Autodeclarada
+CAND-126,Power BI,Digital,ND,Autodeclarada
+CAND-126,Excel avanzado,Digital,Avanzado,Autodeclarada
+CAND-126,Liderazgo de equipos comerciales,Transversal,Avanzado,Experiencia
+CAND-126,Operaciones bancarias internacionales,Técnica,Intermedio,Experiencia
+CAND-127,Modelado de procesos AS-IS / TO-BE (BPMN),Técnica,Avanzado,Experiencia
+CAND-127,Lean Six Sigma (DMAIC),Técnica,Avanzado,Experiencia
+CAND-127,Norma COPC – Gestión de equipos,Certificación,Avanzado,Curso
+CAND-127,Workforce Management (COPC),Certificación,ND,Curso
+CAND-127,Scrum / Kanban,Técnica,Intermedio,Autodeclarada
+CAND-127,PMO y gestión de proyectos,Técnica,Avanzado,Experiencia
+CAND-127,"Gestión de KPIs CX (CSAT, NPS, CES, AHT)",Técnica,Avanzado,Experiencia
+CAND-127,SQL,Digital,ND,Autodeclarada
+CAND-127,R,Digital,ND,Autodeclarada
+CAND-127,Tableau,Digital,ND,Autodeclarada
+CAND-127,Power BI,Certificación,Intermedio,Curso
+CAND-127,Looker,Digital,Avanzado,Experiencia
+CAND-127,Excel avanzado,Digital,Avanzado,Autodeclarada
+CAND-127,Google Data Analytics,Certificación,ND,Curso
+CAND-127,Liderazgo de equipos multidisciplinarios,Transversal,Avanzado,Experiencia
+CAND-128,Administración de personal y nómina,Técnica,Avanzado,Experiencia
+CAND-128,Legislación laboral,Técnica,Avanzado,Experiencia
+CAND-128,Relaciones laborales,Técnica,Avanzado,Experiencia
+CAND-128,Reclutamiento y selección,Técnica,Avanzado,Experiencia
+CAND-128,Desarrollo organizacional,Técnica,Avanzado,Título
+CAND-128,Compensaciones y beneficios,Técnica,Avanzado,Experiencia
+CAND-128,Evaluación de desempeño,Técnica,Intermedio,Experiencia
+CAND-128,Plan de capacitación,Técnica,Intermedio,Experiencia
+CAND-128,Clima y cultura organizacional,Técnica,Intermedio,Experiencia
+CAND-128,Indicadores de gestión de RRHH,Técnica,Intermedio,Experiencia
+CAND-128,Norma ISO 9001:2015,Técnica,Intermedio,Experiencia
+CAND-128,Power BI,Digital,ND,Autodeclarada
+CAND-128,Microsoft Office,Digital,ND,Autodeclarada
+CAND-128,Liderazgo de equipos,Transversal,Avanzado,Experiencia
+CAND-128,Negociación y resolución de conflictos,Transversal,ND,Autodeclarada
+CAND-129,Gestión de inventarios (FIFO / FEFO),Técnica,Intermedio,Experiencia
+CAND-129,Administración de depósitos,Técnica,Avanzado,Experiencia
+CAND-129,Reabastecimiento y programación de carga de repartos,Técnica,Intermedio,Experiencia
+CAND-129,Control y custodia de bienes de consumo,Técnica,Avanzado,Experiencia
+CAND-129,Análisis estadístico (SPSS),Técnica,Intermedio,Experiencia
+CAND-129,R,Digital,Básico,Curso
+CAND-129,Python,Digital,Básico,Curso
+CAND-129,Power BI,Digital,Básico,Curso
+CAND-129,QGIS y OpenStreetMap,Digital,Básico,Curso
+CAND-129,Linux,Digital,ND,Curso
+CAND-129,Reparación de computadoras,Técnica,ND,Curso
+CAND-129,Marketing en redes sociales,Digital,Básico,Curso
+CAND-130,Mejora continua,Técnica,Intermedio,Experiencia
+CAND-130,"Gestión por procesos (relevamiento, mapeo y estandarización)",Técnica,Intermedio,Experiencia
+CAND-130,Análisis de causa raíz y acciones correctivas,Técnica,Intermedio,Experiencia
+CAND-130,Gestión de riesgo operacional,Técnica,Intermedio,Experiencia
+CAND-130,Diseño de controles antifraude,Técnica,Intermedio,Experiencia
+CAND-130,Elaboración de políticas y procedimientos,Técnica,Intermedio,Experiencia
+CAND-130,Organigramas y descriptivos de cargos,Técnica,Intermedio,Experiencia
+CAND-130,Control documental,Técnica,Intermedio,Experiencia
+CAND-130,Gestión integral de riesgos,Técnica,ND,Curso
+CAND-130,"Sistemas de gestión ISO (9001, 27001, 37001, 37301)",Técnica,Básico,Curso
+CAND-130,Excel,Digital,Avanzado,Autodeclarada
+CAND-130,Power BI,Digital,ND,Curso
+CAND-130,Jira,Digital,ND,Autodeclarada
+CAND-130,Atención al cliente,Transversal,Intermedio,Experiencia
+CAND-130,Comunicación efectiva,Transversal,ND,Autodeclarada
+CAND-131,Gestión documental y archivo digital,Técnica,Intermedio,Experiencia
+CAND-131,Elaboración de informes,Técnica,Intermedio,Experiencia
+CAND-131,Encuestas de clima organizacional,Técnica,Básico,Experiencia
+CAND-131,Organización y planificación de tareas,Transversal,Intermedio,Experiencia
+CAND-131,Google Workspace,Digital,Intermedio,Experiencia
+CAND-131,Excel,Digital,ND,Experiencia
+CAND-131,Comunicación escrita e interpersonal,Transversal,ND,Título
+CAND-131,Atención al detalle,Transversal,ND,Autodeclarada
+CAND-133,Gestión de reservas y coordinación logística,Técnica,Intermedio,Experiencia
+CAND-133,Atención al cliente,Transversal,Intermedio,Experiencia
+CAND-133,Community management,Digital,Intermedio,Experiencia
+CAND-133,Marketing y apoyo comercial,Técnica,Básico,Experiencia
+CAND-133,Locución y redacción,Transversal,Intermedio,Experiencia
+CAND-133,Canva,Digital,Intermedio,Autodeclarada
+CAND-133,Excel,Digital,Intermedio,Autodeclarada
+CAND-133,Word y PowerPoint,Digital,Intermedio,Autodeclarada
+CAND-133,Salesforce,Digital,Básico,Autodeclarada
+CAND-133,Liderazgo,Transversal,ND,Autodeclarada
+CAND-134,Back office comercial,Técnica,Intermedio,Experiencia
+CAND-134,Validación y auditoría documental de clientes y comercios,Técnica,Intermedio,Experiencia
+CAND-134,Gestión de pólizas de seguros,Técnica,Básico,Experiencia
+CAND-134,Atención al cliente multicanal,Transversal,Intermedio,Experiencia
+CAND-134,Gestión de reclamos e incidencias,Técnica,Intermedio,Experiencia
+CAND-134,Cobranzas y facturación,Técnica,Básico,Experiencia
+CAND-134,Salesforce,Digital,ND,Experiencia
+CAND-134,Microsoft Office 365,Digital,ND,Autodeclarada
+CAND-134,Sistemas bancarios y software contable,Digital,ND,Autodeclarada
+CAND-134,Manejo de información confidencial,Transversal,ND,Experiencia
+CAND-135,Organización y métodos,Técnica,Avanzado,Curso
+CAND-135,Gestión de calidad,Técnica,Avanzado,Experiencia
+CAND-135,Control de calidad y verificación de políticas internas,Técnica,Avanzado,Experiencia
+CAND-135,Mejora continua,Técnica,Intermedio,Experiencia
+CAND-135,Relevamiento y mapeo de procesos (SLA/OLA),Técnica,Intermedio,Experiencia
+CAND-135,Elaboración de manuales y procedimientos,Técnica,Avanzado,Experiencia
+CAND-135,Control documental,Técnica,Avanzado,Experiencia
+CAND-135,Elaboración de informes de calidad,Técnica,Intermedio,Experiencia
+CAND-135,Salesforce (relevamiento de requisitos),Digital,Básico,Experiencia
+CAND-135,PLAFT/AML (monitoreo PEP y prensa negativa),Técnica,Básico,Experiencia
+CAND-135,Validación de antecedentes crediticios,Técnica,Intermedio,Experiencia
+CAND-135,Gerencia de procesos y transformación,Certificación,ND,Curso
+CAND-135,Trabajo en equipos multidisciplinarios,Transversal,ND,Autodeclarada
+CAND-136,SQL,Técnica,Avanzado,Curso
+CAND-136,"AWS (Athena, QuickSight)",Digital,Intermedio,Experiencia
+CAND-136,dbt / modelado de datos,Técnica,Intermedio,Experiencia
+CAND-136,Apache Airflow,Técnica,Básico,Experiencia
+CAND-136,Google Apps Script,Digital,Intermedio,Experiencia
+CAND-136,Power BI,Digital,ND,Curso
+CAND-136,Excel avanzado,Digital,Avanzado,Autodeclarada
+CAND-136,Git / GitHub,Digital,ND,Curso
+CAND-136,People Analytics,Técnica,Intermedio,Experiencia
+CAND-136,Reclutamiento y selección de personal,Técnica,Intermedio,Experiencia
+CAND-136,Segmentación de audiencias CRM (Braze),Digital,Intermedio,Experiencia
+CAND-136,Automatización de procesos,Técnica,Intermedio,Experiencia
+CAND-136,IA generativa / LLM,Certificación,Básico,Curso
+CAND-137,Redacción periodística,Técnica,Avanzado,Experiencia
+CAND-137,Redacción creativa y publicitaria,Técnica,Avanzado,Experiencia
+CAND-137,Locución y conducción radial,Técnica,Avanzado,Curso
+CAND-137,Gestión de redes sociales (community management),Digital,Avanzado,Experiencia
+CAND-137,"Creación de contenido audiovisual para redes (Reels, TikTok)",Digital,Avanzado,Experiencia
+CAND-137,Edición de audio,Digital,Intermedio,Experiencia
+CAND-137,Traducción inglés-español,Técnica,Avanzado,Experiencia
+CAND-137,Entrevistas y cobertura en vivo,Técnica,Avanzado,Experiencia
+CAND-137,Gestión de cuentas publicitarias,Técnica,Intermedio,Experiencia
+CAND-137,Periodismo económico y empresarial,Técnica,Intermedio,Autodeclarada
+CAND-137,Comunicación oral,Transversal,Avanzado,Autodeclarada
+CAND-139,SQL,Técnica,ND,Experiencia
+CAND-139,Python,Técnica,ND,Experiencia
+CAND-139,CRM (GoHighLevel),Digital,Intermedio,Experiencia
+CAND-139,Automatización y bots comerciales,Técnica,Intermedio,Experiencia
+CAND-139,Relevamiento de requerimientos / análisis funcional,Técnica,Intermedio,Experiencia
+CAND-139,Soporte técnico informático,Técnica,Intermedio,Título
+CAND-139,Producción audiovisual,Técnica,Intermedio,Experiencia
+CAND-139,Operación de cámara,Técnica,Intermedio,Experiencia
+CAND-139,"Edición de video (Adobe Premiere, CapCut)",Digital,ND,Autodeclarada
+CAND-139,Photoshop,Digital,Básico,Autodeclarada
+CAND-139,Microsoft Office,Digital,ND,Autodeclarada
+CAND-139,Diseño y programación web,Técnica,ND,Curso
+CAND-140,Product Management / estrategia de producto,Técnica,Avanzado,Experiencia
+CAND-140,Roadmapping y priorización,Técnica,Avanzado,Experiencia
+CAND-140,Product Discovery & Delivery (PDLC),Técnica,Avanzado,Experiencia
+CAND-140,Scrum,Certificación,Avanzado,Curso
+CAND-140,SQL,Técnica,Avanzado,Curso
+CAND-140,AWS Athena / QuickSight,Digital,Intermedio,Experiencia
+CAND-140,Amplitude,Digital,Intermedio,Experiencia
+CAND-140,Análisis de rentabilidad y KPIs de producto,Técnica,Avanzado,Experiencia
+CAND-140,Integraciones con Core Banking,Técnica,Intermedio,Experiencia
+CAND-140,Gestión de stakeholders,Transversal,Avanzado,Experiencia
+CAND-140,Experiencia del cliente y NPS,Técnica,Avanzado,Experiencia
+CAND-140,Mejora continua de procesos,Técnica,Avanzado,Experiencia
+CAND-140,Figma (UX/UI),Digital,Básico,Curso
+CAND-140,Linux,Digital,Avanzado,Curso
+CAND-141,Product Management / estrategia de producto,Técnica,Avanzado,Experiencia
+CAND-141,Product Discovery y UX Research,Técnica,Avanzado,Experiencia
+CAND-141,Roadmapping y gestión de backlog,Técnica,Avanzado,Experiencia
+CAND-141,Scrum,Técnica,Avanzado,Experiencia
+CAND-141,Design Thinking / Service Design,Técnica,Intermedio,Experiencia
+CAND-141,Gestión de proyectos,Certificación,Intermedio,Curso
+CAND-141,SQL,Técnica,ND,Experiencia
+CAND-141,"AWS (Athena, QuickSight, S3, Lambda)",Digital,Intermedio,Experiencia
+CAND-141,Amplitude,Digital,Intermedio,Experiencia
+CAND-141,Power BI,Digital,ND,Autodeclarada
+CAND-141,Java / Spring Boot,Técnica,Avanzado,Experiencia
+CAND-141,Python / Django,Técnica,Intermedio,Experiencia
+CAND-141,APIs REST/SOAP,Técnica,Avanzado,Experiencia
+CAND-141,Banca digital y canales digitales,Técnica,Avanzado,Experiencia
+CAND-141,Jira / Confluence / Figma,Digital,ND,Autodeclarada
+CAND-142,Product Management / ciclo de vida de producto,Técnica,Avanzado,Experiencia
+CAND-142,"Roadmap, KPIs y OKRs",Técnica,Avanzado,Experiencia
+CAND-142,Go-to-market,Técnica,Intermedio,Experiencia
+CAND-142,Metodologías ágiles,Técnica,Intermedio,Experiencia
+CAND-142,Firma digital y habilitación regulatoria,Técnica,Intermedio,Experiencia
+CAND-142,Gestión de e-commerce,Técnica,Avanzado,Experiencia
+CAND-142,Google Analytics,Digital,Intermedio,Experiencia
+CAND-142,UX/UI y pruebas A/B,Digital,Intermedio,Experiencia
+CAND-142,Publicación en App Store / Google Play,Digital,Intermedio,Experiencia
+CAND-142,Gestión de cuentas corporativas,Técnica,Avanzado,Experiencia
+CAND-142,Liderazgo de equipos,Transversal,Avanzado,Experiencia
+CAND-142,Negociación y ventas,Certificación,ND,Curso
+CAND-142,Control de calidad ISO 9000,Técnica,Básico,Experiencia
+CAND-142,Microsoft Office,Digital,ND,Autodeclarada
+CAND-143,Product Management y roadmap,Técnica,Avanzado,Experiencia
+CAND-143,Billeteras electrónicas y medios de pago,Técnica,Avanzado,Experiencia
+CAND-143,Integraciones con bancos y entidades financieras,Técnica,Avanzado,Experiencia
+CAND-143,Gestión de portafolio de proyectos / PMO,Técnica,Avanzado,Experiencia
+CAND-143,Scrum,Certificación,Avanzado,Curso
+CAND-143,Gestión de presupuesto TI,Técnica,Avanzado,Experiencia
+CAND-143,Gestión de stakeholders,Transversal,Avanzado,Experiencia
+CAND-143,Liderazgo de equipos multidisciplinarios,Transversal,Avanzado,Experiencia
+CAND-143,Java EE / Spring Boot,Técnica,Intermedio,Experiencia
+CAND-143,"Cloud (AWS, Azure) y DevOps",Digital,ND,Autodeclarada
+CAND-143,IA generativa y agéntica,Digital,Intermedio,Curso
+CAND-143,"Analítica de producto (Amplitude, Mixpanel, Power BI, Tableau)",Digital,ND,Autodeclarada
+CAND-143,Blockchain para servicios financieros,Certificación,Básico,Curso
+CAND-143,Cisco CCNA,Certificación,ND,Curso
+CAND-144,Product Management y roadmap,Técnica,Avanzado,Experiencia
+CAND-144,"Product Discovery, PRDs e historias de usuario",Técnica,Avanzado,Experiencia
+CAND-144,Investigación de usuarios / UX Research,Técnica,Avanzado,Experiencia
+CAND-144,Diseño de servicios omnicanal,Técnica,Avanzado,Experiencia
+CAND-144,Atención al cliente,Técnica,Avanzado,Experiencia
+CAND-144,"Aseguramiento de calidad de atención (CSAT, NPS)",Técnica,Avanzado,Experiencia
+CAND-144,Segmentación de clientes y análisis de datos,Técnica,Intermedio,Experiencia
+CAND-144,Gestión de equipos y coaching,Transversal,Avanzado,Experiencia
+CAND-144,Salesforce / Zendesk,Digital,ND,Curso
+CAND-144,QuickSight / Tableau,Digital,ND,Autodeclarada
+CAND-144,Excel intermedio,Digital,Intermedio,Curso
+CAND-144,Figma / Miro,Digital,ND,Autodeclarada
+CAND-144,IA aplicada a operaciones de producto,Digital,Intermedio,Experiencia
+CAND-144,Diseño y optimización de procesos,Transversal,Intermedio,Autodeclarada
+CAND-145,"Edición de video (Adobe Premiere, After Effects)",Digital,Avanzado,Experiencia
+CAND-145,Edición de audio,Técnica,Avanzado,Experiencia
+CAND-145,Producción de TV y radio,Técnica,Avanzado,Experiencia
+CAND-145,Operación de switcher y vMix,Técnica,Avanzado,Experiencia
+CAND-145,Camarografía y fotografía,Técnica,Intermedio,Experiencia
+CAND-145,"Diseño gráfico (Photoshop, Illustrator)",Digital,Básico,Autodeclarada
+CAND-145,Gestión de redes sociales,Digital,Intermedio,Experiencia
+CAND-145,Guion y redacción creativa,Técnica,Intermedio,Experiencia
+CAND-145,Marketing digital,Certificación,Básico,Curso
+CAND-145,Trabajo en equipo,Transversal,ND,Autodeclarada
+CAND-145,Resolución de problemas técnicos,Transversal,ND,Autodeclarada
+CAND-147,Gestión de proyectos de TI,Técnica,Avanzado,Experiencia
+CAND-147,Scrum / Kanban,Certificación,Avanzado,Curso
+CAND-147,ITIL 4,Certificación,Intermedio,Curso
+CAND-147,Lean Six Sigma Black Belt,Certificación,Avanzado,Curso
+CAND-147,Integraciones de medios de pago,Técnica,Intermedio,Experiencia
+CAND-147,Gestión de proveedores y SLAs,Técnica,Avanzado,Experiencia
+CAND-147,Relevamiento de requerimientos e historias de usuario,Técnica,Avanzado,Experiencia
+CAND-147,Prevención de fraude y verificación de usuarios,Técnica,Intermedio,Experiencia
+CAND-147,Diseño de procesos operativos y modelo de soporte,Técnica,Avanzado,Experiencia
+CAND-147,Jira / Azure DevOps,Digital,Intermedio,Experiencia
+CAND-147,Microsoft 365 / Active Directory / Intune,Digital,Intermedio,Experiencia
+CAND-147,Power BI,Digital,Intermedio,Experiencia
+CAND-147,Excel avanzado,Digital,Avanzado,Experiencia
+CAND-147,CRM y comunicaciones transaccionales,Digital,Intermedio,Experiencia
+CAND-147,Gestión de stakeholders,Transversal,Avanzado,Experiencia
+CAND-148,Reclutamiento y selección de personal,Técnica,Intermedio,Experiencia
+CAND-148,"Evaluación psicométrica (16PF, Beck, CAQ)",Técnica,Intermedio,Experiencia
+CAND-148,Gestión del talento humano,Técnica,Intermedio,Título
+CAND-148,Bienestar laboral y clima organizacional,Técnica,Intermedio,Experiencia
+CAND-148,Gestión documental,Técnica,Avanzado,Experiencia
+CAND-148,Acompañamiento psicosocial,Técnica,Intermedio,Curso
+CAND-148,Elaboración de informes técnicos,Técnica,Intermedio,Experiencia
+CAND-148,Atención al cliente / orientación al usuario,Transversal,Intermedio,Experiencia
+CAND-148,Gestión de bases de datos administrativas,Técnica,Intermedio,Experiencia
+CAND-148,Herramientas ofimáticas,Digital,ND,Autodeclarada
+CAND-148,Manejo confidencial de información,Transversal,ND,Autodeclarada
+CAND-148,Comunicación asertiva,Transversal,ND,Autodeclarada
+CAND-149,Secretariado y gestión de agendas,Técnica,Avanzado,Experiencia
+CAND-149,Atención al cliente,Transversal,Intermedio,Experiencia
+CAND-149,Auxiliar contable / administración de facturas,Técnica,Intermedio,Experiencia
+CAND-149,Liquidación de planillas de salarios,Técnica,Intermedio,Experiencia
+CAND-149,Caja,Técnica,Intermedio,Curso
+CAND-149,Control de inventario y stock,Técnica,Intermedio,Experiencia
+CAND-149,Logística y distribución,Técnica,Básico,Experiencia
+CAND-149,Administración de parque automotor,Técnica,Básico,Experiencia
+CAND-149,Operador de computadoras,Digital,Básico,Curso
+CAND-149,Asistencia de gerencia,Técnica,ND,Curso
+CAND-149,Impulso de ventas,Técnica,Básico,Experiencia
+CAND-150,Gestión de equipos de ingeniería y soporte,Transversal,Avanzado,Experiencia
+CAND-150,Seguridad de la información ISO 27001,Certificación,Avanzado,Curso
+CAND-150,Ciberseguridad,Certificación,Intermedio,Título
+CAND-150,PLAFT/AML,Certificación,Básico,Curso
+CAND-150,Gestión de riesgos y continuidad del negocio,Técnica,Avanzado,Experiencia
+CAND-150,Presupuesto de TI y KPIs/SLAs,Técnica,Avanzado,Experiencia
+CAND-150,Mesa de ayuda y soporte 24/7,Técnica,Avanzado,Experiencia
+CAND-150,Administración de SQL Server (DBA),Técnica,Avanzado,Experiencia
+CAND-150,Windows Server / Active Directory / redes,Técnica,Avanzado,Experiencia
+CAND-150,Salesforce,Digital,Intermedio,Experiencia
+CAND-150,Jira y gestión de proyectos de desarrollo,Digital,Intermedio,Experiencia
+CAND-150,Microsoft Dynamics CRM,Digital,Intermedio,Experiencia
+CAND-150,Mapeo y mejora de procesos,Técnica,Avanzado,Experiencia
+CAND-150,Testing QA y puesta en producción,Técnica,Intermedio,Experiencia
+CAND-151,Gestión de productos financieros (captación y colocación),Técnica,Avanzado,Experiencia
+CAND-151,Normativa BCP,Técnica,Avanzado,Experiencia
+CAND-151,Organización y métodos (O&M) / documentación de procesos,Técnica,Avanzado,Experiencia
+CAND-151,Gestión de proyectos estratégicos y regulatorios,Técnica,Avanzado,Experiencia
+CAND-151,Atención de auditorías y requerimientos regulatorios,Técnica,Avanzado,Experiencia
+CAND-151,Análisis de crédito,Técnica,Intermedio,Curso
+CAND-151,PLAFT/AML,Certificación,Intermedio,Curso
+CAND-151,Gestión de riesgo operacional,Certificación,Intermedio,Curso
+CAND-151,Implementación de CRM y gestión del cambio,Técnica,Intermedio,Experiencia
+CAND-151,Experiencia de usuario (UX),Técnica,Intermedio,Autodeclarada
+CAND-151,Herramientas de procesadoras de tarjetas,Digital,ND,Autodeclarada
+CAND-151,Microsoft Office,Digital,ND,Autodeclarada
+CAND-151,Negociación y resolución de conflictos,Transversal,ND,Autodeclarada
+CAND-151,Liderazgo de equipos,Transversal,ND,Autodeclarada
+CAND-152,Flutter / Dart (BLoC),Técnica,Avanzado,Experiencia
+CAND-152,React Native,Técnica,Avanzado,Experiencia
+CAND-152,React.js / JavaScript / TypeScript,Técnica,Avanzado,Experiencia
+CAND-152,Java,Técnica,Intermedio,Autodeclarada
+CAND-152,PostgreSQL,Técnica,Intermedio,Autodeclarada
+CAND-152,APIs REST,Técnica,Avanzado,Experiencia
+CAND-152,CI/CD,Técnica,Intermedio,Experiencia
+CAND-152,Git,Digital,ND,Autodeclarada
+CAND-152,Firebase,Digital,ND,Autodeclarada
+CAND-152,Integración de Google Pay,Técnica,Intermedio,Experiencia
+CAND-152,Scrum,Técnica,Intermedio,Experiencia
+CAND-152,Jira / Confluence,Digital,ND,Experiencia
+CAND-152,Liderazgo técnico de equipos frontend,Transversal,Intermedio,Experiencia
+CAND-153,Diseño UX/UI,Técnica,Avanzado,Experiencia
+CAND-153,Investigación de usuarios (User Research),Certificación,Intermedio,Curso
+CAND-153,Product Discovery,Técnica,Avanzado,Experiencia
+CAND-153,Prototipado de alta fidelidad,Técnica,Avanzado,Experiencia
+CAND-153,Sistemas de diseño,Técnica,Avanzado,Experiencia
+CAND-153,Figma,Digital,Avanzado,Experiencia
+CAND-153,Design Thinking,Técnica,Avanzado,Experiencia
+CAND-153,"IA aplicada al diseño (Claude Code, Figma MCP)",Digital,Intermedio,Curso
+CAND-153,Diseño de flujos de cobros y pagos (fintech),Técnica,Intermedio,Experiencia
+CAND-153,Scrum,Técnica,Intermedio,Experiencia
+CAND-153,Diseño gráfico,Técnica,Avanzado,Título
+CAND-153,Gestión de stakeholders,Transversal,Intermedio,Experiencia
+CAND-154,Gestión de proyectos de infraestructura TI (Waterfall),Técnica,Intermedio,Experiencia
+CAND-154,Gestión de incidentes y SLAs,Técnica,Intermedio,Experiencia
+CAND-154,Redes LAN/WLAN,Técnica,Intermedio,Experiencia
+CAND-154,FortiGate / firewall,Técnica,Intermedio,Curso
+CAND-154,Administración Linux (Ubuntu Server),Técnica,Intermedio,Experiencia
+CAND-154,Monitoreo con Zabbix / SNMP,Técnica,Intermedio,Experiencia
+CAND-154,Active Directory,Técnica,Básico,Autodeclarada
+CAND-154,Automatización con n8n / Odoo,Digital,Intermedio,Experiencia
+CAND-154,PostgreSQL,Técnica,Básico,Experiencia
+CAND-154,Jira (avanzado) / Confluence / Trello,Digital,Avanzado,Experiencia
+CAND-154,Soporte técnico N1/N2,Técnica,Intermedio,Experiencia
+CAND-154,Ciberseguridad,Certificación,Básico,Curso
+CAND-154,Gestión de proveedores,Transversal,Intermedio,Experiencia
+CAND-155,Prevención y detección de fraude,Técnica,Avanzado,Experiencia
+CAND-155,Reglas en motores de fraude en tiempo real,Técnica,Avanzado,Experiencia
+CAND-155,SQL,Certificación,Avanzado,Curso
+CAND-155,"Python (Pandas, NumPy)",Técnica,Avanzado,Experiencia
+CAND-155,"Machine Learning (scikit-learn, clustering)",Técnica,Intermedio,Experiencia
+CAND-155,Análisis exploratorio de datos y visualización,Técnica,Avanzado,Experiencia
+CAND-155,Tableau,Digital,ND,Autodeclarada
+CAND-155,PostgreSQL,Técnica,ND,Autodeclarada
+CAND-155,Excel / Google Sheets avanzado,Digital,Avanzado,Autodeclarada
+CAND-155,Git / GitHub,Digital,ND,Autodeclarada
+CAND-155,Data Scientist / Data Analyst Associate,Certificación,Intermedio,Curso
+CAND-155,Riesgo transaccional en tarjetas,Técnica,Intermedio,Experiencia
+CAND-156,Gestión de canales de autoservicio (ATM / TAS),Técnica,Avanzado,Experiencia
+CAND-156,Medios de pago,Técnica,Avanzado,Experiencia
+CAND-156,Gestión de SLA y KPI operativos,Técnica,Avanzado,Experiencia
+CAND-156,Gestión de proveedores,Técnica,Intermedio,Experiencia
+CAND-156,Análisis de rentabilidad y costos de canales,Técnica,Intermedio,Experiencia
+CAND-156,Logística de instalación de dispositivos,Técnica,Intermedio,Experiencia
+CAND-156,Gestión de calidad ISO 9001,Técnica,Básico,Experiencia
+CAND-156,Gestión de reclamos,Técnica,Intermedio,Experiencia
+CAND-156,Liderazgo de equipos,Transversal,Intermedio,Experiencia
+CAND-156,Mejora continua de procesos,Transversal,ND,Autodeclarada
+CAND-156,Blockchain y criptomonedas,Certificación,Básico,Curso
+CAND-157,Liquidación y pago de comisiones,Técnica,Avanzado,Experiencia
+CAND-157,Registro contable y gestión de facturas,Técnica,Intermedio,Experiencia
+CAND-157,Microsoft Dynamics (sistema contable),Digital,Intermedio,Experiencia
+CAND-157,Supervisión de equipos,Transversal,Intermedio,Experiencia
+CAND-157,Atención al cliente (banca premium),Técnica,Avanzado,Experiencia
+CAND-157,"Operaciones bancarias (cuentas, CDA, desembolsos)",Técnica,Intermedio,Experiencia
+CAND-157,Control documental y archivo,Técnica,Intermedio,Experiencia
+CAND-157,Gestión de cobranzas,Técnica,Básico,Experiencia
+CAND-157,Mejora continua de procesos administrativos,Transversal,Intermedio,Experiencia
+CAND-158,Supervisión de operaciones logísticas,Técnica,Avanzado,Experiencia
+CAND-158,Gestión de proyectos y proveedores,Técnica,Intermedio,Experiencia
+CAND-158,Seguimiento de KPI y SLA,Técnica,Avanzado,Experiencia
+CAND-158,Elaboración de reportes gerenciales,Técnica,Intermedio,Experiencia
+CAND-158,Gestión de incidencias operativas,Técnica,Intermedio,Experiencia
+CAND-158,Gestión de cartera de clientes corporativos,Técnica,Intermedio,Experiencia
+CAND-158,Negociación comercial,Transversal,Intermedio,Experiencia
+CAND-158,Gestión de cobranzas,Técnica,Básico,Experiencia
+CAND-158,Atención al cliente,Transversal,Intermedio,Experiencia
+CAND-158,Excel,Digital,ND,Autodeclarada
+CAND-158,Liderazgo y coordinación de equipos,Transversal,Intermedio,Autodeclarada
+CAND-159,"Soporte de operaciones (reversiones, devoluciones, cancelaciones)",Técnica,Intermedio,Experiencia
+CAND-159,Atención al cliente,Transversal,Intermedio,Experiencia
+CAND-159,Gestión de reclamos,Técnica,Intermedio,Experiencia
+CAND-159,Facturación,Técnica,Intermedio,Experiencia
+CAND-159,Control de inventario y stock,Técnica,Intermedio,Experiencia
+CAND-159,Control documental,Técnica,Básico,Experiencia
+CAND-159,Excel,Digital,Intermedio,Autodeclarada
+CAND-159,SAP,Digital,ND,Autodeclarada
+CAND-159,Gestión de redes sociales,Digital,Intermedio,Experiencia
+CAND-159,Trabajo en equipo,Transversal,ND,Autodeclarada
+CAND-160,"Desarrollo organizacional (organigramas, descriptivos de cargo)",Técnica,Avanzado,Experiencia
+CAND-160,"Evaluación de desempeño (objetivos, feedback, 9box)",Técnica,Avanzado,Experiencia
+CAND-160,Planes de capacitación y DNC,Técnica,Avanzado,Experiencia
+CAND-160,Plan de sucesión y cargos críticos,Técnica,Avanzado,Experiencia
+CAND-160,Onboarding y experiencia del colaborador,Técnica,Avanzado,Experiencia
+CAND-160,Clima laboral y eNPS,Técnica,Avanzado,Experiencia
+CAND-160,Auditorías ISO 9001/27001/37001/37301,Técnica,Intermedio,Experiencia
+CAND-160,Normativa BCP (auditorías regulatorias),Técnica,Básico,Experiencia
+CAND-160,Liquidación de nómina y pagos a colaboradores,Técnica,Intermedio,Experiencia
+CAND-160,Reclutamiento y selección,Técnica,Intermedio,Experiencia
+CAND-160,Automatización de procesos de RRHH,Técnica,Intermedio,Experiencia
+CAND-160,Negociación con proveedores y alianzas,Transversal,Avanzado,Experiencia
+CAND-160,Tableau / Looker,Digital,ND,Autodeclarada
+CAND-160,Excel intermedio,Digital,Intermedio,Autodeclarada
+CAND-160,Liderazgo de equipos,Transversal,Intermedio,Experiencia

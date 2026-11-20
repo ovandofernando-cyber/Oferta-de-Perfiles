@@ -27,8 +27,10 @@ Clasificaciones de referencia:
 | `licencia_conducir` | booleano | Declara licencia | `Sí`, `No`, `ND` |
 | `disponibilidad` | categoría | Si el CV lo indica | `Inmediata`, `A convenir`, `ND` |
 | `modalidad_preferida` | categoría | Si el CV lo indica | `Presencial`, `Híbrido`, `Remoto`, `ND` |
-| `perfil_asignado` | texto | Perfil de la oferta MTESS al que se asigna | `P03 – Atención al cliente y ventas` |
-| `nivel_empleabilidad` | categoría | Valoración técnica (ver documento técnico) | `Alto`, `Medio`, `Bajo` |
+| `familia_area` | texto | Carpeta de origen en Drive (ruidosa; el perfil se asigna aparte) | `ADMIN/CONTA` |
+| `ingles` | categoría | Nivel de inglés declarado | `Avanzado`, `Intermedio`, `Básico`, `No declara` |
+| `posgrado` | booleano | Tiene posgrado | `Sí`, `No` |
+| `calidad_lectura` | categoría | Calidad de la lectura del CV | `buena`, `parcial`, `ilegible` |
 
 ## 2. `experiencias.csv` (pública, anonimizada)
 
@@ -52,7 +54,20 @@ Clasificaciones de referencia:
 | `nivel` | categoría | `Básico`, `Intermedio`, `Avanzado`, `ND` |
 | `evidencia` | categoría | `Título`, `Curso`, `Experiencia`, `Autodeclarada` |
 
-## 4. `registro_privado.csv` (NO se publica)
+## 4. `asignacion_perfiles.csv` (pública, anonimizada)
+
+Generada por `scripts/asignar_perfiles.py`.
+
+| Campo | Descripción |
+|---|---|
+| `id_candidato` | Código anónimo |
+| `perfil_asignado` / `perfil_secundario` | Perfil de la oferta (P01–P14) |
+| `seniority_ajustado` | Junior, Semi senior, Senior, Gerencial/Jefatura, ND |
+| `indice_empleabilidad` | 0–100 (uso interno de priorización) |
+| `nivel_empleabilidad` | Alto, Medio, Bajo, ND |
+| `justificacion_breve` | Motivo de la asignación |
+
+## 5. `registro_privado.csv` (NO se publica)
 
 Se guarda fuera del repositorio, bajo custodia del MTESS.
 
@@ -65,11 +80,12 @@ Se guarda fuera del repositorio, bajo custodia del MTESS.
 | `direccion` | |
 | `fecha_nacimiento` | |
 | `archivo_cv` | Nombre del archivo original en Drive |
-| `consentimiento` | Si consta autorización para compartir el perfil con empresas |
+| `consentimiento` | Si consta autorización para compartir el perfil con empresas (a completar por el MTESS) |
+| `resumen_profesional` | Resumen en texto libre; se excluye de la base pública por riesgo de reidentificación |
 
 ## Reglas de anonimización
 
 1. Se eliminan nombres, cédulas, contactos, direcciones, fotos, redes sociales y referencias personales.
-2. La edad se publica solo por rango; la residencia, solo por departamento.
+2. La edad se publica solo por rango (45+ agrupado); la residencia, solo por departamento.
 3. No se publican nombres de empleadores ni de instituciones educativas pequeñas que permitan reidentificar a la persona.
 4. Si una combinación de atributos deja un grupo de menos de 3 personas en un tabulado público, se agrega en una categoría mayor.
